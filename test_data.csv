@@ -1,0 +1,101 @@
+faa_no,test_name,max_score,stages
+7ABC,Check Fuel Tank,100,check-fuel:30 refuel:35
+8TPH,Test #127190,10,stage1:20 stage2:17 stage3:42 stage4:54 stage5:85 stage6:52
+6QNJ,Test #9034,100,stage1:50 stage2:41 stage3:18 stage4:33
+2RHK,Test #461955,20,stage1:49 stage2:27 stage3:72 stage4:83 stage5:39 stage6:50
+5VHB,Test #299539,10,stage1:16 stage2:46 stage3:72 stage4:30 stage5:42
+2LRN,Test #450102,50,stage1:53
+0MTE,Test #281592,1000,stage1:65
+5MJK,Test #158316,20,stage1:32 stage2:50 stage3:88 stage4:89 stage5:21 stage6:87
+5SWO,Test #178476,500,stage1:22 stage2:52 stage3:48 stage4:61 stage5:15 stage6:84
+0NSO,Test #248385,20,stage1:87 stage2:13 stage3:22 refuel:39 stage5:50 stage6:49 stage7:78
+4EYG,Test #385290,1000,stage1:20 stage2:33 stage3:54 stage4:63 stage5:77 stage6:87
+2SMR,Test #346979,10,stage1:75 stage2:59 stage3:17 stage4:26 stage5:47 stage6:41
+5KBM,Test #351666,1000,stage1:25 stage2:23 stage3:36 stage4:59
+2ZRZ,Test #42330,500,stage1:54 stage2:23 stage3:35
+9JGQ,Test #304332,50,stage1:49 stage2:24
+8USW,Test #224879,10,stage1:35 stage2:45 refuel:79 stage4:78 stage5:25 stage6:65
+1NBZ,Test #170070,20,stage1:18 stage2:73 stage3:20 stage4:78 stage5:83 stage6:57 stage7:42 stage8:88
+2HZF,Test #286894,100,stage1:15
+4XXU,Test #69540,20,stage1:14 stage2:59 stage3:36 stage4:65 stage5:77 stage6:27 stage7:56 stage8:28
+3DJX,Test #288119,500,stage1:11
+9XEL,Test #486106,500,stage1:53
+9PAM,Test #414986,50,stage1:61 stage2:71 stage3:48 stage4:18 stage5:31 stage6:36 stage7:44 stage8:73
+4NSV,Test #362980,50,stage1:70 stage2:78 stage3:41 stage4:41 stage5:56 stage6:64 stage7:59
+7RHD,Test #53961,1000,stage1:10 stage2:37 stage3:72 stage4:32 stage5:13 refuel:70
+7WBH,Test #410577,1000,stage1:79 stage2:15 stage3:10 stage4:42 stage5:18
+2NUJ,Test #1125,10,stage1:16 stage2:37 stage3:11 stage4:56 stage5:28 stage6:69 stage7:23
+9GVH,Test #370630,50,stage1:48 refuel:52 stage3:17
+0SEL,Test #239567,500,stage1:54 stage2:75 stage3:50
+5QPY,Test #333326,50,stage1:23 stage2:79 stage3:66 stage4:90 stage5:15 stage6:67
+6MLB,Test #436856,20,stage1:81 refuel:88
+4ASR,Test #82523,100,stage1:51 stage2:14 stage3:51 stage4:19 stage5:12 stage6:37
+6POZ,Test #208372,100,stage1:36 stage2:20 stage3:74
+4WAT,Test #483098,20,stage1:40 stage2:75 stage3:17
+0ZSN,Test #159357,1000,stage1:75 stage2:30
+2SKO,Test #222126,100,stage1:84 refuel:34 stage3:39 stage4:44 stage5:85 stage6:51
+1ETM,Test #477134,20,stage1:31 stage2:90 stage3:30 stage4:19 stage5:12
+7ADY,Test #364061,1000,stage1:44 stage2:31 stage3:89 stage4:34 stage5:37 stage6:47 refuel:37 stage8:51
+8MOE,Test #220971,1000,stage1:72 stage2:80 stage3:11 stage4:58 stage5:55 stage6:52 stage7:83 stage8:21
+8IOC,Test #482013,10,stage1:52 stage2:78 stage3:36 stage4:30 stage5:63 stage6:18
+6HMX,Test #263905,20,stage1:70 stage2:52
+3UBR,Test #96419,100,stage1:27 stage2:42 stage3:27
+3RRG,Test #391426,10,stage1:86 stage2:46 stage3:31 stage4:85 stage5:22 stage6:15 stage7:40
+4EPK,Test #206931,50,stage1:82 stage2:13 stage3:75 stage4:78 stage5:20 stage6:42 stage7:79 stage8:12
+4YBD,Test #55492,1000,stage1:77 stage2:20 stage3:10 stage4:88
+8DET,Test #312341,10,stage1:31 stage2:38
+8ILF,Test #317083,50,stage1:44 stage2:71 stage3:71 stage4:30 stage5:18
+3XTQ,Test #38575,1000,stage1:14 stage2:31 stage3:28 stage4:82 stage5:20 stage6:40 stage7:25 stage8:16
+9MOD,Test #47594,10,stage1:27 stage2:35
+3NQG,Test #126560,500,stage1:37 stage2:32 stage3:86
+1WEK,Test #248156,20,stage1:84 stage2:37 stage3:49 stage4:18 stage5:69
+4WKF,Test #406047,500,stage1:43 stage2:55
+2AXC,Test #292488,1000,stage1:43 stage2:80 stage3:90 stage4:52
+8XTZ,Test #438995,1000,stage1:59 stage2:60 stage3:89 stage4:77 stage5:27
+7ZEP,Test #247428,1000,stage1:65 stage2:26 stage3:72 stage4:18 stage5:10 stage6:75 refuel:27 stage8:46
+8HXO,Test #444016,10,stage1:89 stage2:70 stage3:75 stage4:52 stage5:13 stage6:48
+8EZS,Test #144082,100,stage1:25 stage2:17 stage3:70 stage4:90 stage5:54 stage6:56
+7SCQ,Test #158834,50,stage1:14
+7ZDE,Test #353136,100,stage1:15 stage2:10 stage3:60
+2SRZ,Test #66621,50,stage1:50 stage2:11 stage3:57 stage4:30 stage5:10 stage6:79 stage7:66
+5ICO,Test #99309,50,refuel:89 stage2:60 stage3:46 stage4:34 stage5:37 stage6:58 stage7:21
+9YCT,Test #247475,20,stage1:44 stage2:11 stage3:68 stage4:78 stage5:26
+1WUG,Test #212492,500,stage1:84 stage2:26 stage3:24 stage4:32 stage5:21 stage6:60 stage7:49 stage8:56
+0IJJ,Test #462237,1000,stage1:90 stage2:59 stage3:17 stage4:21 stage5:11 stage6:28
+9LUT,Test #419886,10,stage1:72 stage2:89 stage3:23 stage4:54 stage5:29 refuel:81
+3DNW,Test #363640,50,stage1:19 stage2:19 stage3:60
+2XLZ,Test #176250,500,stage1:41 stage2:82 stage3:40 stage4:68 stage5:83
+7SMW,Test #225055,10,stage1:27 stage2:14 stage3:31 stage4:47 stage5:43 stage6:19
+3XMV,Test #174705,20,stage1:86
+1GYL,Test #245780,1000,stage1:28 stage2:60 stage3:86 stage4:18
+0LCH,Test #11567,100,stage1:51 stage2:37 stage3:62 stage4:25 stage5:19 stage6:30 stage7:27
+9QYX,Test #7311,50,stage1:32 stage2:80 stage3:83 refuel:72 stage5:22 stage6:38 stage7:14
+4ELY,Test #455876,50,stage1:21 stage2:22 stage3:76 stage4:21
+3TTB,Test #119834,10,stage1:24 stage2:31
+6XCX,Test #56034,10,stage1:69
+2IEV,Test #194640,20,stage1:60 stage2:40 stage3:43 stage4:49
+3TQJ,Test #128841,500,stage1:66 stage2:38 stage3:59 stage4:89 stage5:76 stage6:67 stage7:42 stage8:20
+4SJJ,Test #277683,500,stage1:30 stage2:38 stage3:18 stage4:22 stage5:85 stage6:29 stage7:42
+0PAY,Test #204359,50,stage1:74 stage2:80 stage3:90 stage4:37 stage5:65
+7LPM,Test #90870,20,stage1:40 stage2:45 stage3:74 stage4:63 stage5:34 stage6:67 stage7:88
+5OYD,Test #288822,20,stage1:20 stage2:24 stage3:37 stage4:12
+6UDT,Test #376904,10,stage1:35 stage2:79 stage3:13
+7IUG,Test #379451,20,stage1:23 stage2:50 stage3:55 stage4:34 stage5:39 refuel:73
+3WUN,Test #331285,50,stage1:38 stage2:42 stage3:61 stage4:27
+0ZVR,Test #410766,100,stage1:79 stage2:29 stage3:30
+5KRU,Test #372131,1000,stage1:87
+9BKT,Test #296799,100,stage1:74 stage2:44 stage3:82 stage4:14 stage5:88 stage6:86 stage7:86 stage8:89
+8SBV,Test #293033,10,stage1:32 stage2:86 stage3:10 stage4:79 stage5:16 stage6:82
+2MWF,Test #369,50,refuel:26 stage2:61 stage3:55 stage4:11 stage5:77 stage6:24 stage7:82
+9OAH,Test #477584,500,stage1:38 stage2:42 stage3:33 stage4:26
+7SIW,Test #48301,10,stage1:37 refuel:70 stage3:43 stage4:44
+2KUI,Test #346422,1000,stage1:54
+9FAD,Test #267099,50,stage1:48 stage2:63 stage3:61 stage4:55
+5OFR,Test #129599,500,stage1:44 stage2:54 stage3:53 stage4:37 stage5:38 stage6:59 stage7:80
+9RBM,Test #283374,500,stage1:76 stage2:81 stage3:70 stage4:83 stage5:18 stage6:71
+5ATE,Test #422679,1000,stage1:72
+2ZCE,Test #130635,50,refuel:70 stage2:76 stage3:33
+4TLV,Test #484967,1000,stage1:27 stage2:19 stage3:28 stage4:10
+3LIR,Test #287247,50,stage1:20 stage2:29 stage3:60 stage4:62 stage5:28
+9XYM,Test #426217,100,stage1:62 stage2:70 stage3:73 stage4:33 stage5:65
+2WVO,Test #360550,50,stage1:77 stage2:54 stage3:61 stage4:11 stage5:48 stage6:16 stage7:85

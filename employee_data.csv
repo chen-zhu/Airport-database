@@ -1,0 +1,1001 @@
+ssn,name,union_no,addr,phone,salary,job_title,exam_date,expertise,certifications
+283-78-3468,Marie Callahan,UAW0001,736 Meredith Ln,168-518-2746,107000,Technician,,Boeing-777 Airbus-A380 Boeing-767 Boeing-787,
+674-75-6749,Anna Nunez,UAW0002,882 Mountain View Rd,491-674-5091,64000,Traffic Controller,2013-06-16,,
+902-60-2098,Lauren Santiago,UAW0003,660 Windharp Dr,502-418-2460,139000,Pilot,,,Boeing-737:2019-03-25 Boeing-767:2018-02-12 Airbus-A350:2018-11-24 Boeing-787:2020-02-03
+567-07-9159,Melissa Wall,UAW0004,760 Manitou Ln,151-692-4763,82000,Technician,,Airbus-A380 Boeing-777,
+685-22-6036,Daniel Carter,UAW0005,775 Bauer Ave,376-615-0589,141000,Traffic Controller,2009-02-16,,
+787-99-2136,Kathryn Conrad,UAW0006,167 Monroe St,689-118-2961,128000,Technician,,Airbus-A320 Airbus-A350 Boeing-787,
+064-42-0116,Johnny Preston,UAW0007,851 Plaza Aleman,155-870-2600,100000,Traffic Controller,2016-04-14,,
+375-03-5185,Nancy Wright,UAW0008,353 Nipomo Dr,595-280-9871,145000,Pilot,,,Boeing-787:2020-09-17 Airbus-A320:2019-05-24 Airbus-A300:2019-08-08 Boeing-747:2017-07-14 Boeing-767:2017-03-23
+685-14-9422,Gerald Rojas,UAW0009,456 Cannon Green Dr,137-324-6169,114000,Technician,,Airbus-A320 Boeing-767,
+196-31-0063,Patricia Parks,UAW0010,501 Orizaba Ln,825-232-4640,91000,Technician,,Boeing-767 Airbus-A330,
+906-56-8783,Peter Chandler,UAW0011,382 Cortona Dr,604-469-8189,93000,Pilot,,,Boeing-787:2020-01-08 Boeing-777:2019-03-20 Airbus-A330:2017-11-09 Airbus-A320:2017-11-17
+361-18-6537,Rebecca Moran,UAW0012,703 Princeton Pl,907-643-3509,143000,Technician,,Boeing-767 Airbus-A320 Airbus-A350,
+635-71-9959,Diane Ali,UAW0013,608 Indian Hills Rd,556-017-2523,84000,Pilot,,,Boeing-767:2018-02-11 Boeing-747:2020-05-27 Airbus-A330:2018-01-21 Airbus-A350:2018-09-23 Airbus-A380:2020-09-15
+549-02-6149,Raymond Esparza,UAW0014,364 Rogue Dr,516-323-9786,75000,Traffic Controller,2010-05-25,,
+073-25-7736,Gregory Bowers,UAW0015,492 Sycamore Canyon Rd,235-907-9420,128000,Traffic Controller,2011-03-09,,
+792-21-5886,Judith Webb,UAW0016,343 Nogal Dr,252-121-3773,78000,Technician,,Airbus-A330 Boeing-787,
+744-96-1265,Billy Dixon,UAW0017,657 Encina Rd,103-902-8687,73000,Traffic Controller,2006-10-01,,
+968-75-5960,Mark Hunt,UAW0018,714 Island Oak Ln,376-626-2520,87000,Pilot,,,Boeing-747:2019-07-24 Airbus-A320:2018-09-15 Airbus-A330:2019-11-09 Boeing-777:2017-12-04 Airbus-A350:2019-12-25 Boeing-767:2020-01-24 Boeing-737:2020-10-27
+056-86-0607,Lawrence Green,UAW0019,829 Whispering Pines Dr,740-135-4265,120000,Pilot,,,Airbus-A320:2017-02-24 Boeing-747:2020-11-26 Boeing-737:2020-07-04
+599-36-1385,Jonathan Krause,UAW0020,311 Alabama Ave,439-265-4330,74000,Traffic Controller,2014-08-28,,
+081-74-2345,Henry Schneider,UAW0021,618 Via Di Campo,291-290-2909,105000,Traffic Controller,2012-11-11,,
+909-69-7634,Alice Camacho,UAW0022,635 La Gama Way,195-199-4945,97000,Traffic Controller,2004-10-09,,
+108-64-3805,Kelly Lewis,UAW0023,917 E Ocean Ave,575-154-0431,122000,Technician,,Airbus-A320 Boeing-747,
+192-48-3077,Amber Blake,UAW0024,846 Wedgewood Dr,029-731-5064,69000,Technician,,Boeing-767 Boeing-747 Airbus-A300 Airbus-A330,
+974-37-5395,Jane Ayala,UAW0025,726 Indian Way,891-404-0820,66000,Technician,,Airbus-A300 Boeing-767 Boeing-787 Boeing-777 Boeing-737,
+244-41-9381,Christian Oconnor,UAW0026,296 Alderwood Ln,808-706-5348,93000,Traffic Controller,2013-12-07,,
+800-39-2298,Joseph Winters,UAW0027,902 San Gabriel Ln,421-666-0117,121000,Pilot,,,Boeing-777:2020-12-23 Airbus-A330:2017-12-26 Boeing-767:2018-08-18 Airbus-A320:2019-09-08
+803-45-4043,Catherine Wilcox,UAW0028,364 Designated Vehicle Route 36,624-406-8332,61000,Traffic Controller,2002-02-25,,
+253-95-8644,Richard Michael,UAW0029,214 Channing Ln,660-127-0047,100000,Technician,,Boeing-747 Boeing-737,
+985-49-3886,Samuel Waller,UAW0030,546 Bell St,862-025-3605,144000,Traffic Controller,2008-02-26,,
+691-08-7897,Howard Alvarado,UAW0031,944 Las Manos Ln,978-897-3799,105000,Technician,,Airbus-A320,
+883-59-1144,Stephen Molina,UAW0032,445 Lemon Grove Ln,771-650-5369,110000,Traffic Controller,2001-03-17,,
+289-23-9555,Kathy Bryant,UAW0033,650 Avola Ave,146-023-8712,73000,Traffic Controller,2001-02-21,,
+795-49-7771,Emma Chang,UAW0034,354 Wood Mill Ln,096-132-6004,110000,Traffic Controller,2013-12-11,,
+369-47-2907,Denise Hebert,UAW0035,137 Powers Ave,744-562-0543,50000,Technician,,Airbus-A350 Boeing-737 Airbus-A330 Boeing-767,
+392-69-6919,Andrea Reilly,UAW0036,727 Terrace Dr,789-036-6748,82000,Technician,,Boeing-737,
+774-11-3964,Bryan Armstrong,UAW0037,780 E College Ave,497-262-2132,105000,Traffic Controller,2014-07-04,,
+864-10-3339,Julie Meyer,UAW0038,841 Greenwell Ave,701-154-9165,125000,Pilot,,,Airbus-A330:2017-07-16 Airbus-A350:2017-12-13 Boeing-737:2018-01-21 Airbus-A380:2017-05-11 Boeing-787:2020-05-06
+588-63-3174,Donald Roberson,UAW0039,534 Avena St,315-272-5613,94000,Technician,,Airbus-A350 Airbus-A330 Boeing-787,
+803-00-4554,Jacob Duarte,UAW0040,845 La Cima Rd,216-237-7774,112000,Pilot,,,Airbus-A330:2017-07-04 Airbus-A320:2019-09-05 Boeing-777:2020-02-12 Airbus-A350:2018-07-28 Airbus-A300:2020-06-14 Boeing-767:2020-08-07 Boeing-737:2019-10-15 Airbus-A380:2020-07-04 Boeing-787:2017-08-07
+074-46-6203,Carolyn Deleon,UAW0041,762 La Quinta Way,948-038-2180,69000,Technician,,Boeing-787,
+423-72-7502,Teresa Harper,UAW0042,462 Santa Ynez Ct,307-627-9996,64000,Pilot,,,Boeing-747:2019-05-02 Boeing-737:2018-12-02 Airbus-A320:2017-03-03 Airbus-A330:2020-07-08 Airbus-A300:2019-10-07 Boeing-767:2020-03-25 Airbus-A350:2017-10-16
+825-14-3933,Joyce Compton,UAW0043,520 Centerpointe Pkwy,457-848-8481,148000,Pilot,,,Boeing-767:2017-08-02 Airbus-A320:2017-02-07 Boeing-747:2019-07-24 Airbus-A380:2019-04-09 Airbus-A330:2020-03-08 Boeing-777:2018-12-08
+409-85-9552,David Thomas,UAW0044,633 Covington Way,665-809-5399,96000,Technician,,Airbus-A300 Airbus-A330 Boeing-747,
+765-01-7861,Charles Bernard,UAW0045,715 Honor Farm Rd,597-636-8857,100000,Pilot,,,Boeing-737:2017-02-04 Airbus-A320:2018-04-01 Airbus-A330:2020-12-08 Boeing-767:2019-03-12
+963-18-4477,Gabriel Sawyer,UAW0046,199 Lower Hyde,064-985-2884,73000,Traffic Controller,2002-01-25,,
+455-30-8094,Tyler Saunders,UAW0047,646 San Agustin,806-000-7711,118000,Traffic Controller,2000-03-03,,
+849-16-2220,Laura Mooney,UAW0048,211 Plaza Pacifica,603-015-3716,88000,Traffic Controller,2011-11-06,,
+948-10-3661,Samuel Kidd,UAW0049,154 San Federico Ave,396-612-8732,100000,Pilot,,,Boeing-777:2017-04-26 Airbus-A350:2020-03-24 Boeing-737:2017-10-06
+013-18-7468,Margaret Barber,UAW0050,377 Eileen Way,767-326-7901,101000,Traffic Controller,2009-04-22,,
+818-05-8488,Jeffrey Pugh,UAW0051,568 Loma Alta Dr,079-698-1092,139000,Pilot,,,Airbus-A350:2017-02-18 Airbus-A320:2020-09-09
+447-89-3741,Henry Shelton,UAW0052,659 Del Lago Dr,229-050-4558,94000,Pilot,,,Boeing-767:2019-11-22 Airbus-A330:2019-02-10 Boeing-737:2017-12-14 Airbus-A320:2018-04-17 Boeing-747:2017-09-26 Airbus-A350:2019-08-14 Boeing-787:2019-10-09
+274-69-4827,Melissa Mcclain,UAW0053,562 Santa Rita Cir,052-930-6193,101000,Technician,,Boeing-767 Airbus-A350 Boeing-737 Airbus-A320,
+649-19-7515,Janet Porter,UAW0054,490 Gillespie St,498-769-3625,73000,Traffic Controller,2006-04-05,,
+688-69-6417,Mildred Le,UAW0055,320 Diana Rd,845-641-8473,119000,Technician,,Boeing-787 Boeing-777 Airbus-A380,
+111-59-2661,Brenda Mercer,UAW0056,730 W Pear Ave,698-134-1941,47000,Traffic Controller,2012-05-03,,
+982-55-0707,Judy Ibarra,UAW0057,457 La Cumbre Plaza Lane,092-917-7769,142000,Technician,,Airbus-A380 Boeing-747 Boeing-767 Boeing-777,
+280-59-3115,Brenda Mccormick,UAW0058,377 High Meadow Rd,851-638-9217,91000,Traffic Controller,2016-01-28,,
+057-82-6383,Christopher Lamb,UAW0059,464 Oak View Dr,929-616-6821,62000,Technician,,Airbus-A330 Boeing-777 Boeing-737 Boeing-747,
+342-57-4157,Rachel Russo,UAW0060,164 Casey Ave,842-751-0261,107000,Traffic Controller,2015-06-06,,
+833-27-8204,Kelly Hurley,UAW0061,759 Violet Ln,767-869-8266,57000,Pilot,,,Airbus-A350:2020-11-15 Airbus-A330:2020-03-02 Boeing-737:2017-10-19 Boeing-787:2018-05-08
+110-70-1350,Ruth Mendoza,UAW0062,978 Cachuma Village,939-649-2859,115000,Technician,,Airbus-A320,
+172-81-2624,Ruth Hart,UAW0063,300 Sunrise Hill Ln,332-855-8692,75000,Technician,,Airbus-A300,
+786-56-4794,Andrea Perry,UAW0064,571 San Como Way,038-350-3740,139000,Pilot,,,Airbus-A380:2019-03-22 Boeing-737:2020-03-20 Boeing-747:2019-07-05 Boeing-767:2018-07-17 Boeing-787:2017-09-13
+300-91-3082,Donald Stuart,UAW0065,860 Andante Rd,017-510-5897,104000,Technician,,Airbus-A320,
+670-96-7927,Jeffrey Crawford,UAW0066,663 Marilyn Way,838-146-9102,45000,Technician,,Airbus-A330 Boeing-747,
+433-69-0761,Joan Hines,UAW0067,146 Deer Trail Pl,938-620-1522,58000,Technician,,Airbus-A380 Airbus-A350 Boeing-777,
+218-11-9833,Helen Leblanc,UAW0068,944 Rockwood Dr,853-419-7221,75000,Traffic Controller,2015-08-18,,
+521-53-4045,Kelly Galloway,UAW0069,501 Pala Ln,010-512-6863,77000,Technician,,Airbus-A300 Boeing-777,
+241-38-8590,Linda Archer,UAW0070,520 Aberdeen Ave,730-277-8292,147000,Pilot,,,Airbus-A380:2017-09-10 Boeing-767:2020-09-13 Boeing-787:2017-05-16 Airbus-A350:2017-03-12 Boeing-777:2018-06-14 Boeing-737:2018-08-17 Airbus-A300:2017-09-01
+322-12-8270,Madison Roberson,UAW0071,989 Sterling Way,388-086-8199,59000,Traffic Controller,2000-11-22,,
+533-43-9376,Jerry Petty,UAW0072,586 Via Hierba,451-882-8103,54000,Pilot,,,Airbus-A320:2017-09-24 Boeing-737:2019-04-24 Airbus-A300:2018-12-02 Boeing-787:2019-01-28 Boeing-777:2020-12-11
+486-64-7799,Hannah Knapp,UAW0073,139 Rosario Park Rd - Los Padres National Forest,330-935-8143,51000,Technician,,Airbus-A380,
+375-71-0422,Kathy Gregory,UAW0074,248 La Espada Dr,273-550-5304,87000,Technician,,Airbus-A380 Boeing-737 Airbus-A350 Boeing-787,
+811-47-5130,Benjamin Cox,UAW0075,244 Via Stevarino,378-566-7708,116000,Traffic Controller,2000-02-11,,
+670-30-0138,Rose Miranda,UAW0076,486 Thornwood Dr,043-981-5371,67000,Technician,,Boeing-747 Airbus-A320 Airbus-A380,
+065-06-3461,Nicholas Newton,UAW0077,976 Almeria Ave,221-633-2166,58000,Traffic Controller,2000-05-07,,
+188-25-6161,Jason Mathews,UAW0078,310 Mountain View Blvd,964-325-2373,120000,Technician,,Boeing-777 Airbus-A350 Airbus-A330,
+227-75-8212,Dorothy Matthews,UAW0079,464 Casitais Ln,446-469-8998,142000,Pilot,,,Airbus-A300:2017-04-26 Airbus-A320:2019-02-15 Airbus-A380:2020-01-18 Boeing-777:2020-06-27 Boeing-787:2017-12-01
+566-08-8910,Christina Mcmillan,UAW0080,333 Noma St,930-026-5900,112000,Technician,,Airbus-A300 Airbus-A320,
+124-99-9821,Aaron Moses,UAW0081,533 La Tierra St,934-438-5321,59000,Traffic Controller,2001-12-26,,
+705-36-9158,Kathleen Rich,UAW0082,480 Albert St,180-187-5675,85000,Pilot,,,Boeing-777:2017-09-03 Airbus-A300:2018-04-13 Boeing-737:2017-05-10 Boeing-787:2017-11-10 Boeing-767:2017-12-28 Airbus-A330:2019-04-17 Airbus-A380:2019-02-09 Airbus-A350:2020-02-01
+402-97-0274,Kathryn Velazquez,UAW0083,806 San Marcos Ct,501-314-0496,65000,Traffic Controller,2001-02-05,,
+373-19-4095,Henry Gates,UAW0084,530 Camphor Ct,968-279-8770,129000,Technician,,Airbus-A380 Boeing-737 Airbus-A330 Airbus-A300,
+178-20-5657,Nathan Morrow,UAW0085,362 Garrett St,319-024-3559,70000,Traffic Controller,2012-07-08,,
+469-62-5718,Mark Bishop,UAW0086,846 Skylark Rd,373-458-2968,59000,Pilot,,,Boeing-777:2017-05-21
+843-72-9403,Billy Donovan,UAW0087,990 El Arco Dr,062-330-8306,82000,Technician,,Airbus-A330 Airbus-A320 Airbus-A300,
+167-82-1496,Mark Moreno,UAW0088,932 Pueblo Vista Rd,652-709-9294,110000,Traffic Controller,2004-05-28,,
+927-82-0106,Rebecca Ortiz,UAW0089,329 E Ocean Ave,962-714-3264,101000,Technician,,Boeing-777,
+579-21-9315,Julia Duncan,UAW0090,884 De La Guerra Pl,185-586-2312,71000,Traffic Controller,2001-12-25,,
+013-87-3212,Brenda Medina,UAW0091,297 Cinco Amigos,153-504-0039,133000,Technician,,Boeing-767 Boeing-777 Airbus-A300,
+089-23-4693,Mary Williams,UAW0092,648 Schoolhouse Canyon Rd,014-466-0066,72000,Traffic Controller,2011-09-07,,
+640-25-1292,Donna Gates,UAW0093,117 E Hickory Ave,822-693-9793,102000,Pilot,,,Boeing-787:2018-08-22 Airbus-A320:2019-04-28 Airbus-A380:2019-08-21 Airbus-A300:2017-02-09 Boeing-767:2019-12-14 Airbus-A330:2018-10-05 Boeing-777:2019-04-05
+285-77-7841,Virginia Beard,UAW0094,218 Rock Rose Ln,124-947-5316,120000,Pilot,,,Airbus-A320:2020-09-01 Airbus-A380:2017-04-05 Airbus-A300:2019-09-15 Boeing-737:2017-08-18 Airbus-A350:2017-12-01 Airbus-A330:2017-06-21 Boeing-767:2019-04-04
+505-99-9700,Mark Skinner,UAW0095,353 El Mirlo,249-929-6095,115000,Technician,,Boeing-737 Boeing-747,
+435-13-3638,Janet Blackburn,UAW0096,628 San Antonio Creek Rd,150-957-6010,68000,Traffic Controller,2013-07-19,,
+493-52-5041,Steven Ward,UAW0097,259 E Alvin Ave,547-393-2500,131000,Technician,,Airbus-A320 Boeing-737 Airbus-A330,
+322-26-8174,Philip House,UAW0098,872 Marymount Way,658-401-1877,132000,Traffic Controller,2003-03-14,,
+289-41-1200,Eugene Tran,UAW0099,638 County Road 20,365-434-1291,57000,Traffic Controller,2001-09-15,,
+373-39-6461,Noah Warren,UAW0100,785 Via Riviera,841-423-5170,72000,Pilot,,,Airbus-A320:2017-06-27 Boeing-747:2018-10-15 Airbus-A350:2018-12-21 Boeing-767:2018-01-18 Boeing-787:2019-09-03 Boeing-777:2020-02-21 Airbus-A330:2017-04-23 Airbus-A300:2020-03-25
+268-38-2205,Beverly Miranda,UAW0101,108 Tiana Pl,559-811-7117,109000,Technician,,Boeing-787 Boeing-737 Boeing-777 Airbus-A380,
+392-44-5128,Walter Lynch,UAW0102,417 Harbor Hills Dr,893-419-3614,98000,Traffic Controller,2012-07-24,,
+829-23-6066,Raymond Schwartz,UAW0103,729 El Cerrito Ct,775-741-2413,88000,Technician,,Airbus-A330,
+375-58-6503,Beverly Cruz,UAW0104,373 San Patricio Dr,803-133-5774,127000,Traffic Controller,2001-04-21,,
+571-60-1600,Rebecca Melton,UAW0105,887 Sharry Ln,140-509-2002,113000,Traffic Controller,2003-12-24,,
+559-28-8448,Nicholas Cruz,UAW0106,667 Veronica Pl,854-878-9398,54000,Pilot,,,Airbus-A320:2020-09-14 Airbus-A380:2017-06-11 Boeing-787:2019-12-12 Boeing-747:2018-03-03 Airbus-A350:2017-12-03 Airbus-A330:2017-12-16 Boeing-767:2017-04-15 Airbus-A300:2018-08-21
+642-95-1284,Jean Pham,UAW0107,826 Nathan Rd,722-141-0478,92000,Pilot,,,Airbus-A320:2018-01-23 Boeing-747:2020-08-12 Airbus-A300:2019-03-18 Boeing-767:2020-05-19 Airbus-A350:2017-06-23 Boeing-737:2017-09-12 Airbus-A330:2018-10-17
+022-10-1846,Gary Stevens,UAW0108,283 El Rodeo Rd,504-323-7471,88000,Technician,,Boeing-787 Boeing-767 Boeing-777 Airbus-A380 Airbus-A300,
+817-44-4592,Martha Fry,UAW0109,827 O St,592-377-4781,76000,Pilot,,,Boeing-787:2017-07-14 Airbus-A380:2018-01-15 Airbus-A300:2020-03-08 Boeing-777:2020-05-27 Boeing-767:2020-03-01 Boeing-737:2019-09-24 Airbus-A350:2020-07-12 Boeing-747:2017-10-25
+361-00-5954,Ashley Gilmore,UAW0110,298 N K St,099-478-0951,53000,Technician,,Airbus-A320 Airbus-A330 Boeing-767 Boeing-787,
+263-26-0710,Jane Hubbard,UAW0111,487 W Valerio St,214-092-4305,74000,Traffic Controller,2009-12-16,,
+999-44-2465,Bobby Stewart,UAW0112,765 Santa Rosa Pl,515-763-3491,47000,Technician,,Airbus-A330 Airbus-A350 Airbus-A320,
+031-72-9311,Danielle Doyle,UAW0113,150 Professional Pkwy,762-606-5801,98000,Traffic Controller,2003-12-02,,
+847-71-5479,Amanda Beard,UAW0114,132 Tognazzini Ave,162-670-0426,82000,Traffic Controller,2013-09-23,,
+026-35-1320,Brittany Mathews,UAW0115,584 Bradbury Ave,456-947-4089,132000,Traffic Controller,2001-08-23,,
+089-43-7081,Justin Serrano,UAW0116,291 Oak Glen Dr,819-765-8922,134000,Traffic Controller,2012-06-19,,
+339-87-5585,Laura Travis,UAW0117,870 Cachuma Creek,465-572-6225,57000,Pilot,,,Boeing-787:2017-11-13
+268-97-2109,William Browning,UAW0118,511 Ladera Ln,963-594-6377,58000,Traffic Controller,2000-01-15,,
+775-51-1864,Gabriel Wolfe,UAW0119,797 China Flat Rd,209-816-7191,84000,Pilot,,,Airbus-A350:2018-06-01 Boeing-787:2020-06-11
+896-10-9777,Ronald Cain,UAW0120,582 Orange Ave,660-451-1833,90000,Technician,,Airbus-A320 Airbus-A300,
+247-84-4454,Martha Lambert,UAW0121,435 Ogram Rd - Los Padres National Forest,303-449-0149,53000,Pilot,,,Airbus-A330:2019-12-12 Airbus-A300:2018-11-01 Boeing-737:2018-11-18 Boeing-787:2020-06-21 Boeing-747:2017-12-13 Boeing-767:2017-04-21 Airbus-A320:2019-03-11 Boeing-777:2019-10-21
+000-45-0482,Joseph Cook,UAW0122,195 Parker Pass Rd,777-738-0298,140000,Pilot,,,Airbus-A380:2019-06-06 Boeing-787:2020-02-02 Boeing-767:2017-04-12 Airbus-A330:2017-12-02
+118-49-5368,Vincent Santana,UAW0123,309 Cameta Way,502-966-0827,89000,Pilot,,,Boeing-737:2018-11-27 Airbus-A300:2017-05-10 Airbus-A380:2020-11-22 Boeing-747:2019-12-20 Boeing-777:2019-04-27 Airbus-A330:2017-03-03
+517-73-5901,Anthony Morgan,UAW0124,720 St Charles Pl,661-772-3665,97000,Traffic Controller,2013-12-09,,
+537-83-3112,Virginia Monroe,UAW0125,603 W Fesler St,689-817-8431,124000,Technician,,Airbus-A300 Boeing-747 Airbus-A320 Boeing-787 Airbus-A350,
+338-07-8295,Tyler Davis,UAW0126,442 Tierra Brisas Dr,021-033-5752,98000,Traffic Controller,2000-12-24,,
+616-94-7372,Albert Carlson,UAW0127,370 Lake Marie Dr,198-873-6879,136000,Pilot,,,Boeing-777:2017-10-10 Airbus-A320:2019-02-18 Airbus-A350:2020-03-04 Airbus-A380:2017-05-05 Boeing-747:2020-12-01 Boeing-767:2018-04-28 Airbus-A300:2019-12-10
+981-41-3992,Christian Stokes,UAW0128,985 S Tulip St,889-038-4086,148000,Technician,,Airbus-A380 Airbus-A320 Airbus-A330,
+184-09-1926,Pamela Burke,UAW0129,267 Europa Ave,034-165-9464,67000,Traffic Controller,2007-02-09,,
+032-31-9309,Wayne Stephens,UAW0130,518 Freya Dr,300-986-7288,121000,Traffic Controller,2013-04-18,,
+026-91-8828,Angela Zhang,UAW0131,401 Avena St,427-876-9374,140000,Traffic Controller,2012-07-20,,
+613-44-6302,Ruth Campos,UAW0132,140 Whitney Ln,864-102-7593,125000,Traffic Controller,2004-07-18,,
+476-68-9353,Johnny Oneal,UAW0133,375 Rubel Way,233-895-2985,106000,Pilot,,,Airbus-A380:2017-10-25
+144-64-4496,Lori Santana,UAW0134,230 Via Reposa,488-350-4735,74000,Traffic Controller,2006-04-14,,
+790-67-6725,Barbara Cunningham,UAW0135,706 Ronald Pl,301-140-1116,117000,Traffic Controller,2003-11-07,,
+744-70-0676,Ashley Higgins,UAW0136,357 Romaine Dr,364-225-5723,110000,Pilot,,,Boeing-777:2020-05-17 Boeing-747:2020-06-28 Boeing-737:2019-07-15 Boeing-767:2020-12-15 Airbus-A350:2020-07-03 Airbus-A300:2019-08-21 Boeing-787:2019-06-06
+702-00-9648,Julia Schroeder,UAW0137,807 Lexington Ave,542-368-5004,146000,Pilot,,,Boeing-777:2017-11-13
+857-94-0931,Mary Holmes,UAW0138,821 Fletcher Ave,796-015-1807,68000,Pilot,,,Boeing-747:2020-08-22 Airbus-A320:2017-02-28 Boeing-767:2019-08-11 Airbus-A330:2020-06-28 Boeing-787:2019-12-15 Airbus-A380:2017-03-24
+178-82-6401,Theresa Nelson,UAW0139,881 Santa Rosa Ln,073-287-4707,136000,Pilot,,,Airbus-A380:2017-05-12 Boeing-767:2017-06-11 Boeing-747:2020-01-13 Boeing-777:2020-10-02 Airbus-A320:2020-05-02 Airbus-A300:2018-09-02 Airbus-A330:2020-07-20 Boeing-737:2018-10-14 Boeing-787:2019-06-19
+426-78-2218,Kelly Valencia,UAW0140,386 Tognazzini Ave,658-142-1831,53000,Technician,,Boeing-737 Airbus-A300 Boeing-767,
+176-12-5487,Anna Cuevas,UAW0141,690 Philbric Rd,057-895-6637,148000,Technician,,Boeing-787 Airbus-A350,
+724-69-3384,Madison Ewing,UAW0142,883 Mayfield St,611-197-5357,99000,Technician,,Boeing-767 Boeing-787 Airbus-A330 Boeing-737,
+597-33-1425,Joyce Wolfe,UAW0143,764 Davenport Rd,070-121-3790,64000,Pilot,,,Boeing-737:2017-11-14 Boeing-747:2017-02-15 Boeing-767:2019-11-02 Airbus-A380:2018-05-17 Airbus-A330:2019-02-12 Airbus-A320:2018-07-16 Airbus-A300:2019-03-22
+728-88-6823,Lori Willis,UAW0144,750 Nogal,855-461-8808,128000,Technician,,Boeing-787 Airbus-A380 Airbus-A330,
+942-04-2240,Lauren Odom,UAW0145,811 W Loquat Ct,525-765-6492,108000,Technician,,Boeing-747,
+220-13-9746,Jennifer Montoya,UAW0146,620 Victory Rd,692-937-6495,137000,Pilot,,,Airbus-A330:2020-05-21 Airbus-A320:2020-06-09 Airbus-A300:2020-05-09 Boeing-767:2017-12-23 Boeing-747:2020-04-27 Airbus-A350:2017-10-10
+061-53-2624,Gerald Brady,UAW0147,567 Zackery Ct,941-330-7797,54000,Pilot,,,Airbus-A320:2019-05-28 Airbus-A350:2019-06-13 Airbus-A330:2017-02-21 Boeing-777:2019-09-19 Boeing-737:2017-12-16 Airbus-A380:2017-05-19
+370-55-2938,Judy Cline,UAW0148,632 Via Linda,763-727-6206,72000,Traffic Controller,2014-06-08,,
+021-53-0396,Willie Ortiz,UAW0149,702 Arlington Ave,080-352-5667,78000,Technician,,Boeing-767 Airbus-A300 Airbus-A330,
+192-23-7404,Judy Tyler,UAW0150,789 Via Senda,646-162-2518,47000,Technician,,Airbus-A380 Airbus-A350 Boeing-787,
+997-89-4206,Nicole Luna,UAW0151,922 Forest Route 5n18 - Los Padres National Forest,213-519-9618,120000,Traffic Controller,2015-10-01,,
+937-23-5604,Linda Knight,UAW0152,470 La Pita Pl,937-090-4594,80000,Traffic Controller,2016-05-10,,
+965-32-3318,Lauren Lowe,UAW0153,749 Las Flores Way,206-940-6394,68000,Traffic Controller,2003-03-05,,
+247-96-6569,Doris Powell,UAW0154,421 Vela Way,107-730-7288,60000,Traffic Controller,2002-01-16,,
+793-25-1234,Randy Koch,UAW0155,543 Pilgrim Terrace Dr,730-954-0116,141000,Pilot,,,Boeing-747:2017-05-05 Boeing-777:2020-11-14 Airbus-A320:2019-12-09 Airbus-A350:2019-10-13 Airbus-A380:2020-02-02 Boeing-737:2019-06-13
+237-20-5273,Keith Gonzalez,UAW0156,687 Garden Ln,389-189-7877,125000,Technician,,Airbus-A350 Boeing-777,
+148-21-9702,Juan Pratt,UAW0157,227 Aurora Dr,766-365-6499,117000,Pilot,,,Airbus-A380:2020-10-08 Airbus-A330:2017-03-13 Boeing-767:2017-11-25 Boeing-777:2017-05-06 Airbus-A350:2019-11-22
+207-99-9232,Kathryn Huber,UAW0158,352 Avola Ave,395-225-0405,126000,Technician,,Airbus-A350 Airbus-A320 Boeing-787,
+145-13-1877,Theresa Booth,UAW0159,187 Vista Linda Ln,525-340-4771,59000,Pilot,,,Boeing-777:2019-01-20 Airbus-A380:2019-04-17 Boeing-787:2018-05-19 Airbus-A300:2018-12-05
+513-33-5040,Tyler Cooke,UAW0160,159 Connor Ln,437-941-0228,99000,Pilot,,,Airbus-A300:2017-09-10 Boeing-777:2019-08-13 Boeing-747:2018-09-17
+420-95-5680,John Wall,UAW0161,419 E Mariposa Way,941-282-8344,81000,Pilot,,,Boeing-737:2017-08-15 Boeing-777:2020-12-02 Boeing-787:2018-04-19 Airbus-A320:2018-10-10 Airbus-A330:2017-10-22
+009-80-5260,Bobby Parks,UAW0162,644 Via Vista Verde,737-628-0084,79000,Traffic Controller,2010-08-07,,
+341-64-5839,Mark Krueger,UAW0163,817 Wood Mill Ln,371-578-5094,150000,Traffic Controller,2000-10-13,,
+899-85-2951,Rose Proctor,UAW0164,152 Santa Ynez St,779-984-4186,102000,Technician,,Airbus-A330,
+786-87-9934,Brandon Moody,UAW0165,369 Sonora Dr,551-333-0909,102000,Pilot,,,Airbus-A380:2020-07-23 Airbus-A300:2017-11-17 Boeing-767:2018-01-26 Airbus-A350:2018-05-10 Boeing-787:2018-06-17 Airbus-A330:2020-02-03 Airbus-A320:2017-09-05
+816-28-2491,Debra Marquez,UAW0166,567 Refugio Beach Rd,625-444-7301,131000,Traffic Controller,2012-09-10,,
+054-33-5037,Shirley Day,UAW0167,856 Debbie Rd,810-739-1471,129000,Technician,,Airbus-A300 Boeing-747 Boeing-787,
+135-45-9451,George Santana,UAW0168,851 San Bergamo Dr,160-442-2384,145000,Pilot,,,Boeing-747:2018-12-09 Airbus-A330:2017-10-08
+944-08-0956,Gloria Spencer,UAW0169,786 Summit Ln,516-630-1334,97000,Pilot,,,Boeing-787:2017-06-24 Boeing-777:2020-09-26 Boeing-747:2020-01-05 Airbus-A300:2019-07-21
+416-03-3483,Nathan Washington,UAW0170,397 Mountain View Blvd,193-016-2038,112000,Technician,,Airbus-A350,
+258-11-3821,Carolyn Lewis,UAW0171,663 Skyline Cir,702-692-0604,94000,Technician,,Airbus-A350 Boeing-737,
+877-17-7298,Wayne Montgomery,UAW0172,606 Los Carneros Way,334-114-6443,64000,Traffic Controller,2003-06-21,,
+419-18-4633,Lisa Hays,UAW0173,323 El Roblar St,801-557-9347,83000,Technician,,Boeing-747 Airbus-A320 Boeing-787 Airbus-A330 Boeing-737,
+029-36-8655,Rachel Davila,UAW0174,324 W Los Olivos St,704-040-1546,145000,Pilot,,,Boeing-777:2017-01-20 Airbus-A350:2018-06-01 Airbus-A330:2019-07-08 Boeing-767:2018-01-13 Boeing-737:2018-04-18 Airbus-A380:2020-09-22
+951-38-0306,Jose Gardner,UAW0175,446 Val Verde,375-924-0688,76000,Pilot,,,Boeing-767:2020-04-15 Airbus-A350:2017-05-06 Boeing-787:2019-09-15 Boeing-737:2019-12-17 Airbus-A330:2019-08-13
+891-31-2405,Keith Friedman,UAW0176,270 Arlington Ave,612-793-1480,81000,Traffic Controller,2003-02-12,,
+375-15-1014,Beverly Santana,UAW0177,831 Las Rosas Ln,793-301-9875,62000,Traffic Controller,2012-11-25,,
+318-42-3147,Katherine Stein,UAW0178,883 Via Lato,175-579-3960,129000,Pilot,,,Airbus-A330:2017-02-10 Boeing-767:2019-08-11 Boeing-777:2019-06-28 Airbus-A380:2018-04-14 Airbus-A300:2020-02-10 Airbus-A350:2020-04-21 Boeing-747:2017-08-06 Boeing-737:2017-01-21
+578-80-8297,Mark Jordan,UAW0179,142 Mandarin Dr,382-033-1694,137000,Technician,,Airbus-A350,
+104-48-5948,Angela Humphrey,UAW0180,348 San Clemente Ave,343-382-9102,100000,Traffic Controller,2014-03-20,,
+457-70-4284,David Fox,UAW0181,981 W Prune Ave,964-099-0917,46000,Traffic Controller,2015-01-08,,
+259-40-7962,Rebecca Franklin,UAW0182,265 Carob St,228-672-7576,87000,Pilot,,,Airbus-A320:2018-09-01
+612-18-2171,Jeffrey Montoya,UAW0183,707 Sonoma Ave,887-356-9305,73000,Traffic Controller,2005-08-09,,
+583-32-3128,Bruce Blackwell,UAW0184,949 Estriga Ct,219-731-5347,150000,Pilot,,,Boeing-787:2017-07-04 Airbus-A320:2017-09-10 Airbus-A330:2017-02-26 Boeing-747:2018-12-28 Boeing-767:2017-02-28
+380-27-2055,Patricia Monroe,UAW0185,682 Newton Rd,884-508-3833,136000,Pilot,,,Airbus-A350:2017-05-08 Boeing-787:2017-01-03 Boeing-767:2018-12-17 Airbus-A380:2020-09-27 Airbus-A320:2019-07-24 Boeing-777:2018-09-15 Airbus-A330:2018-09-28 Airbus-A300:2020-12-20 Boeing-747:2019-06-23
+346-89-6029,Philip Davila,UAW0186,769 La Casa Grande Cir,291-957-4602,54000,Technician,,Airbus-A320 Airbus-A380 Airbus-A300,
+865-16-8158,Christine Lozano,UAW0187,600 Verde Mar Dr,617-630-6678,68000,Pilot,,,Boeing-777:2019-05-11 Airbus-A320:2019-09-05 Boeing-767:2017-07-23 Airbus-A330:2020-08-18 Boeing-787:2019-03-18 Airbus-A380:2017-08-02 Airbus-A300:2020-12-28 Boeing-747:2018-12-13
+424-71-6907,Alice Sims,UAW0188,350 Pescadero Dr,657-053-8450,126000,Technician,,Airbus-A320 Airbus-A330 Boeing-737,
+105-71-4080,Jeffrey Marks,UAW0189,829 Park Hill Ln,775-713-2569,129000,Pilot,,,Airbus-A350:2018-07-04 Airbus-A330:2017-06-11 Airbus-A380:2017-09-27 Boeing-767:2018-12-04
+100-77-3080,Johnny Gordon,UAW0190,578 Las Gaviotas,711-756-1073,87000,Technician,,Airbus-A350 Airbus-A300,
+363-33-5748,Michelle Burke,UAW0191,452 Newton Rd,514-725-7364,97000,Technician,,Boeing-767 Boeing-777 Airbus-A350 Boeing-747,
+503-95-3373,Rebecca Blake,UAW0192,328 W Savona Ln,114-338-3269,105000,Traffic Controller,2016-07-12,,
+577-06-6389,Alice Vega,UAW0193,123 Richelle Ln,871-163-0172,72000,Traffic Controller,2010-09-12,,
+418-12-3243,Arthur Rhodes,UAW0194,776 Indian Hills Rd,683-810-3084,74000,Traffic Controller,2004-04-08,,
+530-20-2313,Philip Prince,UAW0195,264 Castilian Dr,582-979-8521,77000,Traffic Controller,2004-06-20,,
+307-18-4553,Mark Cowan,UAW0196,481 Oregon Ave,613-861-6223,113000,Pilot,,,Boeing-777:2020-12-08 Boeing-787:2019-04-27 Airbus-A320:2018-08-23 Airbus-A330:2019-08-15
+511-53-0975,Nancy Downs,UAW0197,996 Santa Susana Pl,733-932-9197,99000,Pilot,,,Airbus-A330:2020-01-11 Boeing-777:2019-10-08 Airbus-A350:2018-07-06
+271-05-6078,Richard Mitchell,UAW0198,884 Ventana Ct,562-349-8831,132000,Traffic Controller,2002-11-27,,
+605-79-0530,Kevin Bright,UAW0199,681 Europa Ave,878-074-6459,105000,Pilot,,,Boeing-737:2020-02-12 Airbus-A330:2018-05-22 Boeing-767:2017-11-07 Airbus-A300:2020-08-02
+997-27-3123,Harold Boyer,UAW0200,811 Honor Farm Rd,289-398-8361,115000,Technician,,Boeing-737 Airbus-A300,
+411-81-3472,Carl Dorsey,UAW0201,294 Alameda Ave,419-863-3163,81000,Technician,,Airbus-A330,
+886-90-2963,Christine Wilkerson,UAW0202,632 Paradise Ln - Los Padres National Forest,519-802-9397,60000,Technician,,Boeing-737 Boeing-747 Airbus-A330 Airbus-A350,
+433-31-8072,Cynthia Mccullough,UAW0203,417 Mandeville Ct,675-033-2381,46000,Pilot,,,Boeing-777:2017-06-26 Airbus-A330:2017-04-07 Airbus-A320:2020-11-21 Boeing-737:2017-03-06 Boeing-767:2017-09-21 Airbus-A380:2018-05-08
+592-57-4255,Kevin Werner,UAW0204,225 Las Positas Rd,031-392-0276,77000,Technician,,Boeing-777 Boeing-767 Airbus-A300 Airbus-A380,
+505-86-8115,Ruth Jennings,UAW0205,990 Grapevine Rd,364-335-9377,121000,Traffic Controller,2010-12-26,,
+765-32-2495,William Farrell,UAW0206,911 Via Esmeralda,086-937-7487,53000,Traffic Controller,2008-05-25,,
+572-48-0147,Danielle Hatfield,UAW0207,679 Price Ranch Rd,724-378-4769,121000,Technician,,Airbus-A320 Airbus-A330 Boeing-747 Boeing-777 Airbus-A380,
+924-19-2594,Stephen Meyers,UAW0208,414 Telephone Rd,300-373-2848,81000,Traffic Controller,2008-09-21,,
+124-50-7920,Bobby Wright,UAW0209,837 N La Cumbre Rd,820-044-9059,135000,Pilot,,,Airbus-A300:2020-12-19 Airbus-A330:2018-04-14 Boeing-747:2020-10-02 Boeing-787:2017-08-07 Airbus-A350:2018-05-18 Boeing-777:2018-11-15 Airbus-A320:2017-11-14
+260-71-5873,Laura Parrish,UAW0210,439 Ticino St,265-498-2105,89000,Traffic Controller,2006-04-15,,
+230-67-1711,Ralph Waller,UAW0211,358 E Constance Ave,338-487-6153,64000,Pilot,,,Boeing-737:2017-06-01 Airbus-A320:2019-09-18 Airbus-A350:2020-11-14 Boeing-767:2020-12-17 Boeing-787:2020-01-01 Airbus-A380:2020-02-12 Airbus-A330:2017-12-02
+973-47-0651,Edward Anderson,UAW0212,487 San Marcos Pass Rd,134-494-2052,51000,Traffic Controller,2005-04-11,,
+506-01-4159,Gregory Combs,UAW0213,543 Tethys Rd,327-894-4858,46000,Technician,,Airbus-A350 Boeing-767 Boeing-777 Boeing-747,
+678-22-4836,Anna Manning,UAW0214,766 Via Sabroso,691-818-8702,112000,Traffic Controller,2009-01-18,,
+491-61-7907,Kathleen Olsen,UAW0215,753 Daniel Dr,535-774-7532,107000,Pilot,,,Airbus-A330:2017-03-08 Airbus-A380:2017-06-01 Airbus-A300:2020-12-18 Boeing-747:2017-03-12 Boeing-767:2020-05-18 Boeing-737:2019-03-22 Airbus-A320:2018-02-15
+473-26-9770,Kathryn Jimenez,UAW0216,421 El Sueno Rd,923-135-7159,103000,Traffic Controller,2007-03-04,,
+860-26-7906,Martha Lamb,UAW0217,848 Windsor Ave,950-688-5140,117000,Traffic Controller,2015-09-26,,
+919-85-3331,Beverly Thompson,UAW0218,796 La Mesa Plaza,088-541-5119,136000,Pilot,,,Airbus-A380:2020-12-13 Boeing-777:2019-08-03 Boeing-737:2018-11-05 Airbus-A350:2018-05-07 Airbus-A320:2017-07-26
+578-91-1237,Henry Ashley,UAW0219,119 W Padre St,122-153-2639,121000,Pilot,,,Boeing-777:2018-03-16 Boeing-737:2017-11-05 Airbus-A330:2018-10-20 Airbus-A380:2018-03-04 Boeing-767:2019-05-28 Airbus-A300:2020-09-18 Boeing-747:2020-05-15
+316-00-0978,Eugene Mcdonald,UAW0220,797 Potrero Ln - Los Padres National Forest,917-185-2701,110000,Pilot,,,Boeing-787:2017-07-25 Boeing-777:2020-09-20 Airbus-A330:2017-02-26 Airbus-A300:2020-01-22 Airbus-A320:2018-06-03
+570-03-8833,Brandon Gallegos,UAW0221,617 Via Gennita,422-670-7406,77000,Pilot,,,Airbus-A330:2020-09-07 Boeing-787:2018-04-02 Airbus-A350:2020-11-18 Boeing-767:2019-06-13 Airbus-A380:2019-02-06 Airbus-A300:2017-07-06 Boeing-777:2018-05-13
+280-12-5199,Nancy Andrews,UAW0222,440 Loma St,213-361-1916,149000,Technician,,Boeing-737 Airbus-A330,
+286-35-8280,Lisa Monroe,UAW0223,349 Amador Ave,394-942-3929,58000,Traffic Controller,2009-11-16,,
+217-77-5292,Laura Crosby,UAW0224,815 Rincon Vista Rd,892-019-1965,145000,Technician,,Airbus-A330 Airbus-A380 Boeing-767 Airbus-A320,
+974-54-9911,Helen Bauer,UAW0225,849 Kim Sue Ln,737-530-3915,146000,Pilot,,,Airbus-A330:2018-12-18 Airbus-A320:2018-03-26 Airbus-A380:2019-10-12 Airbus-A350:2019-05-08 Airbus-A300:2018-08-11 Boeing-747:2017-02-28 Boeing-777:2020-01-01
+872-81-0834,Denise Tran,UAW0226,644 Via Parte,308-511-4579,101000,Pilot,,,Boeing-777:2019-05-04 Boeing-767:2018-01-11 Airbus-A300:2020-12-01 Boeing-737:2018-11-05 Boeing-787:2019-10-14 Airbus-A350:2019-04-03 Airbus-A320:2018-08-07
+432-28-1100,Richard Mcneil,UAW0227,475 I St,534-583-9996,61000,Technician,,Airbus-A320,
+214-81-0179,Julie Hull,UAW0228,234 N La Cumbre Rd,257-137-2984,104000,Technician,,Airbus-A380 Boeing-767,
+118-62-8123,Catherine Burnett,UAW0229,191 El Sueno Rd,541-847-3092,107000,Pilot,,,Airbus-A320:2020-09-14 Boeing-767:2018-04-27 Airbus-A380:2020-07-14
+322-31-1284,Frank Conley,UAW0230,492 Hardinge Ave,275-933-5014,90000,Traffic Controller,2012-12-11,,
+921-77-7536,Willie Conner,UAW0231,681 Stacy Ann Terrace,442-113-4273,110000,Traffic Controller,2003-08-12,,
+644-26-1154,Michael Boyd,UAW0232,934 Paden St,231-278-2925,58000,Pilot,,,Boeing-747:2020-02-15 Boeing-777:2018-04-04 Boeing-737:2020-08-13 Airbus-A320:2020-06-14 Boeing-787:2018-09-17
+281-30-0197,Aaron Solis,UAW0233,216 Valley View Rd - Los Padres National Forest,205-919-4589,138000,Technician,,Boeing-787 Boeing-777 Airbus-A380,
+955-15-5710,Judith Meyer,UAW0234,520 Camellia Ct,373-364-6450,87000,Pilot,,,Airbus-A330:2019-04-03 Airbus-A300:2017-01-15 Boeing-777:2018-06-12
+707-06-5435,Christian Castaneda,UAW0235,313 Longdrive Ln,880-682-6626,103000,Pilot,,,Airbus-A380:2019-12-21 Airbus-A330:2018-02-25
+686-95-3347,Heather Hamilton,UAW0236,565 Cecelia Dr,585-153-6791,148000,Traffic Controller,2000-02-03,,
+244-57-5376,Mary Braun,UAW0237,676 Sandy Ln,257-125-0736,74000,Pilot,,,Airbus-A320:2020-04-09 Boeing-737:2017-09-20 Boeing-767:2020-12-16 Airbus-A300:2020-12-04 Airbus-A380:2017-12-23 Boeing-777:2018-07-01 Airbus-A330:2018-11-05
+811-19-1292,Catherine Mckay,UAW0238,888 Fiesta Way,791-287-2134,124000,Pilot,,,Boeing-747:2019-08-02 Airbus-A350:2017-02-03 Airbus-A300:2017-09-06
+199-94-3997,Ethan Bond,UAW0239,531 Prescott Ln,899-228-7030,56000,Technician,,Boeing-747 Airbus-A380 Boeing-787 Boeing-737,
+779-42-3258,Jean Nash,UAW0240,442 Oak View Dr,936-396-9343,132000,Traffic Controller,2013-05-15,,
+339-83-7072,Jennifer Roth,UAW0241,757 Eileen Ln,514-645-4237,150000,Pilot,,,Airbus-A300:2017-07-17 Airbus-A320:2019-03-09 Boeing-767:2018-01-19 Boeing-777:2019-12-13 Airbus-A380:2018-03-08 Boeing-787:2017-11-06 Airbus-A330:2020-09-08
+141-53-5133,Timothy Miller,UAW0242,964 San Diego Rd,582-856-2935,119000,Traffic Controller,2000-11-04,,
+278-28-3161,Julia Moss,UAW0243,494 Via Rubio,945-317-5262,90000,Pilot,,,Airbus-A320:2018-09-23 Boeing-787:2017-11-03 Airbus-A350:2017-02-08 Boeing-767:2017-03-26 Airbus-A300:2019-08-23 Boeing-777:2017-12-17 Airbus-A330:2017-01-04 Boeing-737:2017-09-03
+587-21-9683,Christopher Mckinney,UAW0244,745 Rubel Way,718-161-2138,99000,Traffic Controller,2011-12-02,,
+512-20-8200,Wayne Chase,UAW0245,866 Marilyn Way,391-466-0504,114000,Pilot,,,Airbus-A380:2017-05-25 Boeing-777:2017-10-22 Airbus-A350:2017-09-14 Boeing-737:2017-01-10 Boeing-747:2020-02-26 Boeing-787:2019-10-25 Boeing-767:2018-12-19 Airbus-A320:2018-10-09
+487-33-1302,Dorothy Valencia,UAW0246,766 El Rancho Arbolado,812-486-8647,84000,Technician,,Boeing-787 Airbus-A300,
+136-44-7802,Emma Gillespie,UAW0247,104 Perkins St,497-725-1193,70000,Pilot,,,Boeing-747:2017-05-18 Boeing-767:2018-01-08 Airbus-A380:2020-08-19 Airbus-A330:2019-06-07 Airbus-A320:2019-02-12 Boeing-777:2018-01-25 Boeing-737:2017-02-14
+446-87-7353,Helen Weeks,UAW0248,682 Madrona Walk - University Of California Santa Barbara,515-350-1445,96000,Technician,,Airbus-A300 Boeing-787 Airbus-A350 Airbus-A320,
+363-37-4199,Scott Moses,UAW0249,749 Kimball St,260-450-8624,146000,Traffic Controller,2012-02-25,,
+364-78-7137,Evelyn Conway,UAW0250,749 Kinman Ave,720-961-8123,71000,Pilot,,,Airbus-A300:2017-12-16 Boeing-787:2018-03-14
+848-18-0068,Barbara Pratt,UAW0251,898 Duke Dr,818-297-2807,111000,Traffic Controller,2016-02-21,,
+109-52-0910,Ryan Glass,UAW0252,793 Las Canoas Pl,936-473-2396,134000,Traffic Controller,2003-06-04,,
+918-01-7259,Cheryl Frazier,UAW0253,282 Moffett Pl - Santa Barbara Municipal Airport (sba),886-141-4444,83000,Technician,,Airbus-A380,
+689-97-7002,Mark Shah,UAW0254,344 E Mission St,384-342-6604,74000,Traffic Controller,2016-03-19,,
+861-61-9281,Kelly James,UAW0255,991 Nectarine Ave,014-907-4174,105000,Technician,,Airbus-A380 Airbus-A330,
+457-25-5412,Deborah Carson,UAW0256,100 Bonita St,015-928-5723,135000,Technician,,Boeing-787 Boeing-747,
+555-75-7288,Tyler Murphy,UAW0257,751 Library Ave,172-118-2739,98000,Pilot,,,Airbus-A380:2020-01-21 Boeing-777:2020-02-18
+497-48-3298,Emma Mejia,UAW0258,702 Ocean Ave,340-013-7879,146000,Technician,,Airbus-A300 Airbus-A320,
+423-08-2438,Kathryn Hawkins,UAW0259,928 Miramar Ln,708-565-2556,146000,Technician,,Boeing-737 Airbus-A300 Boeing-767 Airbus-A350,
+058-76-8647,George Lee,UAW0260,693 Greenworth Pl,018-722-0946,95000,Technician,,Boeing-787 Boeing-737,
+324-43-8029,Paul Williams,UAW0261,514 Los Carneros Way,098-512-6465,116000,Traffic Controller,2001-06-02,,
+117-00-3700,Dylan Stone,UAW0262,901 Chatham Way,616-311-0898,90000,Technician,,Airbus-A380 Boeing-747 Boeing-787,
+973-22-9305,Dennis Aguilar,UAW0263,148 W Valerio St,291-290-2291,86000,Traffic Controller,2010-02-24,,
+911-61-7680,Brandon Levy,UAW0264,253 Christopher Ln,713-456-5549,150000,Pilot,,,Airbus-A320:2018-12-14 Boeing-777:2020-07-06 Boeing-737:2020-03-25 Boeing-767:2020-03-03 Airbus-A300:2020-01-03
+166-97-9909,Helen Bender,UAW0265,996 Eileen Ln,329-351-1671,63000,Technician,,Airbus-A350 Airbus-A320,
+554-65-4897,Kevin Hammond,UAW0266,980 Glenview Dr,364-901-7041,103000,Pilot,,,Airbus-A330:2018-12-07 Boeing-787:2019-09-28 Airbus-A380:2017-12-04 Airbus-A300:2019-01-22 Boeing-737:2019-07-26 Boeing-747:2020-03-14
+142-94-4363,Carl Ray,UAW0267,456 Redbud Ct,441-791-2445,123000,Traffic Controller,2002-10-27,,
+208-40-7006,Jack Burnett,UAW0268,240 School House Canyon Rd,498-194-9584,46000,Traffic Controller,2012-08-13,,
+614-00-7915,Howard Kirby,UAW0269,537 El Sueno Rd,287-729-7005,93000,Traffic Controller,2015-11-14,,
+812-65-0445,Sandra Foster,UAW0270,178 Rockcreek Rd,006-992-1339,94000,Technician,,Boeing-737 Airbus-A320,
+272-06-8791,Jason Lynn,UAW0271,768 W Prune Ave,871-954-6321,60000,Technician,,Boeing-787 Airbus-A300 Airbus-A380,
+075-83-3357,Joshua Randall,UAW0272,243 Linfield Pl,308-068-5068,91000,Technician,,Boeing-767 Boeing-787 Airbus-A330 Airbus-A320 Boeing-747,
+568-83-1187,Dylan Kim,UAW0273,813 Refugio Beach Rd,288-768-1535,119000,Pilot,,,Airbus-A350:2019-12-13 Boeing-737:2019-01-25 Airbus-A320:2019-12-13 Airbus-A300:2020-12-03 Boeing-787:2019-02-13 Boeing-777:2018-10-23 Boeing-767:2019-12-15
+064-21-0469,Bobby Miller,UAW0274,426 Manitou Ln,836-452-0668,83000,Technician,,Boeing-737 Airbus-A320,
+279-44-8634,Janice Golden,UAW0275,745 Silverado Ave,447-503-8499,100000,Pilot,,,Boeing-777:2019-04-06 Boeing-767:2020-12-07 Airbus-A380:2018-12-28 Boeing-787:2019-10-17 Airbus-A300:2019-10-26 Boeing-747:2018-07-12 Boeing-737:2018-11-08 Airbus-A330:2018-12-21 Airbus-A350:2020-02-03 Airbus-A320:2019-07-11
+984-61-9692,Robert Ford,UAW0276,720 San Agustin,324-333-5928,108000,Technician,,Airbus-A330 Boeing-767 Airbus-A350,
+588-49-9993,Mark Mayer,UAW0277,537 Prescott Ln,278-608-2018,149000,Pilot,,,Boeing-747:2020-08-09 Boeing-737:2018-01-05 Airbus-A350:2020-06-08 Airbus-A300:2017-01-25 Airbus-A380:2019-03-14 Boeing-787:2019-03-16 Airbus-A320:2017-12-28 Boeing-777:2020-06-01 Airbus-A330:2018-09-12
+025-38-4942,Kelly Patterson,UAW0278,301 Newsome St,158-679-8171,60000,Pilot,,,Airbus-A320:2018-02-21 Airbus-A350:2017-01-10
+583-44-3368,Gabriel Chan,UAW0279,409 Old Mission Dr,061-448-2642,96000,Technician,,Boeing-787 Boeing-737 Boeing-777,
+250-85-6828,Kelly Ibarra,UAW0280,441 San Clemente Ave,133-398-2987,144000,Pilot,,,Boeing-747:2019-10-12 Airbus-A300:2018-12-17 Boeing-767:2018-05-18 Boeing-737:2018-04-16 Boeing-777:2018-06-11 Airbus-A350:2017-04-10 Airbus-A320:2019-12-01 Airbus-A380:2017-12-11 Airbus-A330:2019-01-21
+303-55-2640,Ryan Villarreal,UAW0281,302 Monterey Rd,910-946-2144,81000,Technician,,Airbus-A300 Boeing-737 Boeing-747 Airbus-A350,
+757-32-5301,Ethan Kelly,UAW0282,794 Palo Verde Rd,135-128-6047,106000,Technician,,Airbus-A330 Boeing-747,
+468-80-6563,Mildred Stuart,UAW0283,397 Via Airosa,145-030-5892,88000,Traffic Controller,2008-01-19,,
+226-78-5734,Noah Kramer,UAW0284,814 Corta Bella Way,444-750-6834,128000,Technician,,Airbus-A350 Boeing-767 Airbus-A380,
+519-06-5642,Benjamin Larson,UAW0285,404 Braeburn Dr,549-348-7579,118000,Traffic Controller,2010-09-21,,
+571-88-4751,Aaron Saunders,UAW0286,557 Via Los Santos,637-910-8574,51000,Technician,,Airbus-A300 Boeing-747 Boeing-767 Airbus-A380,
+887-37-5280,Alexander Terrell,UAW0287,476 S Smith St,823-804-4369,130000,Technician,,Boeing-737 Airbus-A320 Airbus-A380 Airbus-A350 Boeing-787,
+456-02-0550,Billy Moore,UAW0288,102 Palermo Dr,056-939-1178,52000,Traffic Controller,2011-04-06,,
+287-48-4569,Debra Dougherty,UAW0289,942 Mclaughlin Rd,187-710-0613,74000,Technician,,Boeing-767 Boeing-737 Airbus-A300 Boeing-747,
+490-52-0092,Judith Dyer,UAW0290,753 Edie Ct,087-149-2740,144000,Pilot,,,Airbus-A300:2018-02-25 Airbus-A330:2020-04-08 Boeing-747:2020-11-28
+490-85-2816,Edward Cantrell,UAW0291,676 Montez Ct,894-153-4304,139000,Traffic Controller,2003-10-15,,
+278-06-4811,Brandon Kennedy,UAW0292,872 Sunflower Ln,154-431-9819,145000,Pilot,,,Boeing-777:2018-03-26 Airbus-A330:2018-06-06 Boeing-747:2017-02-10 Airbus-A380:2020-04-16 Airbus-A350:2019-08-14 Boeing-737:2020-04-15 Airbus-A320:2017-02-14
+512-20-3261,Debra Stokes,UAW0293,965 Weldon Rd,761-832-2160,129000,Traffic Controller,2000-08-06,,
+734-23-0021,Douglas Guerra,UAW0294,656 Ridge View Rd,922-305-7980,48000,Technician,,Boeing-737 Airbus-A320 Airbus-A300,
+444-53-3337,Walter Lang,UAW0295,656 Russell Ave,731-025-7583,68000,Pilot,,,Airbus-A350:2018-09-14 Boeing-767:2017-12-27 Airbus-A330:2018-11-14 Boeing-777:2019-12-20
+690-16-1314,Martha Koch,UAW0296,784 Bregante Ln,366-762-9811,87000,Technician,,Boeing-787 Boeing-737,
+164-49-1948,Jean Heath,UAW0297,858 Lindero St,088-925-2865,61000,Technician,,Boeing-787 Airbus-A300,
+535-85-7550,Sara Moyer,UAW0298,602 Chilmark Ln,620-035-9739,91000,Technician,,Boeing-787,
+471-20-8140,Jonathan Michael,UAW0299,315 Mable Ct,679-035-8124,148000,Technician,,Airbus-A300 Airbus-A380 Airbus-A320,
+678-60-8095,Kyle Madden,UAW0300,348 Boeseke Pkwy,858-899-4102,143000,Traffic Controller,2002-01-28,,
+641-44-1078,Patrick Chen,UAW0301,827 Barcellus Ave,038-417-1297,64000,Technician,,Boeing-737 Boeing-747 Airbus-A330,
+941-16-1274,Zachary Shah,UAW0302,562 Casey Ave,196-542-3351,62000,Traffic Controller,2006-09-27,,
+922-34-0144,Harold Grimes,UAW0303,314 Rincon Vista Rd,518-724-1266,78000,Pilot,,,Airbus-A320:2020-03-01
+626-95-0222,Donald Lynn,UAW0304,301 Las Posas Ave,221-696-6815,119000,Traffic Controller,2002-09-15,,
+846-90-9968,Justin Kaufman,UAW0305,396 Rubel Way,162-323-6489,138000,Pilot,,,Airbus-A330:2017-11-21 Airbus-A300:2020-04-12 Airbus-A350:2020-10-26
+943-47-3392,Samantha Morrison,UAW0306,818 Albert St,505-837-4800,59000,Pilot,,,Boeing-737:2017-06-03
+425-09-4171,Kenneth Allison,UAW0307,648 Vista Oceano Ln,130-799-4829,93000,Traffic Controller,2013-02-27,,
+365-17-4898,Donald Kidd,UAW0308,612 St Josephs St,703-641-3623,98000,Technician,,Boeing-737 Airbus-A320,
+753-90-6186,Jesse Barnes,UAW0309,608 La Espada Dr,696-778-8940,105000,Technician,,Boeing-737 Airbus-A350 Airbus-A300 Airbus-A330,
+115-70-5741,Gerald Mcmillan,UAW0310,735 Parma Rd,397-457-5781,78000,Traffic Controller,2012-03-12,,
+773-80-6884,Susan Navarro,UAW0311,268 State Route 144,891-259-6138,130000,Traffic Controller,2013-07-15,,
+647-22-0500,Barbara Mccullough,UAW0312,875 San Julian Rd,259-930-9583,58000,Traffic Controller,2014-12-10,,
+604-35-4270,Judith Barrett,UAW0313,658 E Las Flores Way,683-992-7383,79000,Pilot,,,Airbus-A300:2019-11-13 Airbus-A380:2020-10-27 Boeing-747:2019-12-09 Boeing-777:2017-08-19
+866-18-0886,Keith Montes,UAW0314,386 Fife Pl,343-581-0930,53000,Traffic Controller,2000-10-18,,
+029-25-1991,Joyce Bird,UAW0315,620 Wakefield Rd,241-837-3713,85000,Traffic Controller,2004-05-14,,
+887-45-1826,Stephanie Gallegos,UAW0316,248 Deerhurst Dr,366-146-8905,74000,Technician,,Airbus-A380,
+660-54-7701,Sarah Perez,UAW0317,848 Santa Monica Rd,858-413-3933,136000,Pilot,,,Boeing-737:2020-02-16 Airbus-A380:2017-10-03 Boeing-787:2019-08-06 Boeing-767:2020-03-10 Boeing-777:2017-11-10 Airbus-A330:2017-01-20
+173-51-2452,Kenneth Maxwell,UAW0318,412 La Patera Pl,194-592-5970,78000,Technician,,Boeing-777,
+773-01-2305,Ryan Lucas,UAW0319,594 Moffett Pl - Santa Barbara Municipal Airport (sba),303-809-9665,91000,Technician,,Boeing-737 Boeing-767 Airbus-A320,
+491-58-8939,Jacob Hurley,UAW0320,644 San Leandro Ln,636-282-0647,136000,Pilot,,,Airbus-A300:2017-11-27 Boeing-777:2018-05-19 Airbus-A330:2017-10-03 Boeing-747:2019-01-12 Airbus-A320:2017-05-09 Boeing-767:2018-03-26
+793-51-0140,Joyce Fischer,UAW0321,155 Hidden Ln,226-351-7714,70000,Technician,,Boeing-747,
+870-09-4082,Marilyn Mcdaniel,UAW0322,608 San Gabriel Ln,167-118-9462,104000,Pilot,,,Airbus-A300:2019-12-20 Airbus-A330:2018-07-07 Boeing-747:2017-06-11 Boeing-767:2018-12-08 Airbus-A380:2020-12-10 Boeing-737:2020-03-19 Airbus-A350:2019-12-24
+185-85-2887,Adam Schmitt,UAW0323,143 Old Honda Ridge Rd,178-944-1287,84000,Technician,,Boeing-777 Boeing-747 Airbus-A330 Boeing-737,
+393-95-0527,Katherine Rogers,UAW0324,199 Ridge Rd,371-062-5919,64000,Traffic Controller,2008-07-20,,
+285-35-1487,Debra Orr,UAW0325,165 Jupiter Ave,381-382-2638,139000,Pilot,,,Airbus-A300:2017-12-16 Airbus-A330:2017-04-06 Boeing-767:2018-03-20 Airbus-A350:2018-07-26 Boeing-737:2018-12-15 Boeing-777:2018-02-21 Airbus-A380:2020-09-05
+791-92-3291,Keith Humphrey,UAW0326,580 N L St,563-237-0040,51000,Traffic Controller,2005-03-25,,
+870-49-5904,Bryan Jimenez,UAW0327,758 Harrison Dr,106-999-3733,114000,Technician,,Boeing-737 Airbus-A380 Boeing-787 Boeing-747 Airbus-A300,
+728-23-5396,Joseph Farley,UAW0328,327 Seaview Dr,094-081-8404,109000,Traffic Controller,2005-08-03,,
+206-96-0769,Helen Hull,UAW0329,350 Galaxy Way,375-796-5950,51000,Traffic Controller,2012-09-27,,
+440-37-2622,Deborah Maldonado,UAW0330,627 Cachuma Creek,854-741-1901,70000,Technician,,Airbus-A380 Airbus-A350 Boeing-787,
+957-73-7282,Willie Glass,UAW0331,793 La Cumbre Cir,231-644-8590,66000,Pilot,,,Boeing-777:2018-04-11 Boeing-767:2018-04-05 Boeing-787:2017-07-17 Airbus-A350:2019-11-06 Boeing-747:2018-03-12 Boeing-737:2017-01-06
+809-82-9246,Teresa Esparza,UAW0332,408 Via Lucero,936-592-4864,85000,Traffic Controller,2005-10-10,,
+430-17-9375,Danielle Villegas,UAW0333,850 Painted Cave Rd - Los Padres National Forest,492-611-4708,135000,Traffic Controller,2016-05-23,,
+707-12-5231,Howard Hester,UAW0334,118 San Lino Ct,355-750-6468,133000,Technician,,Boeing-787 Boeing-737 Airbus-A380,
+132-28-4931,Stephanie Rhodes,UAW0335,805 W Alvin Ave,754-588-7128,129000,Pilot,,,Airbus-A330:2019-07-25 Airbus-A300:2020-12-24 Boeing-767:2019-09-04
+280-98-4111,Howard Roberts,UAW0336,459 Sutter St,443-603-7273,100000,Technician,,Boeing-787 Boeing-737 Airbus-A300,
+366-12-0802,Janet Bruce,UAW0337,247 Indian Hills Rd,663-674-9905,66000,Traffic Controller,2013-12-23,,
+335-24-0319,Joyce Morrison,UAW0338,910 Fellowship Cir,940-835-4270,141000,Pilot,,,Airbus-A300:2018-01-16
+730-38-2404,Louis Velazquez,UAW0339,837 Ribe Rd,520-583-2481,52000,Technician,,Boeing-787 Airbus-A300 Boeing-747,
+645-05-5631,Steven Sanders,UAW0340,302 Santa Ynez Ct,345-896-6725,91000,Technician,,Boeing-787 Boeing-737 Airbus-A350,
+335-12-3800,Anthony Glass,UAW0341,114 St Charles Pl,970-335-1852,107000,Pilot,,,Airbus-A320:2019-12-27 Boeing-737:2019-01-24 Airbus-A330:2017-09-24 Airbus-A300:2017-09-13 Boeing-747:2017-11-01
+440-55-1732,Helen Graham,UAW0342,892 San Antonio Blvd,480-782-4606,121000,Pilot,,,Airbus-A380:2017-09-13 Boeing-737:2020-04-17 Airbus-A320:2017-01-28 Boeing-777:2018-04-28 Airbus-A300:2020-04-02
+216-32-1778,Stephanie Clarke,UAW0343,649 Stacy Ann Terrace,897-397-6530,144000,Technician,,Boeing-767 Boeing-787,
+144-23-1406,Joan Orr,UAW0344,791 Christopher Ln,648-674-0175,58000,Traffic Controller,2010-06-17,,
+958-78-2153,Philip Chang,UAW0345,580 E Alvin Ave,173-908-9417,62000,Pilot,,,Airbus-A320:2020-04-14 Boeing-787:2020-10-24 Boeing-737:2019-06-22 Airbus-A380:2017-07-27 Boeing-777:2017-11-05 Airbus-A300:2020-09-20 Boeing-767:2018-10-02
+725-10-9360,Zachary Franklin,UAW0346,523 La Pita Pl,500-546-2015,84000,Technician,,Boeing-737 Boeing-777 Airbus-A350,
+393-68-3002,Victoria Proctor,UAW0347,707 Via Elsie,308-556-2351,83000,Technician,,Airbus-A300 Boeing-787,
+064-41-8924,Kathleen Marsh,UAW0348,650 Rosario Park - Los Padres National Forest,649-164-0375,91000,Technician,,Boeing-747 Boeing-787 Boeing-777 Airbus-A320,
+793-48-4076,Jonathan Cantrell,UAW0349,738 Stokes,617-277-3537,128000,Technician,,Airbus-A300 Airbus-A330 Airbus-A350,
+506-37-5843,Christopher Parks,UAW0350,792 Madrid Rd,975-716-3214,46000,Technician,,Boeing-737 Boeing-747 Airbus-A300 Airbus-A350,
+339-86-7455,Michael Orozco,UAW0351,620 High Meadow Rd,207-035-7805,51000,Technician,,Airbus-A330 Airbus-A380 Airbus-A300 Boeing-787,
+049-28-1475,Johnny Hoffman,UAW0352,100 Santa Elena Ln,030-069-5312,59000,Technician,,Airbus-A380 Airbus-A330 Boeing-747,
+261-45-8606,Dennis Le,UAW0353,306 Coromar Dr,674-354-3490,48000,Technician,,Boeing-737 Airbus-A300,
+141-89-3049,Teresa Davenport,UAW0354,930 Silverado Ave,018-445-3401,56000,Pilot,,,Airbus-A350:2019-08-07 Boeing-767:2017-01-28 Airbus-A320:2017-10-05 Boeing-747:2019-10-24 Boeing-787:2019-10-22
+840-29-2325,Wayne Vargas,UAW0355,404 State 1,499-330-6030,70000,Traffic Controller,2015-07-27,,
+306-70-2597,James Lynch,UAW0356,806 Skyline Cir,141-702-7913,59000,Technician,,Airbus-A350 Airbus-A380 Boeing-767,
+398-87-5698,Dennis Merritt,UAW0357,440 Orion Rd,030-087-6712,65000,Technician,,Airbus-A350 Boeing-767 Airbus-A320,
+543-58-3361,Noah Hanson,UAW0358,999 Sunset Valley Rd - Los Padres National Forest,420-197-0967,104000,Technician,,Airbus-A380 Airbus-A300 Airbus-A350 Boeing-777,
+280-04-3126,Patricia Curtis,UAW0359,920 Capella St,814-506-0074,125000,Technician,,Airbus-A380,
+122-76-2231,Danielle Graves,UAW0360,994 Lemon Grove Ln,350-545-2725,76000,Traffic Controller,2005-08-18,,
+637-22-9455,Nancy Wiggins,UAW0361,118 San Pablo Ln,792-455-5640,85000,Traffic Controller,2011-09-05,,
+723-24-0510,Walter Dougherty,UAW0362,307 Robbie Cir,450-436-0121,131000,Pilot,,,Airbus-A350:2020-09-20 Airbus-A320:2020-03-22 Airbus-A380:2018-03-08 Airbus-A330:2020-03-27 Boeing-767:2018-11-22 Boeing-737:2019-09-23
+333-29-5610,Roy Ewing,UAW0363,970 Helena St,409-950-8793,125000,Pilot,,,Boeing-737:2017-05-09 Boeing-767:2019-11-23 Airbus-A380:2018-02-07 Boeing-777:2017-06-25
+956-74-8243,Richard Nelson,UAW0364,236 Calle De Los Vientos,934-905-9226,79000,Traffic Controller,2005-08-01,,
+711-80-4945,Jennifer Barron,UAW0365,912 Ross Ln,030-661-6314,78000,Traffic Controller,2008-08-28,,
+605-54-0633,Amy Carson,UAW0366,873 Donovan Rd,435-805-6523,148000,Traffic Controller,2015-12-25,,
+816-48-3149,Russell Mcdowell,UAW0367,111 Cannon Green Dr,592-487-2215,118000,Traffic Controller,2016-08-14,,
+490-47-4237,Katherine Gregory,UAW0368,650 La Pasada,319-441-2026,122000,Pilot,,,Airbus-A330:2020-06-14 Airbus-A380:2018-06-22
+897-96-0576,Kevin Escobar,UAW0369,792 Los Carneros Way,713-203-7232,109000,Traffic Controller,2015-08-23,,
+305-47-3850,Jonathan Barajas,UAW0370,726 Cresta Ave,622-516-1801,145000,Technician,,Boeing-747 Boeing-787,
+183-74-6380,Austin Paul,UAW0371,935 San Jose Ln,112-641-3023,82000,Traffic Controller,2010-09-23,,
+548-30-9020,Tyler Rios,UAW0372,995 Hwy 101,966-134-9979,102000,Technician,,Airbus-A350 Airbus-A330,
+432-04-3278,Christina Heath,UAW0373,786 Firefox Dr,843-443-5441,136000,Pilot,,,Boeing-737:2017-08-15 Airbus-A320:2019-05-21 Boeing-767:2020-07-04 Boeing-777:2017-01-04 Airbus-A350:2018-11-13 Airbus-A380:2017-08-19
+749-71-1611,Patrick Owens,UAW0374,158 Rubel Way,772-724-9979,89000,Traffic Controller,2012-12-20,,
+807-25-9996,Debra Fischer,UAW0375,780 Mayten St,679-319-6266,99000,Technician,,Boeing-747 Boeing-767 Boeing-777 Boeing-787,
+161-26-9561,Julie Barrera,UAW0376,655 Del Oro Ave,276-522-8780,57000,Technician,,Airbus-A300 Boeing-747,
+752-52-1725,Albert Villa,UAW0377,783 Carpinteria Creek Dr,672-879-7685,70000,Technician,,Airbus-A380,
+951-87-5078,Anna Byrd,UAW0378,261 El Prado Pl,967-429-2913,65000,Traffic Controller,2016-02-02,,
+261-97-6964,Ronald Odom,UAW0379,486 Walnut Pl,697-465-1073,47000,Pilot,,,Airbus-A300:2018-04-07 Airbus-A350:2017-03-15 Boeing-787:2020-04-25 Boeing-777:2018-08-25
+620-12-6226,John Terry,UAW0380,473 Melinda Ct,307-353-7848,72000,Technician,,Boeing-787,
+372-49-0772,Gabriel Morrow,UAW0381,514 Felicia Dr,897-116-5090,108000,Traffic Controller,2011-03-05,,
+050-34-2122,Roger Barnes,UAW0382,867 Colebrook Dr,665-931-9799,74000,Traffic Controller,2009-08-12,,
+811-69-6470,Dennis Curry,UAW0383,322 S Palisade Dr,818-124-4873,82000,Traffic Controller,2014-11-08,,
+381-73-8982,Susan Holloway,UAW0384,559 Monique Ct,222-314-6703,85000,Technician,,Airbus-A380 Airbus-A350,
+965-67-9055,Ann Mcdaniel,UAW0385,837 Fredensborg Way,154-925-9708,140000,Traffic Controller,2000-04-20,,
+481-64-7023,Joe Bender,UAW0386,906 Via Airosa,275-353-6188,118000,Pilot,,,Boeing-747:2019-11-24 Boeing-737:2019-12-09 Airbus-A330:2019-08-17 Boeing-767:2019-11-01 Airbus-A350:2017-03-24 Boeing-777:2017-06-17
+922-92-2115,Anthony Whitney,UAW0387,857 N Salinas St,856-662-1996,138000,Pilot,,,Boeing-767:2017-10-27 Airbus-A320:2017-04-26
+217-38-6304,Christina Mcfarland,UAW0388,262 Pembrook Dr,145-452-2625,99000,Technician,,Airbus-A380,
+017-25-0478,Lori Brock,UAW0389,340 Edgemound Dr,274-173-3137,72000,Pilot,,,Boeing-767:2018-01-21 Airbus-A330:2017-03-14 Airbus-A350:2018-09-28 Airbus-A300:2018-12-17 Airbus-A380:2017-05-21 Boeing-787:2019-03-22
+408-41-3133,Ronald Knight,UAW0390,950 Sunset Ave,353-329-9582,117000,Traffic Controller,2009-01-13,,
+433-57-6166,Nicholas Valentine,UAW0391,965 Los Padres Way,683-409-7622,134000,Technician,,Airbus-A330,
+954-34-7249,Louis Bentley,UAW0392,541 Oswego Way,666-869-7150,113000,Technician,,Airbus-A330 Boeing-767 Airbus-A380 Airbus-A350,
+173-60-1644,Debra Meadows,UAW0393,349 Margie Ave,709-666-0405,148000,Pilot,,,Airbus-A300:2018-07-08 Boeing-747:2020-12-17 Boeing-737:2017-04-05 Airbus-A350:2018-09-28 Airbus-A320:2020-02-07 Boeing-777:2020-11-18
+540-42-7099,Thomas Richmond,UAW0394,662 Sage Ct,616-065-4747,138000,Pilot,,,Boeing-747:2019-04-17 Boeing-737:2018-01-03 Airbus-A350:2020-11-27 Airbus-A380:2017-03-27 Boeing-787:2020-10-01 Airbus-A300:2018-05-22 Airbus-A320:2019-08-17
+144-67-0513,Kenneth Howe,UAW0395,895 Los Robles Ln,357-220-4647,125000,Traffic Controller,2014-01-02,,
+293-78-1980,Amanda Jacobson,UAW0396,232 Porto Rd,261-470-7602,138000,Pilot,,,Airbus-A300:2019-02-05 Airbus-A330:2017-07-15 Boeing-777:2018-12-07
+179-25-8356,Theresa Fuentes,UAW0397,664 Torero Rd,591-848-7191,126000,Pilot,,,Boeing-747:2018-07-01 Airbus-A380:2020-05-13 Boeing-737:2018-12-28 Boeing-767:2020-12-18 Airbus-A300:2020-12-03
+460-85-7714,Eric Charles,UAW0398,241 Somerset Ct,378-675-7124,54000,Traffic Controller,2012-07-28,,
+413-35-5143,Harold Mcfarland,UAW0399,345 Loma St,160-636-9821,62000,Technician,,Airbus-A300 Boeing-737,
+187-43-1690,Denise Blair,UAW0400,834 Theresa St,108-226-6109,50000,Technician,,Airbus-A350,
+479-86-0484,Linda Sparks,UAW0401,814 Redbud Ct,056-852-7825,87000,Technician,,Airbus-A300 Boeing-767 Airbus-A380 Airbus-A320 Boeing-747,
+237-62-9558,Debra Roberson,UAW0402,112 Tall Pine Ln,952-828-5848,112000,Technician,,Airbus-A350 Airbus-A330,
+162-92-6896,Zachary Lara,UAW0403,669 Penelope Ln,831-891-0887,52000,Pilot,,,Airbus-A300:2019-12-17 Airbus-A350:2019-11-09 Airbus-A380:2017-06-01 Boeing-737:2017-01-12 Boeing-787:2017-03-13
+085-65-5645,Sean Horne,UAW0404,499 Cima Del Mundo Rd,560-483-0459,90000,Pilot,,,Boeing-747:2017-03-22
+132-77-4219,Christina Mathis,UAW0405,899 Balboa Ct,398-271-6638,109000,Traffic Controller,2007-04-22,,
+606-94-9971,Larry Aguilar,UAW0406,580 Glen Albyn Dr,801-628-5588,100000,Technician,,Airbus-A350 Boeing-747,
+685-89-7272,Jerry Little,UAW0407,452 Medinah Ln,962-752-1759,59000,Pilot,,,Boeing-777:2018-05-07 Boeing-787:2019-09-14 Airbus-A380:2017-12-02 Airbus-A320:2019-04-16 Airbus-A330:2020-07-24 Boeing-767:2020-02-25
+377-78-5448,Joan Park,UAW0408,436 Bolton Walk - University Of California Santa Barbara,351-742-5951,137000,Traffic Controller,2002-05-11,,
+749-45-9596,Diane Sanchez,UAW0409,943 Santa Rosa Ln,624-402-0392,51000,Pilot,,,Airbus-A320:2017-06-12 Boeing-767:2018-12-11 Boeing-737:2017-08-07 Airbus-A380:2019-06-21 Boeing-777:2017-02-11 Boeing-787:2017-08-04
+799-11-8314,Nathan Briggs,UAW0410,957 De La Vina St,155-214-9826,83000,Traffic Controller,2010-10-10,,
+575-61-6621,Joseph Kirby,UAW0411,655 Newton Rd,359-182-2843,74000,Pilot,,,Airbus-A330:2018-03-07 Airbus-A380:2018-04-06 Boeing-747:2019-02-14 Boeing-737:2019-08-16 Boeing-787:2017-08-24 Airbus-A320:2017-07-06 Boeing-767:2019-08-03 Boeing-777:2017-10-04 Airbus-A350:2020-11-23
+269-79-9013,Eugene Herman,UAW0412,841 Garden Ln,700-635-3733,95000,Pilot,,,Boeing-787:2019-03-05 Boeing-777:2018-02-10 Boeing-767:2019-10-20 Airbus-A300:2019-03-14 Airbus-A330:2018-04-25 Boeing-737:2017-12-26 Airbus-A380:2020-07-15
+288-94-2615,Christian Mills,UAW0413,832 Via Trento,362-743-8372,47000,Traffic Controller,2016-12-01,,
+592-61-7492,Randy Bridges,UAW0414,700 Avena St,669-401-5601,103000,Pilot,,,Boeing-767:2017-05-05 Airbus-A350:2020-10-03 Boeing-787:2018-08-28
+704-25-7539,Denise Pacheco,UAW0415,201 Old Calzada Rd,016-138-1261,74000,Technician,,Boeing-777,
+969-63-8233,Doris Ashley,UAW0416,855 Glenn Rd - Los Padres National Forest,350-786-2730,109000,Traffic Controller,2016-08-02,,
+067-85-1343,Thomas Randall,UAW0417,906 Arden Way,997-998-5947,86000,Technician,,Airbus-A380 Boeing-777,
+101-93-9923,Brenda Vance,UAW0418,189 Monroe St,539-611-0859,60000,Technician,,Boeing-777 Airbus-A320,
+231-80-3440,Teresa Arias,UAW0419,499 Cleveland Ave,982-984-5825,101000,Pilot,,,Boeing-747:2020-11-09
+251-27-9900,Anna Acosta,UAW0420,363 Ferrara Way,795-578-5293,93000,Traffic Controller,2001-06-04,,
+179-16-7307,Jessica Mcintyre,UAW0421,243 Zink Ave,729-199-5144,96000,Technician,,Boeing-777 Boeing-747 Boeing-787 Airbus-A320,
+819-29-4313,Albert Park,UAW0422,230 Clinton Ct,376-281-7286,59000,Traffic Controller,2013-08-09,,
+872-00-1843,Carol Anderson,UAW0423,849 San Anzio Way,809-551-5568,75000,Pilot,,,Boeing-777:2017-07-08 Airbus-A320:2017-09-14 Airbus-A350:2018-09-09 Boeing-737:2017-03-24 Airbus-A330:2017-07-09 Airbus-A380:2019-11-25 Boeing-747:2020-01-03 Airbus-A300:2018-12-12 Boeing-787:2017-10-04
+839-90-8643,Paul Sutton,UAW0424,107 Stag Canyon Rd,396-215-1736,119000,Pilot,,,Airbus-A350:2017-06-24 Boeing-737:2019-02-02 Airbus-A330:2017-03-22 Airbus-A380:2017-03-02 Boeing-787:2020-01-18 Boeing-747:2017-02-26 Boeing-777:2017-10-06
+695-46-2254,Marie Zavala,UAW0425,964 W College Ave,918-171-9167,87000,Technician,,Airbus-A380 Boeing-767 Airbus-A330 Boeing-747,
+944-15-4702,Nicholas Summers,UAW0426,956 Auriga Ave,607-953-5742,53000,Traffic Controller,2007-02-23,,
+313-22-1986,Joseph Kent,UAW0427,687 Breezy Glen Dr,533-338-5737,128000,Traffic Controller,2016-09-10,,
+364-88-7233,Steven Skinner,UAW0428,279 Frederic Lopez Rd,829-223-8843,118000,Pilot,,,Boeing-747:2019-02-07
+867-26-4586,Bryan Hale,UAW0429,431 De La Cresta,011-206-8715,145000,Traffic Controller,2016-04-11,,
+647-54-5755,Roger Clayton,UAW0430,834 Weldon Rd,599-531-9723,137000,Pilot,,,Airbus-A320:2019-02-17 Airbus-A380:2019-05-05 Boeing-737:2018-08-14 Airbus-A300:2017-02-12 Boeing-747:2017-12-25 Airbus-A350:2017-01-21
+351-73-1830,Jennifer Brady,UAW0431,393 San Rossano Dr,708-959-8922,139000,Pilot,,,Airbus-A300:2020-02-16 Airbus-A320:2019-04-15 Airbus-A330:2017-11-20 Airbus-A380:2020-11-26 Boeing-787:2020-02-23
+144-58-1040,Hannah Juarez,UAW0432,267 Alta St,050-708-2271,130000,Pilot,,,Boeing-787:2017-08-02
+142-52-0378,Daniel Gilmore,UAW0433,811 Lolland Flaster Rd,059-234-9212,130000,Traffic Controller,2008-03-25,,
+370-47-3865,Amanda Mclean,UAW0434,933 Glen Oak Ct,947-901-5610,120000,Technician,,Boeing-747 Airbus-A320,
+566-31-5358,Kimberly Cain,UAW0435,892 Bregante Ln,053-905-3570,100000,Technician,,Airbus-A380 Airbus-A330,
+506-48-0307,Carl French,UAW0436,676 Astoria Pl,235-099-6477,49000,Technician,,Boeing-747,
+862-88-5295,Gloria Aguirre,UAW0437,380 Balboa Ct,010-644-4607,111000,Technician,,Airbus-A350 Boeing-777 Boeing-747 Boeing-787,
+192-80-4760,Gloria Fields,UAW0438,212 Palermo Dr,071-686-3973,131000,Traffic Controller,2006-02-28,,
+852-37-7479,Jane Johnson,UAW0439,629 State Route 144,163-565-7919,137000,Technician,,Airbus-A350 Airbus-A330 Airbus-A320 Boeing-737,
+672-28-1014,Christina Vaughan,UAW0440,693 Augusta Ct,400-935-8275,56000,Pilot,,,Airbus-A380:2019-05-22 Airbus-A320:2017-06-13 Boeing-767:2019-12-20 Boeing-747:2018-12-01 Airbus-A330:2017-04-26 Airbus-A350:2017-03-27 Boeing-787:2019-11-10
+399-42-1336,Frances Graves,UAW0441,522 San Nicolas Ave,027-904-9347,89000,Traffic Controller,2009-12-15,,
+250-53-9833,Lauren Rollins,UAW0442,773 Moss Ct,134-628-0086,125000,Traffic Controller,2003-02-28,,
+317-92-2083,Jose Barton,UAW0443,525 Via Hielo,178-339-5819,69000,Pilot,,,Airbus-A350:2018-06-05 Airbus-A300:2020-01-18 Boeing-787:2017-08-12
+413-67-1601,Stephanie Pope,UAW0444,324 W Mill St,318-786-9913,72000,Pilot,,,Boeing-777:2018-02-19 Boeing-767:2017-12-11 Airbus-A320:2018-10-02 Airbus-A380:2017-11-21 Boeing-787:2020-03-21
+276-34-8323,Albert Mcgrath,UAW0445,436 Temple St,556-504-2048,51000,Pilot,,,Airbus-A300:2020-12-04
+064-17-0133,Laura Hudson,UAW0446,526 Santa Elena Ln,931-380-2258,137000,Traffic Controller,2014-09-03,,
+018-25-3759,Jennifer Espinoza,UAW0447,671 Las Armas Rd,698-464-7391,60000,Traffic Controller,2009-07-21,,
+864-33-7156,Deborah Mendez,UAW0448,964 Dos Hermanos Rd,093-105-1402,101000,Pilot,,,Boeing-737:2017-09-19
+401-92-6031,Sharon Leach,UAW0449,483 Radcliff Ln,777-272-4960,57000,Technician,,Boeing-787 Airbus-A330,
+322-87-0151,Jessica Padilla,UAW0450,996 Miracanon Ln,230-472-6191,96000,Pilot,,,Airbus-A320:2018-04-10 Airbus-A350:2019-12-12 Boeing-737:2020-12-19 Airbus-A330:2018-12-03 Boeing-767:2017-12-27 Airbus-A300:2017-12-16 Boeing-787:2020-08-13 Airbus-A380:2017-07-10
+146-54-6552,Ruth Bowers,UAW0451,962 Dos Hermanos Rd,704-363-7185,134000,Traffic Controller,2007-07-23,,
+217-06-1429,Daniel Avery,UAW0452,356 Alhambra Ave,748-927-9756,140000,Traffic Controller,2004-06-27,,
+944-55-7116,Patricia Macdonald,UAW0453,909 Pebble Hill Ln,261-043-8300,116000,Traffic Controller,2016-05-25,,
+054-93-7993,Martha Shields,UAW0454,180 Murray Dr,548-673-8203,62000,Technician,,Boeing-767 Airbus-A300 Boeing-737,
+274-94-9994,Nancy Kent,UAW0455,538 La Flecha Ln,407-822-0314,147000,Technician,,Airbus-A300 Airbus-A350 Boeing-767,
+878-90-2408,Mildred Huang,UAW0456,322 Avenida Gorrion Ct,848-530-3527,94000,Traffic Controller,2016-04-10,,
+813-27-8903,Christina Melendez,UAW0457,566 Cotar Rd,928-984-1715,77000,Technician,,Boeing-737 Airbus-A350 Airbus-A330 Airbus-A380,
+223-36-1674,Lauren Li,UAW0458,881 Cameron Dr,660-419-9125,124000,Pilot,,,Boeing-747:2020-09-11 Airbus-A320:2019-12-27 Boeing-777:2019-01-08 Boeing-787:2017-11-23 Boeing-737:2018-02-24 Airbus-A300:2017-10-13 Airbus-A330:2019-11-12 Airbus-A350:2020-08-02
+115-48-1135,Donald Camacho,UAW0459,599 Portofino Way,259-809-7681,87000,Traffic Controller,2010-02-20,,
+624-04-2330,Noah Hood,UAW0460,267 San Rossano Dr,035-313-8314,132000,Traffic Controller,2009-12-16,,
+720-71-5697,Maria Young,UAW0461,572 Aspen St,059-875-7685,136000,Pilot,,,Airbus-A330:2019-05-12
+554-76-0511,Jerry Nielsen,UAW0462,343 El Sueno Rd,643-810-1995,46000,Pilot,,,Airbus-A380:2017-01-27 Boeing-777:2019-12-28
+645-83-9866,Nicole Dodson,UAW0463,527 Cachuma Creek,767-623-1869,60000,Technician,,Airbus-A380 Airbus-A320 Airbus-A330,
+966-14-2727,Lori Lucas,UAW0464,546 Via Reposa,699-281-3090,130000,Traffic Controller,2010-05-11,,
+537-07-3036,Adam Roberson,UAW0465,674 Via Del Florista,762-835-7204,57000,Pilot,,,Boeing-747:2018-08-04 Boeing-767:2020-11-04 Airbus-A350:2020-09-15 Airbus-A380:2020-03-17
+911-10-9380,Samantha Boone,UAW0466,302 Butterfly Ct,703-035-1495,60000,Traffic Controller,2010-04-28,,
+672-57-1866,Nicholas Floyd,UAW0467,206 Cate Mesa Rd,324-786-1350,102000,Pilot,,,Boeing-767:2017-12-15 Boeing-777:2017-10-14 Airbus-A380:2019-06-09 Airbus-A320:2018-09-27 Airbus-A330:2018-07-17 Boeing-747:2019-11-06 Airbus-A350:2017-10-03 Boeing-737:2020-08-03
+879-96-2051,Evelyn Gibson,UAW0468,719 Del Rey Ln,314-719-0686,84000,Technician,,Airbus-A330 Boeing-767,
+263-33-2238,Ryan Richard,UAW0469,770 Mariana Way,252-797-1673,137000,Technician,,Airbus-A320 Airbus-A330 Airbus-A300 Boeing-737,
+248-75-1432,Janice Sandoval,UAW0470,324 Miramonte Ave,898-179-2634,78000,Pilot,,,Airbus-A330:2018-12-06 Airbus-A300:2018-01-08 Airbus-A380:2017-02-22 Boeing-767:2018-12-23
+364-84-5275,Kenneth Bates,UAW0471,126 Freedom Pl,588-095-6370,145000,Traffic Controller,2001-01-14,,
+494-48-1864,Marie Atkinson,UAW0472,244 9th St,683-821-5293,107000,Technician,,Airbus-A350 Boeing-787,
+870-35-5479,Larry Li,UAW0473,187 Tollis Ave,232-252-2306,57000,Technician,,Boeing-777 Airbus-A350 Airbus-A320,
+967-17-6432,Gabriel Schultz,UAW0474,293 Oak Valley Ct,324-372-9092,133000,Traffic Controller,2000-10-21,,
+956-83-1061,William Poole,UAW0475,248 Vallecito Rd,945-182-9980,61000,Technician,,Boeing-767 Airbus-A330 Airbus-A350,
+202-22-8709,Ruth Hayes,UAW0476,390 Oak Pointe Dr,988-854-4447,52000,Traffic Controller,2004-12-10,,
+378-32-5403,Joseph Newman,UAW0477,312 Mayfield St,896-540-0202,62000,Pilot,,,Airbus-A350:2020-02-20 Airbus-A320:2018-08-12 Boeing-787:2020-02-06 Airbus-A380:2020-12-11 Boeing-747:2020-04-06 Airbus-A330:2018-01-13 Boeing-737:2019-01-15 Boeing-767:2020-02-07 Airbus-A300:2017-12-06
+413-15-9105,Zachary Jacobs,UAW0478,489 Ocean View Blvd,427-727-4618,149000,Traffic Controller,2012-01-15,,
+642-63-7198,Daniel Frost,UAW0479,158 Andromeda Dr,993-730-9020,65000,Traffic Controller,2013-04-23,,
+703-80-0522,Lori Mccullough,UAW0480,121 Crestwood Ct,927-419-0484,124000,Traffic Controller,2010-12-03,,
+507-75-5324,Kayla Chen,UAW0481,263 Burning Tree Way,654-913-3185,109000,Technician,,Boeing-747 Airbus-A380 Airbus-A320 Airbus-A350,
+988-70-6225,Paul Stout,UAW0482,160 Meadow View Ln,595-158-2505,68000,Traffic Controller,2004-02-12,,
+610-66-5787,Martha Carlson,UAW0483,903 E Islay St,376-237-0649,110000,Technician,,Boeing-777,
+386-21-0089,Anna Parrish,UAW0484,302 St Charles Pl,713-437-4740,140000,Technician,,Boeing-737 Airbus-A330 Airbus-A300,
+719-05-9171,Sharon Cameron,UAW0485,711 S Smith St,851-630-9301,146000,Pilot,,,Airbus-A300:2017-03-09 Airbus-A320:2019-12-11 Airbus-A330:2017-01-23 Boeing-767:2020-09-14 Boeing-777:2020-08-04 Boeing-737:2018-09-23
+189-67-8745,Victoria Fritz,UAW0486,580 Arborea Ct,170-132-9589,87000,Technician,,Airbus-A380 Boeing-787,
+564-89-7212,Ruth Tapia,UAW0487,635 Drake Dr,509-271-6683,141000,Pilot,,,Airbus-A300:2020-04-21 Airbus-A320:2018-07-08 Airbus-A380:2020-07-12 Boeing-787:2020-08-26
+341-30-6841,Janet Hardin,UAW0488,607 Cain Dr,713-063-0364,120000,Technician,,Airbus-A330 Boeing-737,
+258-01-1218,Daniel Kelley,UAW0489,105 Ribe Rd,596-320-6642,144000,Traffic Controller,2003-07-14,,
+709-73-8605,Marilyn Galvan,UAW0490,878 W Prune Ave,624-997-6226,45000,Pilot,,,Airbus-A320:2019-07-17 Airbus-A380:2020-03-18 Airbus-A350:2019-07-10 Airbus-A300:2018-05-27 Boeing-787:2020-10-16 Boeing-767:2017-12-17 Boeing-737:2017-03-17 Boeing-747:2020-06-25
+117-56-7220,Carol Esparza,UAW0491,254 Duke Dr,506-629-4796,91000,Traffic Controller,2003-03-09,,
+492-79-2478,Carol Walsh,UAW0492,799 Vhf Rd,124-624-5807,108000,Pilot,,,Airbus-A330:2020-08-01 Boeing-767:2019-10-03 Boeing-747:2018-03-07 Airbus-A300:2018-09-24 Airbus-A380:2018-12-13 Boeing-737:2020-05-21
+377-89-4720,Jacqueline Avery,UAW0493,900 Sierra Madre Dr,363-447-7464,141000,Technician,,Airbus-A300 Boeing-777 Airbus-A330,
+176-39-8972,Mildred Archer,UAW0494,551 Sagunto St,161-118-3551,52000,Pilot,,,Boeing-787:2020-05-08 Airbus-A350:2018-03-21 Boeing-737:2018-09-08 Airbus-A330:2019-10-14 Boeing-767:2019-04-23 Airbus-A300:2017-08-20
+049-60-4750,Billy Rubio,UAW0495,271 San Lorenzo Dr,905-003-5903,124000,Traffic Controller,2002-03-12,,
+081-88-8298,Larry Bell,UAW0496,810 Tognazzini Ave,271-830-7208,71000,Traffic Controller,2006-12-03,,
+554-53-8430,Margaret Haney,UAW0497,190 Mockernut St,492-444-3811,139000,Technician,,Boeing-737,
+617-20-1575,Theresa Floyd,UAW0498,332 Oak Knoll Rd,458-314-0287,54000,Technician,,Airbus-A300 Airbus-A330 Boeing-737 Airbus-A350,
+164-48-9751,Timothy Sampson,UAW0499,113 Stokes,572-144-2560,52000,Technician,,Boeing-737 Airbus-A330 Airbus-A350,
+841-14-1618,Jennifer Rodriguez,UAW0500,521 Glen Albyn Dr,495-810-5837,45000,Traffic Controller,2009-12-25,,
+065-64-9304,Arthur Moon,UAW0501,554 Via Messina,161-491-1273,135000,Traffic Controller,2009-03-24,,
+381-54-6497,Ralph Faulkner,UAW0502,584 Bison Ln,726-445-1371,120000,Traffic Controller,2011-02-06,,
+311-81-3186,Kevin Best,UAW0503,466 Via Esmeralda,408-148-9154,50000,Technician,,Boeing-777,
+686-38-5127,Brian Combs,UAW0504,937 El Faro,921-298-8311,79000,Pilot,,,Boeing-777:2020-12-12 Airbus-A330:2018-02-18 Airbus-A320:2019-07-06 Airbus-A300:2017-09-07 Boeing-747:2018-02-22 Boeing-787:2018-12-20
+352-96-3291,Johnny Higgins,UAW0505,423 E Rice Ranch Rd,650-251-4901,112000,Traffic Controller,2012-09-02,,
+290-55-8534,David Huang,UAW0506,568 Potrero Ln - Los Padres National Forest,701-757-3325,71000,Pilot,,,Boeing-777:2019-06-14
+894-78-9568,Helen Sanchez,UAW0507,923 Paseo Del Pinon,568-752-7299,65000,Traffic Controller,2001-12-07,,
+641-12-9969,Samuel Pitts,UAW0508,874 Bodger Rd,303-768-8232,56000,Technician,,Boeing-767 Airbus-A320,
+674-52-6003,Elizabeth Petty,UAW0509,945 23rd St,866-292-8104,99000,Pilot,,,Airbus-A300:2019-03-01 Boeing-747:2019-05-22 Boeing-767:2019-11-16 Airbus-A350:2017-06-27
+567-92-5622,Kelly Clayton,UAW0510,983 Altair Pl,629-366-1374,99000,Traffic Controller,2004-01-19,,
+601-74-4416,Gloria Vaughn,UAW0511,734 Riddering St,523-253-5396,147000,Technician,,Airbus-A320 Airbus-A350 Boeing-747,
+055-94-7313,Lauren Lutz,UAW0512,284 Philbric Rd,957-922-1370,96000,Pilot,,,Boeing-777:2018-01-18 Airbus-A330:2020-10-17 Boeing-767:2020-09-09 Airbus-A320:2018-12-25 Airbus-A300:2019-03-04 Boeing-737:2017-09-15 Boeing-787:2020-02-20
+984-17-7619,Sean Monroe,UAW0513,173 Elise Pl,570-740-4537,141000,Pilot,,,Airbus-A380:2018-08-12 Airbus-A300:2019-05-13 Airbus-A330:2018-12-26 Boeing-767:2018-03-08 Boeing-777:2017-05-26
+808-97-4288,Shirley Blevins,UAW0514,534 Perez Rd,054-884-3202,144000,Traffic Controller,2010-12-03,,
+867-63-1103,Henry Love,UAW0515,465 Roble Dr,214-285-7756,91000,Technician,,Boeing-737 Airbus-A380,
+899-69-3360,Emma Wilson,UAW0516,603 S Broadway St,238-276-2772,117000,Pilot,,,Airbus-A350:2018-12-17 Airbus-A320:2019-09-11
+401-96-8921,Russell Guerrero,UAW0517,711 Nipomo Dr,439-533-6863,125000,Traffic Controller,2008-09-11,,
+808-20-8598,Larry Newman,UAW0518,704 Ballinger Canyon Rd,177-571-1581,79000,Traffic Controller,2011-05-06,,
+927-00-2311,Denise Mcgee,UAW0519,700 Almond Ln,660-323-5127,100000,Technician,,Boeing-747,
+208-71-2004,Joshua Conway,UAW0520,405 Venus Ave,298-598-0588,109000,Pilot,,,Boeing-767:2020-08-06 Airbus-A330:2019-12-09 Boeing-777:2020-11-19 Boeing-737:2020-01-20 Boeing-787:2020-02-12 Airbus-A320:2020-12-10 Airbus-A380:2017-12-28
+938-12-3285,Sean Khan,UAW0521,512 Las Flores Way,115-721-0856,134000,Pilot,,,Boeing-777:2018-02-20 Airbus-A350:2020-06-20 Airbus-A380:2017-10-16
+140-93-6632,William Lynn,UAW0522,468 Cuatro Caminos,926-993-7219,109000,Pilot,,,Airbus-A300:2018-12-02 Airbus-A380:2019-04-06 Airbus-A320:2017-09-17 Airbus-A330:2017-01-11 Boeing-767:2019-08-17
+366-78-2990,David Kelly,UAW0523,521 Ranch View Ln,126-336-7303,134000,Technician,,Airbus-A300 Boeing-777,
+724-74-7342,Bruce Hunter,UAW0524,524 Monarch Dr,317-212-6080,86000,Traffic Controller,2011-04-21,,
+090-80-1110,Olivia Gutierrez,UAW0525,332 Juana Maria St,384-217-6412,121000,Traffic Controller,2008-04-07,,
+346-33-1922,Alexander Leonard,UAW0526,433 Borges Dr,366-509-8243,108000,Technician,,Boeing-737 Airbus-A320,
+818-89-7918,Thomas Lynn,UAW0527,540 Mandeville Ct,686-579-6400,88000,Technician,,Boeing-767 Airbus-A330,
+159-16-4559,Diana Ray,UAW0528,923 Tranquillion Mountain Rd,686-585-7421,93000,Technician,,Airbus-A300 Airbus-A320,
+269-48-0442,Lori Jensen,UAW0529,459 Wullbrandt Way,470-089-7100,58000,Traffic Controller,2003-10-14,,
+157-84-8829,Aaron Potts,UAW0530,249 Crestwood Ct,900-394-7586,109000,Traffic Controller,2013-05-21,,
+929-30-7802,Hannah Maxwell,UAW0531,135 Juniper Walk - University Of California Santa Barbara,290-749-5267,140000,Technician,,Airbus-A330 Airbus-A300 Boeing-777 Airbus-A380 Boeing-737,
+135-68-4825,Mildred Walsh,UAW0532,192 Samantha Pl,315-909-3552,136000,Technician,,Airbus-A350 Airbus-A300,
+286-96-0172,Julie Flores,UAW0533,411 Verano St,563-298-9147,82000,Technician,,Boeing-787 Boeing-777 Airbus-A350,
+858-82-6475,Bruce Mata,UAW0534,400 El Camino Ratel,903-944-8064,136000,Technician,,Boeing-737 Airbus-A350 Boeing-767 Airbus-A380,
+608-64-9800,Gregory Carrillo,UAW0535,864 Cima Del Mundo Rd,340-227-1200,90000,Traffic Controller,2012-07-06,,
+432-62-8424,Julia Guerrero,UAW0536,149 Dorwin Ln,217-168-9274,136000,Pilot,,,Boeing-737:2019-11-07
+973-35-2247,Jeremy Steele,UAW0537,645 Pino Solo Dr,246-765-5266,113000,Technician,,Airbus-A330,
+558-14-9443,Anthony Barron,UAW0538,790 La Vista Rd,209-835-3375,146000,Pilot,,,Airbus-A350:2017-01-12 Boeing-747:2020-03-21 Airbus-A320:2019-06-24 Boeing-777:2018-07-11 Boeing-737:2020-04-07 Boeing-787:2018-12-04
+244-06-3853,Peter Bowman,UAW0539,802 Romaine Dr,760-748-0544,141000,Pilot,,,Boeing-747:2019-02-09 Boeing-767:2018-06-02 Boeing-737:2017-03-07 Boeing-777:2019-04-17 Airbus-A350:2019-09-06 Airbus-A300:2018-07-16 Airbus-A330:2019-06-23
+928-16-8729,Richard Ortiz,UAW0540,674 Orizaba Ln,534-394-9362,87000,Pilot,,,Boeing-737:2017-02-07 Boeing-777:2018-01-26 Boeing-747:2018-12-24 Airbus-A320:2020-11-12
+271-81-6324,Nancy Dean,UAW0541,646 Matorral Cir,378-692-0517,106000,Traffic Controller,2003-08-22,,
+139-87-9484,Randy Cooke,UAW0542,775 Bodger Rd,296-785-2762,88000,Pilot,,,Airbus-A320:2018-05-16 Airbus-A300:2019-12-11 Boeing-767:2017-10-12 Boeing-747:2019-02-19 Airbus-A350:2018-12-20
+320-03-4169,Benjamin Byrd,UAW0543,685 W Bunny Ave,711-180-8277,149000,Traffic Controller,2006-02-19,,
+243-88-1905,Dorothy Ward,UAW0544,378 Monterey Rd,749-943-3717,136000,Traffic Controller,2009-11-06,,
+563-25-4913,Judith Brady,UAW0545,530 Diana Ln,414-978-1506,70000,Traffic Controller,2002-06-15,,
+685-51-3320,George Howard,UAW0546,559 Windharp Dr,026-478-3493,57000,Technician,,Boeing-787 Airbus-A300 Airbus-A350 Airbus-A380 Airbus-A320,
+695-10-1427,Charles Wright,UAW0547,216 Toro Canyon Park Rd - Los Padres National Forest,891-013-1541,104000,Technician,,Boeing-767 Airbus-A330 Boeing-787 Boeing-737 Airbus-A350,
+574-64-7397,Patricia Mcfarland,UAW0548,658 Oak Glen Dr,131-315-6578,116000,Traffic Controller,2002-01-02,,
+234-14-7990,Sarah Hardin,UAW0549,754 St No 9,654-080-3427,130000,Traffic Controller,2000-07-18,,
+573-98-7231,Dylan Mitchell,UAW0550,473 Foothill Ln,992-067-2175,135000,Technician,,Boeing-737 Boeing-787 Boeing-767,
+021-72-6438,Philip Davidson,UAW0551,576 N Oakley Ave,076-700-0129,93000,Traffic Controller,2009-09-16,,
+325-83-7578,Mildred Byrd,UAW0552,249 Freya Dr,930-602-8102,77000,Pilot,,,Airbus-A350:2017-06-13
+958-08-4470,Deborah Harmon,UAW0553,377 Matorral Cir,784-453-4700,119000,Traffic Controller,2002-02-18,,
+113-97-9466,Wayne Wiggins,UAW0554,620 Vista Arroyo,363-910-3085,115000,Technician,,Airbus-A320 Boeing-747 Airbus-A300,
+573-02-2153,Patricia Quinn,UAW0555,271 Greenbrier Rd,341-876-7678,130000,Technician,,Boeing-787 Airbus-A300 Boeing-737 Airbus-A330 Airbus-A320,
+459-28-1225,Beverly Pratt,UAW0556,164 Sheep Camp Rd,247-034-9256,107000,Pilot,,,Airbus-A300:2019-11-13 Boeing-737:2020-01-22 Airbus-A320:2019-09-13 Airbus-A380:2019-09-17 Boeing-767:2018-11-16
+930-43-0776,Denise Frost,UAW0557,771 Old Tisbury Ln,630-272-3066,130000,Traffic Controller,2001-10-18,,
+631-41-7984,Sara Quinn,UAW0558,761 San Julian Ave,490-297-4440,112000,Traffic Controller,2012-11-28,,
+505-20-7686,Ashley York,UAW0559,367 El Capitan Ranch Rd,745-175-1432,136000,Traffic Controller,2010-12-17,,
+189-09-2656,Julia Leblanc,UAW0560,997 Paseo Del Pinon,558-513-2392,106000,Traffic Controller,2015-12-21,,
+285-87-1453,Elizabeth Strickland,UAW0561,857 N K St,649-830-0049,71000,Traffic Controller,2006-07-08,,
+073-37-6316,William Nunez,UAW0562,275 Sunrise Way,768-948-9548,115000,Pilot,,,Boeing-787:2017-11-12 Airbus-A380:2020-01-20 Boeing-747:2019-11-12 Airbus-A330:2018-10-02
+894-67-8488,Ethan Lang,UAW0563,557 Oak View Dr,114-993-8416,104000,Technician,,Boeing-777,
+797-76-7221,Kevin Warren,UAW0564,494 Cambria Ave,241-447-3445,56000,Technician,,Airbus-A350 Airbus-A330 Boeing-787 Airbus-A380,
+984-30-9685,Jerry Pierce,UAW0565,741 Dixie Lee Dr,543-483-0312,67000,Traffic Controller,2010-08-04,,
+864-89-9533,Nicole Wells,UAW0566,797 Clover Ln,443-551-5642,77000,Pilot,,,Boeing-787:2019-02-07 Airbus-A380:2018-04-24 Airbus-A330:2017-11-20 Boeing-737:2020-02-03 Airbus-A300:2018-02-10 Airbus-A320:2019-12-01 Boeing-767:2019-01-27
+012-03-1138,Teresa Pittman,UAW0567,424 State Route 144,460-441-1820,139000,Technician,,Airbus-A380 Airbus-A350 Boeing-737,
+025-03-4257,George Nguyen,UAW0568,268 Townsend Ln,253-036-4615,145000,Pilot,,,Airbus-A350:2017-12-03 Airbus-A380:2017-07-10 Boeing-747:2017-03-24 Boeing-787:2018-10-11 Airbus-A330:2019-08-18 Boeing-767:2019-03-15 Boeing-777:2020-11-04
+561-02-3290,Raymond Meyer,UAW0569,842 Lomita Ln,602-711-3596,58000,Technician,,Airbus-A350 Airbus-A380,
+385-02-2509,Kelly Bailey,UAW0570,967 El Faro,449-745-8292,60000,Traffic Controller,2007-11-19,,
+686-59-9346,Mildred Morris,UAW0571,889 Santa Angela Ln,927-445-6364,137000,Technician,,Boeing-787 Airbus-A380 Boeing-747 Airbus-A330,
+242-60-4804,Karen Clark,UAW0572,221 Linfield Pl,542-095-4273,136000,Traffic Controller,2001-09-21,,
+711-44-2522,Juan Dean,UAW0573,102 W Valerio St,265-668-6998,48000,Traffic Controller,2015-05-10,,
+832-62-2980,Vincent Warner,UAW0574,810 Cedar St,193-406-0937,122000,Technician,,Airbus-A300 Boeing-787,
+633-86-6200,Michael Mccormick,UAW0575,869 Mountain Ave,138-878-4706,146000,Traffic Controller,2010-07-21,,
+705-16-5616,Ethan Lynch,UAW0576,235 Eucalyptus Hill Dr,338-454-4377,68000,Pilot,,,Airbus-A320:2019-07-27 Boeing-777:2017-02-05 Airbus-A350:2019-01-03 Airbus-A300:2017-07-10 Boeing-767:2020-02-18 Boeing-737:2017-10-17 Boeing-787:2020-10-01
+315-49-6715,Stephen Briggs,UAW0577,922 Terrace Dr,913-987-8773,124000,Traffic Controller,2004-09-16,,
+219-82-8417,Linda Archer,UAW0578,609 Donald Way,328-458-0639,46000,Pilot,,,Airbus-A380:2019-03-16
+564-80-6789,Janice Lloyd,UAW0579,456 Westminster Ln,461-977-2809,136000,Pilot,,,Boeing-767:2020-12-12 Boeing-737:2017-10-02 Airbus-A320:2019-12-24 Boeing-747:2018-06-12
+880-69-8878,Barbara Esparza,UAW0580,538 Ellwood Beach Dr,307-734-7505,76000,Technician,,Boeing-747,
+290-96-2237,Billy Bennett,UAW0581,603 Via Esparto,557-696-4499,122000,Traffic Controller,2003-11-03,,
+361-21-8510,Ann Underwood,UAW0582,703 Glenn Rd - Los Padres National Forest,976-631-8068,80000,Technician,,Airbus-A320 Boeing-787,
+068-47-0863,Jose Long,UAW0583,523 La Riata Ln,815-896-8524,105000,Traffic Controller,2010-12-26,,
+825-58-2787,Mildred Phillips,UAW0584,836 Clemens Way,888-517-7537,80000,Technician,,Boeing-767,
+117-84-3577,Jason Boyd,UAW0585,519 Eastgate Dr,087-589-0111,101000,Technician,,Boeing-777,
+598-78-7089,Diane Rodriguez,UAW0586,863 Painted Cave Rd - Los Padres National Forest,561-371-7333,103000,Pilot,,,Boeing-787:2020-01-14 Boeing-737:2019-02-27 Airbus-A300:2017-08-03 Airbus-A350:2020-12-13
+787-57-1910,Ethan Owen,UAW0587,653 Skylark Rd,009-235-2012,64000,Traffic Controller,2011-05-03,,
+332-77-0733,Edward Calhoun,UAW0588,179 E Locust Ave,355-402-6216,139000,Traffic Controller,2011-01-04,,
+132-59-3227,Karen Price,UAW0589,483 S Sage St,041-128-1041,80000,Traffic Controller,2001-02-06,,
+765-73-9956,Willie Bell,UAW0590,115 Orena Ave,165-035-0768,81000,Pilot,,,Boeing-737:2018-03-02 Boeing-777:2020-08-07 Boeing-747:2018-07-26 Boeing-767:2019-12-10 Airbus-A320:2019-12-17 Airbus-A300:2020-05-03 Boeing-787:2017-10-05 Airbus-A330:2020-07-26
+348-30-4168,Janet Cooper,UAW0591,119 Alton Dr,952-955-8906,141000,Technician,,Boeing-747 Boeing-737 Airbus-A300,
+723-67-9999,Lawrence Bean,UAW0592,975 La Brea Ln,167-213-7475,115000,Traffic Controller,2014-11-06,,
+962-07-7632,Rose Harmon,UAW0593,138 Puerto Dr,591-363-3996,146000,Traffic Controller,2008-10-23,,
+505-52-6084,Henry Rose,UAW0594,784 Lomita Ln,556-251-7491,84000,Pilot,,,Airbus-A330:2017-07-07 Boeing-787:2020-02-02 Boeing-737:2017-09-16 Boeing-777:2020-06-05 Airbus-A300:2018-02-28
+959-92-2182,Juan Whitney,UAW0595,693 Via La Selva,987-230-9331,78000,Technician,,Airbus-A300,
+784-84-3054,Mary Bautista,UAW0596,822 Parkland Dr,586-011-5172,47000,Traffic Controller,2000-12-28,,
+258-45-6520,Deborah Newton,UAW0597,647 Cimarron Dr,705-092-9759,52000,Traffic Controller,2014-02-08,,
+842-54-3863,Jack Hooper,UAW0598,649 Por La Mar Cir,180-936-5674,84000,Traffic Controller,2003-11-14,,
+105-66-1707,Larry Hebert,UAW0599,394 Mandarin Dr,835-027-2495,148000,Technician,,Boeing-777 Airbus-A330 Boeing-737,
+503-38-9469,Douglas Hodges,UAW0600,347 Stokes,063-096-7836,130000,Pilot,,,Airbus-A380:2020-03-05 Boeing-747:2019-07-14 Airbus-A350:2020-10-09
+807-92-5667,Bryan Stevenson,UAW0601,485 Ladera St,199-078-8118,58000,Technician,,Airbus-A350 Boeing-777 Airbus-A380,
+322-55-3033,Carol Koch,UAW0602,150 Townsend Ln,772-120-2474,58000,Pilot,,,Airbus-A350:2020-12-07 Boeing-767:2019-11-15 Boeing-737:2020-11-09 Boeing-747:2020-10-14 Boeing-777:2017-05-28 Airbus-A320:2019-11-03 Airbus-A380:2019-02-27 Airbus-A330:2018-07-19
+482-77-4719,Cynthia Rosario,UAW0603,637 Sycamore Ave,148-520-4004,81000,Traffic Controller,2009-01-03,,
+640-18-6670,Judy Simpson,UAW0604,992 Toro Canyon Park Rd - Los Padres National Forest,715-357-2069,107000,Traffic Controller,2007-01-25,,
+613-38-1281,Roy Garrett,UAW0605,892 San Luis Dr,597-797-8009,106000,Pilot,,,Airbus-A350:2020-06-06 Boeing-737:2017-01-09 Boeing-777:2020-01-17 Airbus-A330:2019-06-07 Airbus-A380:2019-03-23 Airbus-A320:2019-10-27
+645-16-3875,Julie Manning,UAW0606,332 Whitney Ave,873-033-7512,138000,Pilot,,,Boeing-777:2019-12-10 Boeing-747:2018-12-04 Boeing-767:2019-01-11 Airbus-A300:2018-01-24 Airbus-A350:2019-11-06 Airbus-A380:2017-08-14 Boeing-787:2020-11-23
+026-85-4927,Marilyn Terrell,UAW0607,821 Via Messina,470-651-4439,61000,Traffic Controller,2002-05-12,,
+663-85-2041,Joshua Lawson,UAW0608,770 Segundo,086-056-5745,127000,Pilot,,,Boeing-737:2017-04-25 Airbus-A350:2018-07-28 Airbus-A330:2019-10-24 Airbus-A320:2019-05-20 Boeing-747:2020-11-14 Boeing-777:2020-02-20 Boeing-787:2020-02-24
+259-75-5566,Donna Small,UAW0609,869 Sierra St,334-807-5384,140000,Traffic Controller,2011-05-08,,
+029-94-2008,Tyler Dorsey,UAW0610,741 Las Rosas Ln,376-827-0176,141000,Technician,,Boeing-767 Airbus-A350 Airbus-A330,
+092-45-8447,Jacqueline Coffey,UAW0611,389 Santa Catalina Ave,796-058-8378,110000,Technician,,Airbus-A300 Airbus-A380 Boeing-767,
+055-39-0552,Amber Casey,UAW0612,987 Primrose Ln,452-706-6206,117000,Traffic Controller,2004-07-04,,
+641-64-4826,Doris Mcdaniel,UAW0613,418 N C St,030-455-6242,60000,Pilot,,,Boeing-737:2018-12-09 Airbus-A380:2017-12-15 Boeing-767:2018-06-18 Boeing-787:2019-02-03 Airbus-A350:2018-03-11 Boeing-777:2020-02-24 Airbus-A320:2017-07-22 Airbus-A330:2020-08-05
+891-53-6763,David Adkins,UAW0614,944 Playa Blanca St,994-316-5486,78000,Technician,,Boeing-737,
+801-12-6442,Johnny Velazquez,UAW0615,654 Cameron Dr,824-883-1945,150000,Traffic Controller,2004-11-14,,
+053-84-6958,Billy Tyler,UAW0616,197 Larryton Ave,840-741-8043,82000,Pilot,,,Airbus-A330:2017-12-21 Boeing-767:2017-04-22 Airbus-A300:2019-02-25 Airbus-A350:2017-07-21 Airbus-A320:2020-06-28 Boeing-787:2019-03-28 Boeing-777:2017-08-09 Airbus-A380:2018-08-02
+044-41-9249,Christina Molina,UAW0617,163 Perigee Rd,407-621-3421,66000,Traffic Controller,2010-07-19,,
+955-39-6627,Ashley Sweeney,UAW0618,705 N Palisade Dr,044-124-8138,142000,Pilot,,,Airbus-A300:2020-06-26 Airbus-A320:2018-01-08 Boeing-747:2019-01-08 Airbus-A330:2018-02-21 Boeing-787:2019-11-10
+712-72-4997,Emma Cunningham,UAW0619,675 Eversden Ln,914-199-1076,74000,Pilot,,,Boeing-777:2017-10-14 Boeing-787:2017-03-25 Boeing-747:2018-05-05 Boeing-737:2020-08-19 Airbus-A320:2020-05-08 Airbus-A350:2020-04-01 Boeing-767:2017-09-10 Airbus-A300:2017-01-06
+913-58-5296,Carol Coffey,UAW0620,266 Las Positas Rd,948-443-3693,114000,Pilot,,,Boeing-787:2019-11-06
+300-76-1089,Kevin Faulkner,UAW0621,760 Amber Way,704-349-2467,111000,Traffic Controller,2007-04-08,,
+285-68-5198,Joan Dillon,UAW0622,675 Robert Troup Rd - Santa Barbara Municipal Airport (sba),345-863-6944,131000,Pilot,,,Boeing-767:2017-05-03 Airbus-A320:2017-03-16 Airbus-A300:2019-07-01 Boeing-777:2018-02-16 Boeing-787:2017-08-04 Airbus-A350:2020-12-07 Boeing-747:2019-03-06 Airbus-A380:2018-11-19
+193-43-6507,Mildred Cardenas,UAW0623,465 Parkland Dr,227-257-3612,50000,Pilot,,,Airbus-A330:2018-12-02 Boeing-747:2020-03-07 Boeing-767:2017-01-06 Airbus-A380:2017-06-24 Airbus-A350:2018-01-11 Boeing-737:2018-05-09 Boeing-777:2019-08-24 Boeing-787:2019-08-16
+801-36-8342,Alice Little,UAW0624,333 Sora Ct,511-623-5507,69000,Pilot,,,Airbus-A380:2017-07-08 Airbus-A300:2019-12-26
+913-89-8525,Heather Arroyo,UAW0625,535 Masatani Ct,313-322-3599,46000,Technician,,Boeing-777 Boeing-737 Airbus-A330,
+557-87-0345,Louis Andersen,UAW0626,195 Pasquala Ln,915-075-6614,48000,Technician,,Airbus-A300 Boeing-787,
+199-32-7413,Noah Leon,UAW0627,675 Las Fuentes Dr,064-076-4860,127000,Pilot,,,Boeing-767:2017-11-13 Boeing-737:2018-09-16
+835-98-3446,Debra Shelton,UAW0628,529 Terrace Rd,843-291-3106,46000,Pilot,,,Boeing-767:2018-06-21
+326-04-8538,Emma Travis,UAW0629,174 Invierno Dr,175-300-5872,105000,Pilot,,,Airbus-A330:2018-03-27 Airbus-A350:2017-10-19 Airbus-A320:2019-07-05 Airbus-A300:2019-12-13 Boeing-777:2018-06-19 Boeing-747:2017-01-26 Boeing-787:2017-06-11
+673-55-3907,Laura Clark,UAW0630,286 Arrowhead Dr,400-403-3969,84000,Pilot,,,Boeing-787:2019-06-05 Boeing-777:2017-01-03
+248-50-8554,Harold Garrett,UAW0631,727 Santa Barbara St,405-303-3486,143000,Pilot,,,Airbus-A320:2018-07-18 Airbus-A330:2019-12-05 Airbus-A350:2018-04-23 Airbus-A300:2020-05-19 Boeing-737:2020-08-23 Boeing-767:2020-12-08 Boeing-777:2019-05-28 Airbus-A380:2018-12-12
+025-02-4907,Victoria Vincent,UAW0632,676 Mclaughlin Rd,155-170-1588,58000,Traffic Controller,2010-04-17,,
+412-42-7397,Ethan Crosby,UAW0633,131 Dejoy St,477-606-4779,93000,Pilot,,,Boeing-787:2018-10-25 Airbus-A300:2020-03-08 Airbus-A380:2018-09-19 Boeing-737:2019-01-04 Boeing-767:2017-03-03 Boeing-777:2018-11-15
+433-45-7954,Ann Preston,UAW0634,428 Begonia Pl,036-261-5375,132000,Technician,,Boeing-787,
+166-87-6756,Paul Juarez,UAW0635,546 Appaloosa Trail,042-574-8344,48000,Traffic Controller,2015-09-27,,
+963-21-3795,Tammy Olson,UAW0636,106 La Cresta Cir,560-052-4882,83000,Technician,,Airbus-A300 Boeing-737,
+374-96-3918,Samantha Little,UAW0637,139 Rancheria St,520-367-0653,63000,Pilot,,,Airbus-A300:2020-05-04 Airbus-A350:2018-06-14 Boeing-777:2018-01-10 Boeing-747:2017-06-01 Airbus-A330:2020-01-28 Airbus-A380:2017-10-23 Boeing-737:2019-12-08 Airbus-A320:2017-04-15 Boeing-787:2020-06-04
+372-47-8601,Frances Frazier,UAW0638,201 Camino Laguna Vista,337-369-5474,126000,Technician,,Airbus-A300 Boeing-767 Airbus-A350 Boeing-747,
+145-74-2677,Kenneth Nelson,UAW0639,996 Camuesa Rd - Los Padres National Forest,349-200-9709,148000,Pilot,,,Boeing-777:2017-02-21 Airbus-A350:2017-07-18 Boeing-787:2020-05-20 Boeing-767:2019-11-27 Airbus-A300:2019-12-17 Airbus-A380:2020-06-09 Boeing-747:2018-12-07
+611-91-7215,Victoria Vaughn,UAW0640,988 San Fernando Dr,062-970-5568,64000,Traffic Controller,2005-04-26,,
+600-20-1530,Karen Dickson,UAW0641,754 Ramitas Rd,753-044-0715,49000,Pilot,,,Airbus-A320:2020-04-14 Boeing-787:2018-07-28 Airbus-A380:2020-07-27
+182-09-2712,Grace Peters,UAW0642,276 Las Flores Way,591-004-9383,51000,Traffic Controller,2012-07-26,,
+054-94-3862,Jack Hood,UAW0643,899 Santa Paula Ave,295-960-2895,123000,Traffic Controller,2003-04-05,,
+748-82-7413,Robert Bean,UAW0644,235 Paden St,848-210-2188,136000,Technician,,Boeing-737 Airbus-A300 Airbus-A350 Boeing-767,
+333-68-4169,Jordan Dodson,UAW0645,945 Miramonte Ave,826-511-4108,113000,Technician,,Boeing-787 Airbus-A350 Airbus-A300,
+603-32-2829,Shirley Gaines,UAW0646,676 San Lorenzo Dr,843-284-5083,99000,Traffic Controller,2009-07-10,,
+614-58-8503,Jonathan Thornton,UAW0647,446 Via Elsie,483-960-8691,110000,Technician,,Airbus-A350 Airbus-A300,
+480-29-0590,Theresa Murphy,UAW0648,692 Kim Sue Ln,419-524-4658,146000,Pilot,,,Boeing-777:2017-08-02 Boeing-787:2018-04-17 Airbus-A380:2019-01-19 Airbus-A300:2019-09-25 Boeing-767:2017-08-19 Boeing-737:2018-02-25
+864-52-2114,Marie Baird,UAW0649,197 Rockwood Dr,639-292-0252,51000,Technician,,Airbus-A380 Boeing-787 Airbus-A350 Boeing-777,
+400-29-6037,Michael Sheppard,UAW0650,158 Borges Dr,815-303-3115,65000,Traffic Controller,2003-01-17,,
+716-05-7534,Samantha Powers,UAW0651,905 Vista Del Oro,458-621-8410,89000,Pilot,,,Boeing-777:2018-09-14 Boeing-767:2018-01-20 Airbus-A330:2018-08-06 Boeing-737:2020-12-22 Airbus-A300:2020-05-20 Boeing-787:2020-02-14
+190-48-4040,Frank Watson,UAW0652,546 Terrace Rd,736-017-9803,124000,Technician,,Airbus-A320 Boeing-767,
+320-43-0583,Wayne Shelton,UAW0653,981 Aero Rd,625-649-1635,95000,Traffic Controller,2005-01-21,,
+263-69-9021,Vincent Lane,UAW0654,892 Manzanita Rd - Los Padres National Forest,371-882-4268,75000,Technician,,Airbus-A380 Airbus-A320,
+973-07-1461,Harold Petty,UAW0655,356 Victoria Pl,856-391-0532,48000,Traffic Controller,2015-08-22,,
+992-83-4094,Kathy Bean,UAW0656,195 Nogal Dr,919-002-4287,149000,Technician,,Airbus-A330 Boeing-767,
+991-18-1704,Stephanie Richardson,UAW0657,498 Irvine Ln,539-556-9729,125000,Technician,,Boeing-747 Boeing-737,
+192-15-0200,Amanda Bray,UAW0658,554 Mc Caw Ave,669-730-8645,92000,Pilot,,,Boeing-777:2017-06-12 Airbus-A380:2017-03-06 Airbus-A330:2018-09-15 Boeing-747:2017-12-20 Boeing-737:2019-07-09 Airbus-A350:2019-04-25 Boeing-767:2020-06-27
+806-27-0677,Carol Wilson,UAW0659,902 Elise Pl,221-736-0883,80000,Traffic Controller,2014-06-07,,
+856-68-7305,Rachel Horn,UAW0660,734 Mimosa Ln,098-727-7551,138000,Pilot,,,Boeing-777:2017-03-03 Airbus-A300:2018-12-07 Boeing-767:2019-04-10 Boeing-787:2018-10-21
+401-95-2366,David Cantu,UAW0661,955 Glenn Rd - Los Padres National Forest,626-037-6551,48000,Technician,,Airbus-A330 Airbus-A320 Boeing-777 Airbus-A300,
+144-01-9005,Joyce Cline,UAW0662,481 Linwood Dr,717-641-8797,68000,Pilot,,,Boeing-787:2017-01-24 Boeing-737:2018-06-15 Airbus-A320:2018-01-14 Airbus-A300:2020-12-09 Boeing-747:2018-08-14 Airbus-A350:2020-01-11 Boeing-777:2018-02-16
+352-96-6999,Cheryl Duarte,UAW0663,927 Boxwood St,271-065-0046,138000,Technician,,Airbus-A380,
+381-76-0980,Billy Bryant,UAW0664,293 Santa Monica Rd,546-713-4664,107000,Technician,,Airbus-A300 Boeing-777,
+046-40-4085,Heather Evans,UAW0665,107 Oak Bluffs Dr,382-441-8438,80000,Technician,,Boeing-737,
+957-35-2667,Paul Marshall,UAW0666,381 Arriba Way,338-119-9095,124000,Pilot,,,Airbus-A330:2017-10-06 Airbus-A300:2018-08-19 Boeing-787:2018-07-02 Boeing-767:2018-06-20 Boeing-777:2017-08-16 Boeing-747:2019-03-12
+886-23-5549,David Mccullough,UAW0667,316 Bolsa Chica Ct,869-092-1585,129000,Pilot,,,Airbus-A350:2018-01-21 Boeing-747:2019-07-11 Boeing-777:2020-11-25 Airbus-A380:2019-12-24 Airbus-A330:2018-05-28 Boeing-787:2020-12-26 Boeing-737:2019-09-26 Airbus-A320:2017-04-16 Boeing-767:2018-08-03
+499-98-9881,Mark Kemp,UAW0668,745 Pershing St,315-931-9137,109000,Traffic Controller,2015-09-09,,
+545-27-6462,Jason Kane,UAW0669,510 Via Isla,777-000-3193,132000,Pilot,,,Boeing-787:2020-08-12 Airbus-A300:2020-06-14
+789-64-0193,Shirley Porter,UAW0670,930 Coyote,433-751-7802,133000,Traffic Controller,2014-08-09,,
+638-57-3402,Aaron Price,UAW0671,619 W Loquat Ct,360-607-1578,103000,Technician,,Airbus-A320 Airbus-A380 Boeing-787 Boeing-737 Airbus-A330,
+687-40-1747,Patrick Cantrell,UAW0672,762 Dolcetto Ln,478-018-8550,149000,Traffic Controller,2009-08-25,,
+710-36-1575,Jason Munoz,UAW0673,938 Las Positas Pl,827-284-4539,62000,Technician,,Boeing-787 Boeing-737,
+603-27-9761,Donald Ayers,UAW0674,109 Oak Glen Dr,907-245-5955,81000,Traffic Controller,2014-08-03,,
+234-52-9659,Deborah Weber,UAW0675,955 E Valley Ln,400-258-7262,66000,Traffic Controller,2012-09-02,,
+278-63-9230,Jordan Wilkins,UAW0676,566 Cathedral Pointe Ln,886-202-7139,80000,Pilot,,,Boeing-747:2020-07-17 Airbus-A320:2019-07-21 Airbus-A380:2017-07-28 Boeing-777:2018-11-19 Airbus-A300:2017-11-15 Boeing-737:2018-04-25
+575-56-2662,Ralph Cruz,UAW0677,934 Lake Marie Dr,735-884-4964,51000,Technician,,Boeing-747,
+973-66-4068,Kelly Roach,UAW0678,940 Inwood Dr,766-432-2669,143000,Traffic Controller,2015-11-11,,
+505-35-9552,Kathryn Smith,UAW0679,787 Lolland Flaster Rd,308-545-1317,88000,Traffic Controller,2006-02-23,,
+597-34-8325,Grace Velez,UAW0680,145 Lana Ln,150-717-8938,90000,Technician,,Airbus-A330 Boeing-737 Boeing-777,
+441-57-0428,Amy Tanner,UAW0681,598 Parkview S,781-990-9461,115000,Pilot,,,Airbus-A350:2020-07-17
+692-57-6401,Nathan Andrews,UAW0682,844 Oak Rd,620-534-1686,108000,Pilot,,,Boeing-737:2018-06-25 Airbus-A330:2020-08-18 Airbus-A350:2019-07-01 Boeing-747:2018-06-14 Airbus-A300:2018-08-20
+621-22-6833,Johnny Webster,UAW0683,776 Red Rose Ln,983-251-6264,49000,Technician,,Airbus-A350,
+500-88-8148,Joe Franklin,UAW0684,521 Via Messina,899-114-9143,113000,Pilot,,,Boeing-747:2020-07-11 Airbus-A380:2020-03-15 Airbus-A350:2020-07-22 Boeing-777:2019-12-25 Boeing-787:2020-09-13
+903-56-9099,Carolyn Anthony,UAW0685,268 Via El Cuadro,826-152-3140,54000,Traffic Controller,2012-02-14,,
+503-23-4889,Christine Mccarthy,UAW0686,123 Klein Blvd,540-065-5319,93000,Traffic Controller,2012-07-10,,
+261-60-4943,John Randall,UAW0687,952 Rincon Point Ln,514-775-1788,127000,Pilot,,,Boeing-747:2019-06-09 Airbus-A300:2018-04-08 Boeing-777:2019-02-03 Airbus-A320:2020-09-15 Boeing-787:2019-06-01 Airbus-A350:2019-09-27 Airbus-A330:2019-11-20
+429-44-0629,Diana Meyers,UAW0688,821 Brook Ln,397-224-8395,149000,Traffic Controller,2012-05-14,,
+807-92-0467,Terry Lin,UAW0689,125 Franciscan Ct,293-756-6790,107000,Technician,,Boeing-767 Boeing-747 Airbus-A330,
+893-23-5596,Sandra Cunningham,UAW0690,322 La Espada Dr,928-841-6575,139000,Technician,,Airbus-A350 Airbus-A320 Boeing-747 Boeing-737,
+479-01-9497,Brittany Bauer,UAW0691,269 Graciosa Rd,432-825-1800,100000,Pilot,,,Airbus-A330:2020-05-03 Airbus-A320:2018-12-23 Boeing-787:2020-12-07 Boeing-737:2018-12-16 Airbus-A380:2019-12-13
+248-71-6956,Nathan Zimmerman,UAW0692,429 Elisa Ct,909-731-2365,77000,Traffic Controller,2006-10-13,,
+655-12-2046,Betty Nichols,UAW0693,756 Slough Rd - University Of California Santa Barbara,794-547-3984,92000,Technician,,Boeing-747,
+716-51-9808,Emma Austin,UAW0694,700 Heidi Ct,625-658-3929,69000,Pilot,,,Boeing-777:2019-03-07 Airbus-A300:2017-04-10 Airbus-A350:2020-01-25 Airbus-A330:2017-12-15 Boeing-737:2019-09-08 Airbus-A380:2018-04-25 Boeing-787:2017-04-22
+799-15-7261,Johnny Fuller,UAW0695,337 Whispering Pines Dr,963-930-2616,139000,Traffic Controller,2004-03-14,,
+387-71-8052,Wayne Myers,UAW0696,340 Margie Ave,579-275-4373,108000,Traffic Controller,2004-12-21,,
+814-99-9204,Nicole Mcdaniel,UAW0697,373 Aberdeen Ave,507-105-5401,146000,Traffic Controller,2006-01-19,,
+973-10-6228,Kathryn Novak,UAW0698,167 Via Hierba,348-531-1625,124000,Technician,,Boeing-747,
+881-98-6269,Timothy Yoder,UAW0699,905 Orchard St,427-254-7684,90000,Technician,,Boeing-737 Boeing-767,
+879-13-5357,Jesse Whitaker,UAW0700,253 Chilon Way,766-503-3480,116000,Pilot,,,Airbus-A380:2018-05-05 Airbus-A350:2019-02-14 Airbus-A320:2019-05-27 Boeing-787:2017-07-11 Boeing-747:2020-05-09
+491-00-5993,Noah Suarez,UAW0701,715 University Rd - University Of California Santa Barbara,474-463-0756,107000,Technician,,Airbus-A350 Boeing-777 Boeing-747,
+571-52-3241,Zachary Hutchinson,UAW0702,466 Schoolhouse Canyon Rd,096-533-2741,115000,Pilot,,,Airbus-A350:2020-11-23 Boeing-737:2017-08-10
+696-11-7070,Julie Hall,UAW0703,458 Via Dinero,721-768-9400,130000,Traffic Controller,2005-07-22,,
+464-57-7254,Christina Mahoney,UAW0704,281 Franklin Rd,287-750-7606,83000,Traffic Controller,2001-05-20,,
+349-51-5482,Jane Bradley,UAW0705,311 Toltec Way,128-619-8219,138000,Traffic Controller,2002-04-09,,
+952-37-0245,Samuel Orozco,UAW0706,341 Primrose Ln,752-994-5719,101000,Technician,,Airbus-A350,
+076-94-6946,Michelle Gregory,UAW0707,811 Eversden Ln,525-365-3078,54000,Pilot,,,Boeing-787:2018-12-21 Boeing-767:2018-02-22 Airbus-A300:2019-07-19 Airbus-A350:2019-08-25
+555-58-6397,Scott Green,UAW0708,813 Lana Ln,600-581-8595,118000,Traffic Controller,2003-07-18,,
+396-58-7291,Benjamin Norris,UAW0709,330 Oak Springs Ln,486-295-1507,80000,Technician,,Airbus-A350 Airbus-A300 Airbus-A330 Boeing-787,
+551-13-4065,Jordan Randall,UAW0710,183 Lorencita Dr,229-832-4292,137000,Pilot,,,Airbus-A330:2020-06-27 Boeing-737:2017-09-04 Boeing-747:2018-02-23 Boeing-767:2018-01-02
+391-04-0694,Gerald Serrano,UAW0711,980 El Camino Ratel,784-870-6017,97000,Traffic Controller,2000-02-06,,
+370-87-4189,Lauren Bishop,UAW0712,682 High Meadow Rd,609-932-7412,127000,Pilot,,,Boeing-737:2019-12-11 Airbus-A350:2018-09-25 Airbus-A320:2019-11-17 Boeing-787:2018-04-13 Boeing-747:2020-04-17 Airbus-A330:2017-09-09
+496-71-7832,Roy Dawson,UAW0713,578 S Calle Cesar Chavez,528-454-9104,115000,Traffic Controller,2004-02-09,,
+275-34-0539,Brittany Harrington,UAW0714,382 Veronica Pl,137-785-4835,89000,Traffic Controller,2007-12-28,,
+427-36-6549,Jessica Chan,UAW0715,155 La Buena Tierra,785-718-0957,88000,Pilot,,,Boeing-767:2020-01-22 Airbus-A300:2019-05-01
+944-29-9044,Margaret Schwartz,UAW0716,149 Oramas Rd,309-881-6638,78000,Pilot,,,Airbus-A330:2018-03-28 Boeing-737:2019-10-18 Airbus-A320:2018-10-01 Airbus-A380:2018-10-23
+223-76-9128,Scott Dodson,UAW0717,379 Oak Valley Ct,232-045-8440,76000,Pilot,,,Airbus-A320:2018-04-19 Airbus-A380:2018-05-03 Airbus-A330:2019-03-21 Boeing-737:2020-07-02
+717-37-2776,Eric Cuevas,UAW0718,895 Deerhurst Dr,307-289-1078,127000,Traffic Controller,2006-12-06,,
+150-43-8808,Tyler Hood,UAW0719,144 Stratford Dr,162-548-6581,122000,Technician,,Airbus-A380 Airbus-A300 Boeing-767,
+353-28-6438,Brian Davila,UAW0720,235 Parkview S,214-802-6042,49000,Technician,,Boeing-777 Airbus-A320,
+763-56-7419,Jerry Powers,UAW0721,220 Riddering St,562-128-8914,45000,Traffic Controller,2016-03-25,,
+352-88-5687,Melissa Sloan,UAW0722,363 I St,419-116-9030,75000,Traffic Controller,2011-02-24,,
+899-74-4157,Joshua Davidson,UAW0723,254 Coronado Dr,984-695-7684,92000,Traffic Controller,2013-04-03,,
+912-24-8228,Jane Huynh,UAW0724,137 Perez Rd,466-896-0284,147000,Technician,,Boeing-767 Airbus-A330,
+740-10-9338,Alice Cain,UAW0725,1000 Sea Gull Dr,326-021-6538,68000,Technician,,Boeing-747,
+787-62-7969,Lauren Bradshaw,UAW0726,699 Cactus Ln,206-465-5234,64000,Traffic Controller,2001-12-24,,
+010-68-1265,Albert Reese,UAW0727,938 Channing Ln,504-505-1403,48000,Pilot,,,Airbus-A350:2017-12-22 Airbus-A380:2019-12-24 Boeing-787:2019-06-11 Boeing-747:2017-01-13 Airbus-A330:2018-03-19 Airbus-A320:2018-07-02
+443-77-3801,Betty Mueller,UAW0728,402 Garden Dr,328-927-8964,80000,Technician,,Boeing-737,
+377-53-4403,Dorothy Small,UAW0729,347 Tollis Ave,951-131-3199,114000,Traffic Controller,2013-10-09,,
+757-28-4970,Jesse Johnson,UAW0730,223 Ocean Ave,140-383-5447,98000,Traffic Controller,2014-12-05,,
+637-15-7339,Jacqueline Booth,UAW0731,326 Harrison Dr,270-550-3762,135000,Technician,,Boeing-737 Boeing-747,
+231-94-5388,Daniel Benitez,UAW0732,249 Goldsmith Ct,812-625-8012,89000,Traffic Controller,2009-10-28,,
+655-45-7422,Andrew Cunningham,UAW0733,299 Garden Ln,388-429-6819,86000,Pilot,,,Boeing-747:2017-08-11 Boeing-767:2020-12-04 Airbus-A320:2020-06-26 Boeing-777:2019-03-03 Airbus-A350:2020-02-08 Airbus-A300:2019-12-26 Airbus-A380:2019-12-21 Boeing-787:2017-07-15
+073-58-4873,Benjamin Callahan,UAW0734,781 Stokes,371-990-9668,54000,Technician,,Airbus-A320,
+673-09-7323,Jacob Tran,UAW0735,801 Balboa Dr,407-872-1741,94000,Traffic Controller,2013-12-13,,
+127-37-9066,Kayla Lutz,UAW0736,870 Overpass Rd,257-587-5334,108000,Traffic Controller,2001-12-26,,
+670-04-4382,Michelle Jensen,UAW0737,582 Telephone Rd,220-610-6624,48000,Traffic Controller,2010-08-17,,
+760-42-3923,Christopher Hodge,UAW0738,667 Greenwood Rd,195-284-4155,71000,Pilot,,,Airbus-A380:2020-02-18 Airbus-A320:2019-01-16 Boeing-767:2020-04-16 Boeing-737:2017-12-25
+056-80-0641,Julie Christensen,UAW0739,691 Lou Dillon Ct,377-392-9669,58000,Pilot,,,Boeing-767:2019-03-01 Airbus-A380:2017-01-28 Airbus-A350:2020-08-23 Boeing-777:2019-09-16 Boeing-737:2018-07-26 Airbus-A320:2019-12-21 Boeing-747:2018-12-05
+940-42-2029,Gregory Simon,UAW0740,248 Pennsylvania St,391-213-0724,116000,Traffic Controller,2013-11-10,,
+956-14-9321,Virginia Roberson,UAW0741,251 Paradise Ln - Los Padres National Forest,470-871-8485,108000,Traffic Controller,2016-02-08,,
+971-43-3856,Joan Boyd,UAW0742,729 Maple Ct,482-530-8999,77000,Technician,,Boeing-787 Airbus-A350 Boeing-777,
+829-06-7820,Beverly Obrien,UAW0743,886 Muirfield Pl,599-232-1235,69000,Technician,,Boeing-737 Airbus-A300 Airbus-A350,
+547-30-8850,Anna Berg,UAW0744,1000 S Smith St,489-417-1999,118000,Traffic Controller,2004-12-17,,
+400-83-5597,Ethan Mata,UAW0745,740 San Marcos - Los Padres National Forest,520-266-0900,100000,Traffic Controller,2012-12-14,,
+871-90-8968,Jacob Hines,UAW0746,447 Eversden Ln,697-802-0593,96000,Pilot,,,Airbus-A330:2018-06-26 Boeing-777:2020-01-21 Airbus-A350:2019-03-07 Airbus-A300:2020-02-16 Boeing-767:2019-11-04
+934-35-1650,Louis Moody,UAW0747,499 Vista Elevada,233-260-8141,102000,Pilot,,,Airbus-A350:2019-01-20 Boeing-767:2017-11-21 Boeing-787:2019-07-23 Boeing-737:2018-09-14 Boeing-747:2018-06-09 Airbus-A320:2018-11-23 Boeing-777:2019-09-08 Airbus-A300:2020-06-13
+956-59-4918,Gregory Sanford,UAW0748,439 Via Pavion,015-281-7179,85000,Technician,,Boeing-787 Airbus-A350,
+462-66-7935,Theresa Cobb,UAW0749,563 Orange Ave,476-951-2595,88000,Pilot,,,Boeing-747:2018-10-16 Boeing-787:2018-02-20
+225-13-2094,Paul Steele,UAW0750,582 Las Positas Rd,163-561-9768,79000,Technician,,Boeing-747 Boeing-737,
+194-78-4637,Matthew Gamble,UAW0751,569 Augustenburg Pl,560-393-5729,139000,Pilot,,,Airbus-A380:2017-07-25 Boeing-767:2017-04-01 Airbus-A350:2018-01-20 Airbus-A330:2020-11-02 Boeing-777:2020-03-03 Airbus-A320:2020-04-09 Boeing-737:2019-05-21
+261-60-9873,Lisa Roach,UAW0752,196 Modello Ave,190-837-4221,115000,Traffic Controller,2013-03-15,,
+648-34-0085,Ashley Galvan,UAW0753,626 Oswego Way,041-221-9373,45000,Pilot,,,Boeing-747:2018-06-04 Airbus-A320:2019-12-11 Airbus-A300:2020-12-04 Airbus-A380:2017-05-25 Boeing-767:2018-07-13 Airbus-A330:2019-08-06 Boeing-787:2018-02-15
+876-30-0174,Laura Terrell,UAW0754,989 Franklin Rd,350-022-1117,137000,Pilot,,,Airbus-A300:2017-05-07 Airbus-A350:2019-06-07 Boeing-747:2018-03-23
+471-81-5254,Billy Key,UAW0755,178 Andrew Ave,368-280-3968,104000,Pilot,,,Boeing-787:2018-01-16 Boeing-777:2017-03-12 Airbus-A330:2017-03-27
+985-84-0070,Lori Crawford,UAW0756,185 Circle Dr,319-520-1611,141000,Technician,,Airbus-A300 Boeing-747 Airbus-A380 Airbus-A350 Boeing-787,
+710-28-3113,Ruth Bender,UAW0757,571 Oleander St,923-544-2122,73000,Traffic Controller,2000-08-07,,
+341-84-2048,Nathan Park,UAW0758,946 Schoolhouse Canyon Rd,949-908-2849,51000,Traffic Controller,2013-07-01,,
+206-15-1925,Katherine Combs,UAW0759,375 Libra Dr,113-556-6440,139000,Technician,,Airbus-A300 Airbus-A330 Boeing-737 Boeing-777 Airbus-A380,
+728-19-0596,Tyler Powers,UAW0760,829 Las Flores Way,058-116-8490,121000,Traffic Controller,2011-04-01,,
+988-33-9821,Cynthia Coleman,UAW0761,579 Marilla Ave,449-172-8389,118000,Technician,,Boeing-747 Boeing-787,
+017-76-4682,Daniel Keller,UAW0762,317 Albireo Ave,505-453-5701,129000,Traffic Controller,2003-12-09,,
+102-29-5604,Tammy Dyer,UAW0763,171 Lower Hyde,537-042-0285,73000,Traffic Controller,2004-12-03,,
+193-23-5482,Jeffrey Mcpherson,UAW0764,590 Hangar St,338-099-4969,134000,Traffic Controller,2014-05-19,,
+265-27-1788,Lawrence Lin,UAW0765,865 Alameda Ave,601-637-1623,68000,Pilot,,,Airbus-A300:2018-11-01 Airbus-A320:2017-03-21 Boeing-747:2018-04-04 Airbus-A350:2018-08-06
+222-63-5297,Scott Zavala,UAW0766,634 Benton Ave,216-635-2952,119000,Traffic Controller,2003-02-15,,
+815-54-7696,Debra Gay,UAW0767,739 Ribe Rd,393-185-3635,79000,Pilot,,,Boeing-747:2018-04-09 Airbus-A330:2017-12-25 Boeing-787:2019-07-22
+814-01-3689,Christian Miller,UAW0768,543 Nartatez Ct,932-532-8850,89000,Traffic Controller,2004-10-10,,
+309-53-6232,Judy Peters,UAW0769,647 Via Roma,762-105-4342,47000,Traffic Controller,2004-08-16,,
+756-47-6912,Justin Gilbert,UAW0770,634 Invierno Dr,901-548-6608,130000,Technician,,Airbus-A380,
+899-84-0256,Megan Robinson,UAW0771,164 Manzanita Rd - Los Padres National Forest,481-339-0753,83000,Traffic Controller,2004-06-28,,
+442-31-4925,Hannah Banks,UAW0772,880 Madrid Rd,227-425-3907,64000,Technician,,Airbus-A380 Airbus-A300 Boeing-787,
+939-63-9645,Jose Navarro,UAW0773,630 Bodger Rd,783-125-0403,52000,Traffic Controller,2007-11-10,,
+012-36-0917,Victoria Lucero,UAW0774,758 Via Riviera,923-090-3838,56000,Technician,,Boeing-767 Airbus-A380 Airbus-A350 Airbus-A330,
+800-23-4870,Bryan Finley,UAW0775,333 Woodley Ct,560-206-8663,97000,Traffic Controller,2009-07-13,,
+407-83-1572,Benjamin Barron,UAW0776,977 Toltec Way,581-220-9881,118000,Traffic Controller,2001-06-06,,
+337-27-8061,Beverly Rivas,UAW0777,514 Rivaldi Dr,908-227-7014,71000,Pilot,,,Airbus-A350:2019-12-22 Boeing-787:2017-02-11 Boeing-737:2017-05-12 Airbus-A380:2018-07-10
+776-97-6021,Eric Mata,UAW0778,552 Los Pinos Dr,909-414-6368,111000,Pilot,,,Airbus-A320:2018-02-23 Airbus-A300:2019-01-12
+839-56-8245,Elizabeth Stewart,UAW0779,522 Diana Rd,165-140-4458,99000,Traffic Controller,2007-04-11,,
+056-18-8701,Charles Ali,UAW0780,166 Maley Dr,584-889-4980,55000,Pilot,,,Airbus-A300:2017-08-28 Boeing-787:2017-12-11 Airbus-A380:2020-12-13 Boeing-767:2019-07-14 Airbus-A320:2020-03-07 Airbus-A350:2018-02-27
+089-35-6342,Eugene Collins,UAW0781,550 La Vista Del Oceano,629-531-0483,95000,Pilot,,,Airbus-A330:2017-11-19 Boeing-747:2017-09-16 Airbus-A320:2018-02-26 Boeing-777:2018-04-09 Airbus-A300:2019-05-11 Airbus-A350:2018-04-27
+400-58-3040,Sharon Reid,UAW0782,703 Eliza Dr,945-469-3829,60000,Traffic Controller,2001-02-04,,
+801-59-9430,Henry Yang,UAW0783,782 Lemon Dr,562-821-3329,132000,Traffic Controller,2007-04-17,,
+666-92-2754,Amanda Bush,UAW0784,736 Pallace Becknell Rd,296-033-8028,85000,Technician,,Boeing-787 Airbus-A380 Airbus-A300,
+499-82-9898,Lori Whitney,UAW0785,160 Mountain View Rd,208-638-6396,56000,Pilot,,,Airbus-A380:2017-02-15 Boeing-787:2017-08-28 Airbus-A350:2019-01-04 Boeing-747:2020-07-22 Boeing-777:2018-08-06 Airbus-A300:2019-11-12 Boeing-767:2019-12-16 Boeing-737:2019-10-02
+276-56-0882,Eugene Vang,UAW0786,932 Punch Bowl Rd,197-177-5419,45000,Pilot,,,Airbus-A320:2017-06-17 Boeing-747:2019-06-17 Boeing-777:2020-06-14 Boeing-737:2017-08-18 Boeing-787:2018-01-21 Airbus-A300:2017-10-27 Airbus-A330:2019-11-05
+532-69-2333,Jane Sosa,UAW0787,626 Lorinda Pl,026-491-1096,130000,Technician,,Airbus-A350 Boeing-747,
+933-07-6556,Paul Avila,UAW0788,416 Hitchcock Ranch Rd,098-662-5706,93000,Pilot,,,Airbus-A330:2020-12-08 Airbus-A350:2020-03-13 Airbus-A300:2020-07-28 Airbus-A320:2020-04-17 Boeing-777:2019-03-28 Boeing-767:2017-06-15
+017-92-8888,Susan Weiss,UAW0789,588 Freesia Dr,286-283-4025,108000,Technician,,Airbus-A380 Airbus-A330,
+724-77-4516,Rose Mcmillan,UAW0790,705 Auriga Ave,832-428-7571,53000,Traffic Controller,2014-12-18,,
+659-07-1041,Joseph Watson,UAW0791,534 San Bergamo Dr,476-527-3152,142000,Pilot,,,Airbus-A330:2018-04-03 Airbus-A300:2020-06-14
+358-54-8696,Raymond Smith,UAW0792,158 Sea Ledge Ln,139-069-0210,55000,Pilot,,,Airbus-A300:2018-10-12 Boeing-737:2019-12-06 Boeing-747:2019-10-26
+366-20-0523,Jack Stevens,UAW0793,281 Dorwin Ln,555-066-5424,79000,Pilot,,,Boeing-787:2020-11-24 Airbus-A300:2019-07-04 Airbus-A380:2019-08-19 Boeing-737:2018-08-10 Boeing-777:2020-09-19 Boeing-747:2017-12-15 Airbus-A320:2017-03-21
+564-45-8839,Bobby Trevino,UAW0794,797 Cimarron Dr,937-047-2178,70000,Traffic Controller,2002-12-12,,
+021-35-0243,Thomas Pierce,UAW0795,433 Potrero Ln - Los Padres National Forest,240-416-6362,74000,Technician,,Airbus-A350 Boeing-737 Airbus-A320,
+318-74-2727,Russell Wise,UAW0796,348 Jensen Ranch Rd,394-824-8514,118000,Technician,,Airbus-A330,
+766-92-4238,Betty Mccullough,UAW0797,465 Arroyico Ln,555-680-0989,88000,Pilot,,,Airbus-A320:2019-04-27 Boeing-767:2017-01-11 Airbus-A300:2019-01-20 Airbus-A330:2017-03-26 Boeing-747:2017-09-27 Boeing-777:2019-01-13 Boeing-787:2019-01-07
+550-40-1460,Donna Ryan,UAW0798,612 Camp Ln,093-003-0167,68000,Traffic Controller,2011-02-06,,
+155-83-7798,Juan Stout,UAW0799,122 Toyon Dr,999-120-9785,62000,Pilot,,,Airbus-A330:2017-05-28 Boeing-777:2017-12-08 Boeing-767:2017-08-27 Airbus-A350:2019-12-23 Boeing-737:2020-01-19 Airbus-A380:2019-06-17 Boeing-747:2020-05-14
+010-19-5103,Randy Nixon,UAW0800,690 De La Cresta,265-594-0082,95000,Traffic Controller,2005-07-08,,
+453-23-8673,Lisa Lee,UAW0801,656 Muirfield Pl,111-965-7315,149000,Technician,,Airbus-A380 Boeing-787 Airbus-A300 Airbus-A350,
+819-72-4018,Brian Craig,UAW0802,586 Alisos Rd,241-631-4956,133000,Pilot,,,Airbus-A350:2017-03-06 Boeing-747:2019-02-02
+156-19-0844,David Dillon,UAW0803,566 San Antonio Creek Rd,105-172-6168,79000,Pilot,,,Boeing-787:2019-02-09 Airbus-A330:2019-02-12 Airbus-A300:2018-03-01 Boeing-747:2018-09-11 Airbus-A320:2017-09-11 Airbus-A350:2019-01-25 Airbus-A380:2019-02-08
+093-57-7374,Roger Rivera,UAW0804,749 Marian Dr,586-296-4298,86000,Pilot,,,Boeing-767:2019-08-06 Airbus-A350:2020-01-16 Boeing-777:2020-10-12 Boeing-787:2020-10-14 Airbus-A320:2017-04-19 Boeing-747:2018-12-25
+256-58-6540,Ronald Aguilar,UAW0805,456 Park Cir,625-095-2729,110000,Technician,,Boeing-767 Airbus-A350,
+083-78-8456,Edward Mccullough,UAW0806,250 Paseo Del Pinon,453-424-5580,137000,Traffic Controller,2004-11-21,,
+824-16-6581,Arthur Fowler,UAW0807,672 Weston Dr,885-273-9464,130000,Pilot,,,Airbus-A380:2020-05-20 Airbus-A330:2018-01-13 Boeing-737:2020-12-16 Airbus-A350:2018-12-22 Airbus-A320:2018-09-20 Boeing-777:2017-10-05
+863-87-3526,Matthew Atkinson,UAW0808,845 Olive Hill Rd,269-514-0105,103000,Traffic Controller,2002-11-23,,
+649-33-8737,Jean Ali,UAW0809,102 Via Del Carmel,058-319-2455,111000,Technician,,Airbus-A350,
+525-97-9080,Theresa Mosley,UAW0810,294 Walnut Dr,128-886-4175,106000,Pilot,,,Airbus-A380:2020-04-27 Boeing-747:2019-07-19 Airbus-A330:2018-06-13
+874-75-8605,Gerald Hatfield,UAW0811,609 Samantha Pl,814-887-0648,46000,Technician,,Airbus-A350 Boeing-777 Airbus-A320 Airbus-A300,
+338-75-3413,Carolyn Freeman,UAW0812,894 Arden Ave,729-019-3118,121000,Traffic Controller,2013-08-19,,
+644-64-4001,Jessica Drake,UAW0813,305 Sunset Valley Rd - Los Padres National Forest,942-268-4251,96000,Technician,,Boeing-737,
+805-42-0753,Willie Blackwell,UAW0814,706 Christopher Ln,472-480-1244,149000,Traffic Controller,2009-09-08,,
+615-66-9542,Cheryl Leblanc,UAW0815,915 Church Ln,693-245-0596,115000,Traffic Controller,2013-01-15,,
+315-89-8693,Matthew Wilkinson,UAW0816,746 Aspen St,001-814-5574,64000,Pilot,,,Boeing-767:2020-06-10 Boeing-747:2017-01-02 Airbus-A380:2020-10-06 Boeing-787:2017-07-07 Airbus-A330:2019-06-25 Boeing-737:2018-09-28 Airbus-A300:2020-06-01
+847-77-3091,Sara Cain,UAW0817,145 Alderwood Ln,039-084-6330,82000,Pilot,,,Boeing-787:2018-10-22 Airbus-A300:2019-11-02 Airbus-A320:2017-04-25 Airbus-A330:2020-03-13
+305-29-9154,Jack Neal,UAW0818,470 Albireo Ave,386-349-4179,107000,Pilot,,,Boeing-747:2017-10-17 Airbus-A300:2020-09-09 Airbus-A320:2017-05-17 Boeing-777:2019-12-06 Airbus-A330:2018-12-10 Boeing-787:2019-10-01
+421-13-5349,Andrew Erickson,UAW0819,755 Le Valley Rd,135-172-2835,88000,Pilot,,,Airbus-A320:2020-10-14 Airbus-A300:2017-06-12 Boeing-777:2019-05-12 Boeing-767:2019-02-03 Airbus-A350:2019-03-11 Boeing-737:2017-02-09
+464-35-3095,Austin Savage,UAW0820,931 E Pedregosa St,118-659-3598,59000,Traffic Controller,2002-09-25,,
+374-75-4950,Ann Blankenship,UAW0821,496 Cliff Dr,498-064-8187,76000,Pilot,,,Boeing-787:2017-07-03 Boeing-767:2018-07-18 Airbus-A300:2018-12-25 Airbus-A350:2019-10-11 Boeing-777:2017-12-28 Airbus-A330:2020-10-10 Boeing-747:2020-07-07
+596-17-7484,Samantha Knight,UAW0822,955 Robert Rd,425-052-0380,70000,Pilot,,,Boeing-787:2019-11-14 Boeing-737:2019-09-24 Airbus-A330:2018-08-16 Boeing-777:2019-05-20 Airbus-A350:2020-03-12
+194-98-0527,Juan Manning,UAW0823,441 Del Rey Ln,675-287-6694,140000,Technician,,Boeing-777 Airbus-A350,
+601-56-7161,Kathy Maynard,UAW0824,510 E Mcelhany Ave,113-859-7490,50000,Pilot,,,Boeing-747:2018-01-14 Boeing-737:2018-07-25 Airbus-A380:2020-09-02 Boeing-777:2018-11-12
+904-61-4893,Nicholas Burnett,UAW0825,857 Juvenile Hall Rd,845-453-9009,146000,Technician,,Boeing-767 Boeing-787 Boeing-747,
+450-84-3568,Charles Rios,UAW0826,509 Motor Way,204-470-1892,111000,Traffic Controller,2005-01-07,,
+438-53-3339,Keith Harrington,UAW0827,801 More Rd,497-751-5118,55000,Traffic Controller,2008-03-03,,
+332-69-1279,Carol Bryant,UAW0828,571 Tabitha Ln,581-055-9548,141000,Pilot,,,Boeing-787:2018-01-22
+602-16-0379,Hannah Kelly,UAW0829,250 Oak Crest Dr,694-009-3308,119000,Technician,,Boeing-787 Airbus-A350 Airbus-A380 Airbus-A300,
+656-40-7607,Kevin Sellers,UAW0830,383 Covington Way,426-141-0303,64000,Pilot,,,Airbus-A350:2020-03-07 Boeing-767:2019-01-18 Airbus-A330:2019-06-08 Boeing-747:2017-11-07 Airbus-A300:2019-10-05 Airbus-A380:2019-09-10 Boeing-787:2018-02-20
+401-58-5857,Daniel Mann,UAW0831,138 Kentucky Rd,919-334-9990,95000,Pilot,,,Boeing-777:2019-09-19 Boeing-737:2020-06-03 Airbus-A350:2019-07-24 Boeing-787:2020-06-09 Airbus-A380:2020-04-14 Boeing-747:2019-12-14 Boeing-767:2017-10-03 Airbus-A300:2018-04-06 Airbus-A320:2018-12-19
+550-84-0784,Melissa Kirk,UAW0832,876 Randall Rd,569-459-1423,65000,Technician,,Boeing-777,
+247-76-6868,Janice Reyes,UAW0833,579 Williams Way,118-679-9021,142000,Traffic Controller,2011-01-04,,
+045-03-5182,Rebecca Spencer,UAW0834,749 Whitney Ct,154-775-0594,99000,Technician,,Boeing-747,
+050-52-9541,Johnny Kirk,UAW0835,997 Oswego Way,091-458-4365,102000,Pilot,,,Airbus-A300:2019-12-08 Boeing-787:2018-05-11
+424-15-2508,Christina Harding,UAW0836,512 Cecelia Dr,657-272-3408,137000,Pilot,,,Airbus-A350:2019-01-05 Airbus-A320:2020-07-15 Boeing-787:2019-07-26 Boeing-767:2020-07-27 Airbus-A380:2017-02-02 Boeing-777:2018-03-15 Airbus-A300:2017-08-12
+554-20-4471,Joseph Morgan,UAW0837,855 La Vista Rd,086-906-2354,47000,Traffic Controller,2016-11-20,,
+802-64-4527,Jerry Petty,UAW0838,820 Walnut Pl,667-091-8171,71000,Technician,,Airbus-A380,
+543-68-1586,Nicole Duran,UAW0839,201 Campana Ct,539-968-1791,150000,Technician,,Airbus-A320,
+223-80-5399,Jason Avery,UAW0840,113 Via Gennita,058-089-2957,64000,Technician,,Airbus-A320 Airbus-A330 Boeing-767 Airbus-A350,
+850-20-9832,Tyler Rasmussen,UAW0841,852 Lorinda Way,755-660-5551,105000,Pilot,,,Airbus-A350:2018-12-10 Airbus-A330:2017-05-16 Boeing-787:2019-06-01 Boeing-777:2019-12-26 Boeing-747:2020-07-23
+084-18-5162,Jeremy Beard,UAW0842,150 Westminster Ln,052-863-0426,66000,Technician,,Airbus-A320 Boeing-767 Airbus-A330,
+865-31-1194,Brittany Barron,UAW0843,528 Kapalua Dr,719-273-7549,121000,Traffic Controller,2004-05-17,,
+566-57-5659,Larry Melendez,UAW0844,234 Grapevine Rd,394-873-9406,121000,Pilot,,,Airbus-A320:2019-04-27 Airbus-A330:2018-01-05 Boeing-737:2020-04-12
+246-44-3885,Adam Gilbert,UAW0845,665 Porto Rd,695-043-8217,78000,Technician,,Airbus-A380 Airbus-A300 Boeing-787 Boeing-737 Boeing-767,
+540-43-2812,Brian Owens,UAW0846,584 Winter Rd,233-482-7038,74000,Traffic Controller,2014-09-18,,
+238-22-8284,Nicole Jacobs,UAW0847,970 Diana Ln,811-831-9152,84000,Technician,,Airbus-A350 Boeing-767 Airbus-A380 Boeing-787 Airbus-A300,
+533-14-9522,Philip Murillo,UAW0848,287 E Alvin Ave,955-986-5835,135000,Pilot,,,Boeing-747:2020-05-25
+928-50-9651,Frances Curry,UAW0849,447 Glenn Rd - Los Padres National Forest,520-283-1098,96000,Technician,,Boeing-767,
+301-36-1229,Megan Allison,UAW0850,494 Rosario Park Rd - Los Padres National Forest,519-122-8267,59000,Pilot,,,Boeing-787:2020-06-21 Airbus-A330:2019-12-06 Boeing-737:2017-02-04
+745-56-9887,Cheryl Todd,UAW0851,749 Canon Dr,851-987-3282,147000,Traffic Controller,2009-02-01,,
+260-96-4710,Cynthia Arias,UAW0852,977 Marian Dr,182-067-5803,102000,Pilot,,,Airbus-A300:2018-10-20 Boeing-787:2020-06-05 Airbus-A350:2020-02-13 Airbus-A320:2017-06-02 Boeing-767:2019-05-07
+565-70-9989,Beverly David,UAW0853,257 Harbor View Dr,870-158-7601,53000,Technician,,Boeing-767 Boeing-737,
+146-13-8528,Janice Salazar,UAW0854,523 Greentree Ln,598-941-7347,48000,Technician,,Boeing-767,
+971-66-6286,Sarah Coffey,UAW0855,479 Via Di Campo,356-622-9824,100000,Pilot,,,Airbus-A320:2018-09-12 Boeing-777:2019-12-20 Airbus-A380:2018-04-07 Boeing-787:2020-07-04 Boeing-767:2019-05-13 Airbus-A300:2019-11-12 Boeing-747:2017-12-21 Airbus-A350:2020-09-26
+453-31-6310,Rachel Woods,UAW0856,376 Midway Ave,176-267-2672,96000,Traffic Controller,2009-07-05,,
+980-24-0189,Willie Mayer,UAW0857,847 Hermosa St,729-765-8243,46000,Technician,,Airbus-A320 Boeing-737 Boeing-787 Airbus-A330,
+157-40-6385,Ashley Rowe,UAW0858,535 Amber Way,847-962-0756,111000,Technician,,Airbus-A300 Boeing-747 Boeing-787,
+916-57-0475,Gloria Avila,UAW0859,111 Camellia Ct,254-583-5196,137000,Pilot,,,Airbus-A350:2018-10-22 Boeing-767:2017-09-15 Boeing-737:2018-05-25 Boeing-747:2018-07-12 Airbus-A380:2017-09-27 Airbus-A300:2018-09-21 Boeing-787:2019-07-01 Boeing-777:2018-06-20
+416-81-2779,Billy Alvarez,UAW0860,178 Glenview Dr,130-449-2616,79000,Technician,,Airbus-A330 Boeing-777,
+949-58-7261,Roy Patterson,UAW0861,610 Walnut Ln,592-599-0739,139000,Pilot,,,Boeing-777:2019-02-06 Boeing-737:2020-07-01 Boeing-747:2019-09-03 Airbus-A300:2018-09-07
+773-16-5347,Aaron Hebert,UAW0862,488 Sunrise Hill Ln,886-809-8288,118000,Traffic Controller,2013-03-19,,
+553-61-7445,Jack Khan,UAW0863,232 Maple Ct,507-646-4551,112000,Pilot,,,Airbus-A380:2020-12-03 Boeing-787:2019-02-17 Boeing-777:2020-12-03 Airbus-A320:2017-10-01 Boeing-737:2019-12-05 Airbus-A350:2020-04-12 Boeing-767:2020-01-01
+652-68-4697,Betty Beasley,UAW0864,894 Santa Inez Ave,008-262-8859,138000,Pilot,,,Airbus-A300:2018-01-22 Airbus-A330:2018-02-18
+851-97-2552,Jane Thompson,UAW0865,505 Francine Ln,063-247-2410,63000,Traffic Controller,2012-12-23,,
+682-84-3560,Joan Hood,UAW0866,905 Valerie St,657-972-8713,76000,Pilot,,,Boeing-737:2018-12-20 Boeing-777:2018-02-24 Boeing-747:2020-09-16 Boeing-787:2018-09-15 Airbus-A300:2018-09-25 Airbus-A350:2019-03-18 Airbus-A320:2019-05-24
+962-61-6436,Willie Rush,UAW0867,828 Cliff Dr,373-528-6106,63000,Traffic Controller,2013-11-26,,
+179-61-6179,Elizabeth Ewing,UAW0868,200 E Valley Ln,525-468-1816,141000,Technician,,Boeing-747 Airbus-A330,
+946-42-7195,Anna Abbott,UAW0869,424 Pam Ct,433-963-2724,141000,Traffic Controller,2013-08-26,,
+413-19-9471,Jeremy Harris,UAW0870,577 T St,345-783-2621,91000,Pilot,,,Airbus-A320:2017-08-24 Airbus-A300:2019-08-23 Airbus-A380:2018-02-07 Boeing-787:2020-04-01 Boeing-767:2020-12-18 Airbus-A330:2020-08-13 Boeing-777:2017-08-01
+911-93-9648,Brian Francis,UAW0871,808 Sienna Way,654-834-3618,142000,Technician,,Airbus-A320 Boeing-737 Airbus-A300,
+228-45-5054,Joyce Howe,UAW0872,488 Ocean Vista Ln,126-936-5282,56000,Traffic Controller,2011-04-26,,
+733-05-0586,Anthony Perkins,UAW0873,566 Forest Route 32s13 - Los Padres National Forest,340-694-5609,56000,Traffic Controller,2005-02-22,,
+117-27-5130,Tyler James,UAW0874,653 Maple Ct,502-918-5901,92000,Technician,,Airbus-A300,
+191-78-0340,Danielle Richard,UAW0875,624 Via Campobello,497-451-7797,114000,Traffic Controller,2001-01-16,,
+703-14-1793,Emily James,UAW0876,154 Hart Dr,282-554-5960,130000,Pilot,,,Airbus-A320:2017-12-15 Boeing-767:2020-03-02 Airbus-A380:2017-05-26 Airbus-A350:2020-11-19 Boeing-747:2019-01-23 Boeing-787:2020-09-27
+331-68-1863,Joyce Zamora,UAW0877,336 Westerly Rd,397-086-7120,102000,Traffic Controller,2013-03-06,,
+532-95-6593,Julie Carpenter,UAW0878,490 Stadium Rd - University Of California Santa Barbara,630-109-9010,130000,Technician,,Boeing-787 Boeing-747,
+536-22-5787,Robert Calhoun,UAW0879,687 W Tunnell St,813-501-6903,98000,Technician,,Airbus-A350 Airbus-A300,
+745-83-1758,George Castillo,UAW0880,879 Pardall Rd,870-426-8473,145000,Technician,,Airbus-A350 Boeing-747 Boeing-737 Boeing-787,
+458-50-0663,Amanda Boyd,UAW0881,111 Channing Ln,722-078-6675,64000,Traffic Controller,2000-08-16,,
+321-72-0720,Pamela Johnston,UAW0882,243 San Blanco Dr,054-420-7352,64000,Technician,,Boeing-747,
+437-82-4935,Jean Browning,UAW0883,236 Dover Hill Rd,384-329-1435,104000,Traffic Controller,2000-12-09,,
+419-96-7711,Jean Cruz,UAW0884,637 Monroe St,819-731-4762,80000,Traffic Controller,2009-08-22,,
+413-78-2890,Jessica Conway,UAW0885,122 Via Riviera,124-042-2805,50000,Pilot,,,Airbus-A380:2019-04-25 Boeing-767:2019-06-21 Boeing-787:2020-09-28 Boeing-737:2019-09-22 Airbus-A350:2018-06-19 Boeing-777:2020-12-28
+542-18-8561,Julia Ramirez,UAW0886,755 Crowley Way,746-226-5846,114000,Technician,,Boeing-747 Boeing-737 Boeing-777,
+766-47-7169,Olivia Colon,UAW0887,207 Donald Way,497-698-0669,126000,Technician,,Boeing-747,
+012-15-8995,Roger Mueller,UAW0888,611 Cortez Dr,096-296-7228,91000,Pilot,,,Boeing-767:2020-11-23 Airbus-A320:2019-06-05 Boeing-747:2017-07-07 Boeing-787:2020-01-01
+136-77-0734,Mildred Carr,UAW0889,340 Roble Dr,966-853-4163,135000,Traffic Controller,2016-06-24,,
+116-74-7937,Terry Simon,UAW0890,988 Lisa Way,981-134-5769,119000,Pilot,,,Airbus-A330:2017-02-26 Boeing-737:2018-03-07 Boeing-787:2020-11-06 Airbus-A300:2020-10-04 Boeing-777:2017-07-21 Airbus-A380:2017-04-20 Airbus-A350:2020-08-20
+688-31-2735,Marie Pierce,UAW0891,813 San Julian Rd,134-014-9197,64000,Traffic Controller,2016-08-20,,
+529-53-8544,Ann Randall,UAW0892,871 Los Pinos Dr,645-685-9937,112000,Technician,,Airbus-A320 Airbus-A380 Boeing-767,
+521-24-5588,Brian Cortez,UAW0893,747 Almeria Ave,536-381-2909,95000,Traffic Controller,2004-04-08,,
+088-99-5227,Mark Cameron,UAW0894,692 Lesley Ct,618-305-3883,69000,Traffic Controller,2006-12-12,,
+735-76-1992,Carl Salazar,UAW0895,201 Via Rojo,272-915-7526,141000,Technician,,Airbus-A350,
+925-84-8136,Joyce Rowe,UAW0896,595 Mountain View Blvd,830-786-6357,112000,Technician,,Airbus-A320,
+834-05-7627,Justin Mccoy,UAW0897,962 Centennial St,918-047-5682,76000,Pilot,,,Boeing-767:2018-05-05
+542-32-0338,Teresa Rhodes,UAW0898,493 Edward St,602-968-7842,143000,Technician,,Airbus-A350 Airbus-A330 Boeing-767 Boeing-737,
+449-24-2970,Judy Osborne,UAW0899,658 Channing Ln,358-016-9653,107000,Traffic Controller,2004-11-11,,
+134-22-6193,Betty Shannon,UAW0900,686 Meadowlace Ct,815-591-0171,123000,Technician,,Airbus-A330 Boeing-767 Airbus-A350 Boeing-777,
+694-40-7228,Margaret Hendrix,UAW0901,623 Alisal Creek,374-230-9306,52000,Pilot,,,Boeing-747:2020-04-14
+822-08-8291,James Hendricks,UAW0902,195 Slough Rd - University Of California Santa Barbara,493-344-0219,51000,Pilot,,,Airbus-A380:2017-06-13 Boeing-737:2020-05-17
+282-06-0940,Joyce Kim,UAW0903,591 Dolores Ct,684-819-5043,70000,Traffic Controller,2010-02-13,,
+119-22-3206,Kevin Sloan,UAW0904,428 Aero Rd,665-243-6573,107000,Traffic Controller,2001-02-04,,
+588-93-7376,Christine Taylor,UAW0905,395 Casitais Ln,275-383-7320,110000,Pilot,,,Boeing-767:2020-06-19 Airbus-A380:2019-03-08 Boeing-737:2018-03-28 Boeing-777:2020-07-03 Airbus-A330:2017-04-24
+702-31-4384,Terry Savage,UAW0906,107 Via Sabroso,394-942-8706,149000,Technician,,Boeing-747 Airbus-A330 Boeing-787,
+661-82-5763,Ann Farrell,UAW0907,801 Sea Ledge Ln,580-905-3824,50000,Pilot,,,Airbus-A300:2017-06-09 Boeing-777:2019-04-26 Airbus-A330:2018-10-28 Airbus-A380:2019-07-28 Airbus-A350:2019-11-19 Boeing-747:2017-02-22 Boeing-737:2019-08-22
+538-02-7129,Beverly Conley,UAW0908,665 Mockernut St,558-240-0153,140000,Traffic Controller,2008-01-19,,
+376-12-7765,Thomas Conrad,UAW0909,466 Canyata De Laguana Rd,363-372-5335,134000,Technician,,Boeing-747 Boeing-737,
+126-51-9531,Louis Mcfarland,UAW0910,763 Rayville Ln,266-819-4702,150000,Traffic Controller,2007-01-22,,
+553-28-6829,Jordan Tucker,UAW0911,550 W Cook St,954-409-8738,116000,Traffic Controller,2003-02-06,,
+677-57-0840,Donald Nicholson,UAW0912,803 E Cypress Ave,195-169-8915,45000,Traffic Controller,2010-06-14,,
+339-44-3962,Henry Page,UAW0913,163 Carriage Hill Dr,568-439-7782,45000,Pilot,,,Airbus-A380:2018-03-06 Airbus-A320:2018-08-11 Airbus-A300:2020-05-25 Boeing-737:2019-10-18 Boeing-767:2020-02-08
+344-45-0040,Teresa Collier,UAW0914,815 Circle Del Fondo,040-393-3765,64000,Technician,,Airbus-A380 Boeing-747 Boeing-767 Airbus-A320,
+039-90-7619,Cynthia Day,UAW0915,233 Andromeda Dr,084-335-1431,145000,Pilot,,,Airbus-A380:2018-07-28 Boeing-767:2019-01-03 Boeing-737:2018-10-21 Airbus-A350:2020-07-08
+075-38-5584,Janice Williams,UAW0916,404 Silverado Ave,973-643-3798,58000,Pilot,,,Airbus-A350:2020-12-22 Boeing-777:2019-06-20 Boeing-747:2017-01-05
+067-11-6927,Gerald Cobb,UAW0917,484 Sunset Valley Rd - Los Padres National Forest,211-455-6343,139000,Pilot,,,Boeing-777:2020-04-25 Boeing-767:2018-09-28 Boeing-787:2020-01-22 Airbus-A320:2017-11-04 Airbus-A330:2017-02-20 Airbus-A350:2019-10-17 Boeing-737:2018-02-19 Airbus-A380:2017-08-27
+544-63-1944,Victoria Nicholson,UAW0918,374 Ortega Ranch Ln,229-027-6453,148000,Traffic Controller,2001-09-18,,
+068-48-2515,Benjamin Rodgers,UAW0919,580 Schoolhouse Canyon Rd,101-840-6848,60000,Pilot,,,Boeing-787:2017-07-05 Airbus-A300:2019-07-02 Boeing-767:2020-11-03 Boeing-737:2019-05-24 Airbus-A380:2020-01-22 Boeing-747:2020-11-02 Airbus-A320:2018-01-21 Airbus-A350:2017-04-22 Boeing-777:2017-04-26
+328-60-2063,Sean Meyer,UAW0920,452 W Meadowgate Dr,141-274-8693,93000,Pilot,,,Airbus-A350:2017-02-16 Boeing-787:2017-05-14 Boeing-777:2019-12-22 Airbus-A320:2017-12-02 Airbus-A300:2017-10-06 Airbus-A330:2019-04-21
+394-32-0381,Tyler Perry,UAW0921,925 Del Rey Ln,977-918-0122,51000,Traffic Controller,2000-11-24,,
+320-12-1264,Roger Zamora,UAW0922,199 Live Oaks Rd,687-196-1857,66000,Traffic Controller,2009-06-23,,
+556-13-0529,Louis Hendrix,UAW0923,329 Masatani Ct,173-004-5691,76000,Technician,,Airbus-A380 Airbus-A350 Boeing-777,
+178-55-3122,Paul Farley,UAW0924,474 Toltec Dr,632-846-6320,106000,Traffic Controller,2007-07-03,,
+980-26-5529,Johnny Massey,UAW0925,331 La Vista Grande,636-100-7765,144000,Pilot,,,Boeing-737:2019-03-04
+480-93-5081,Douglas Todd,UAW0926,136 Soldado Rd,112-665-0479,102000,Traffic Controller,2012-12-20,,
+017-71-7409,Ethan Hartman,UAW0927,944 Pine Creek Ct,569-377-1307,91000,Pilot,,,Airbus-A380:2019-10-10 Boeing-787:2018-05-08 Airbus-A350:2017-03-23 Airbus-A330:2020-06-02
+384-98-9441,Catherine Mclean,UAW0928,680 Avon Ln,990-386-7762,78000,Technician,,Boeing-767 Airbus-A350,
+343-44-7827,Karen Griffith,UAW0929,163 Panochas,416-152-7242,89000,Traffic Controller,2006-05-09,,
+001-90-0283,Richard Norman,UAW0930,751 Santa Rita Cir,648-882-7507,120000,Technician,,Boeing-777,
+067-97-0725,Andrew Ashley,UAW0931,262 Dolores Ct,839-235-6682,101000,Technician,,Boeing-787 Airbus-A380 Airbus-A330,
+547-22-7841,Brandon Peters,UAW0932,929 Via Real,518-285-8973,56000,Technician,,Boeing-747 Airbus-A380,
+166-45-2665,Tyler Kim,UAW0933,239 Litchfield Ln,011-684-9993,84000,Pilot,,,Airbus-A330:2019-06-02 Airbus-A350:2017-10-07 Boeing-787:2018-04-28 Airbus-A380:2017-12-12 Boeing-777:2019-11-02
+958-55-6714,Dylan Davis,UAW0934,548 Via Chorro,829-644-1017,68000,Pilot,,,Airbus-A350:2017-04-08 Boeing-787:2019-08-09 Boeing-777:2019-12-14
+721-18-0188,Jeremy Bradshaw,UAW0935,297 Napa Rd,156-890-6852,45000,Technician,,Airbus-A300 Boeing-747 Airbus-A330,
+235-14-5440,Jane Ball,UAW0936,624 San Clemente Ave,015-973-8896,90000,Technician,,Boeing-777 Boeing-767 Airbus-A350 Boeing-747 Boeing-787,
+434-18-3715,Victoria Stafford,UAW0937,170 Verde Vista Dr,737-365-2262,105000,Technician,,Boeing-737 Boeing-777 Airbus-A350,
+388-26-3489,Russell Best,UAW0938,507 Meadowvale Rd,788-928-7400,115000,Pilot,,,Boeing-747:2020-06-05 Airbus-A330:2017-02-23 Boeing-767:2020-12-08 Boeing-787:2018-09-21 Boeing-777:2018-07-09 Airbus-A350:2019-09-18 Airbus-A300:2017-02-28 Boeing-737:2018-03-19
+513-72-3706,Bruce Rollins,UAW0939,549 Juniper St,138-172-3094,98000,Pilot,,,Airbus-A350:2019-06-02 Boeing-777:2020-10-25 Boeing-787:2018-03-21 Boeing-737:2019-10-08 Boeing-747:2020-09-22 Airbus-A320:2019-07-17 Airbus-A380:2020-11-06 Boeing-767:2018-12-16
+870-75-9754,Diane Yoder,UAW0940,591 Amberly Pl,301-863-0435,53000,Technician,,Airbus-A380 Boeing-777,
+016-52-9343,Karen Livingston,UAW0941,886 Lexington Ave,017-082-9287,137000,Traffic Controller,2016-03-20,,
+127-14-0523,Dylan Mcclure,UAW0942,518 Meadowlace Ct,694-024-7972,90000,Technician,,Airbus-A320 Boeing-787,
+191-45-8865,Benjamin Poole,UAW0943,636 La Vigna Ln,246-353-3292,142000,Technician,,Airbus-A350 Airbus-A380,
+217-90-5610,Vincent Pittman,UAW0944,368 Fife Pl,450-185-8242,106000,Technician,,Boeing-767 Boeing-777 Boeing-787,
+068-97-3160,Johnny Patterson,UAW0945,862 Montecielo Rd,478-209-5375,65000,Technician,,Airbus-A330 Boeing-777 Boeing-737,
+209-03-4405,Kathy Tanner,UAW0946,386 Val Verde,935-766-6971,83000,Pilot,,,Boeing-777:2020-12-03
+631-46-7646,Gerald Shelton,UAW0947,805 Via Castillo,644-856-1967,120000,Pilot,,,Airbus-A300:2019-09-22 Boeing-777:2018-08-05 Boeing-767:2018-12-25 Boeing-747:2019-06-11 Boeing-737:2019-03-01 Airbus-A350:2019-11-04 Boeing-787:2018-09-06
+938-97-2933,Willie Choi,UAW0948,587 Santa Elena Ln,681-915-4281,49000,Technician,,Airbus-A350 Airbus-A300 Airbus-A380,
+673-79-9823,Adam Cline,UAW0949,553 Meredith Ln,899-760-9170,64000,Pilot,,,Airbus-A330:2020-07-26 Airbus-A300:2018-11-14 Airbus-A350:2017-10-11 Airbus-A380:2019-10-08 Boeing-737:2019-06-26 Boeing-767:2017-10-10 Boeing-787:2018-01-09 Boeing-777:2019-05-23 Boeing-747:2020-12-03
+436-20-0575,Mildred Knight,UAW0950,815 Shadow Hills Blvd N,764-433-2004,111000,Technician,,Boeing-787 Boeing-767 Airbus-A330,
+664-74-4414,Thomas Keller,UAW0951,822 Amberly Pl,188-891-8856,70000,Traffic Controller,2015-11-01,,
+987-95-1538,Stephanie Dorsey,UAW0952,496 Pico Ave,394-409-9664,73000,Pilot,,,Boeing-777:2017-03-20 Airbus-A350:2020-12-14 Boeing-787:2019-06-08 Airbus-A300:2019-12-06
+782-18-9509,Bryan Mullen,UAW0953,156 La Ramada Dr,542-610-5551,67000,Pilot,,,Airbus-A350:2020-06-22 Boeing-737:2020-04-19 Boeing-767:2020-06-01 Boeing-747:2018-07-28 Airbus-A380:2017-01-17 Airbus-A330:2020-04-03 Boeing-787:2020-11-08 Airbus-A320:2018-03-26 Airbus-A300:2019-01-13
+735-27-7373,Richard Hatfield,UAW0954,435 La Josa Rd,552-819-6840,60000,Technician,,Boeing-767,
+794-02-2853,Pamela Lowery,UAW0955,861 Lexington Ave,487-341-4876,70000,Pilot,,,Airbus-A380:2017-10-02 Boeing-777:2018-11-16 Airbus-A320:2018-12-15 Airbus-A350:2019-03-05 Boeing-747:2018-04-04 Airbus-A300:2020-12-22 Boeing-737:2020-12-07 Airbus-A330:2019-03-03 Boeing-787:2019-07-04 Boeing-767:2018-01-16
+341-56-7181,Stephen Gaines,UAW0956,158 W Pear Ave,875-179-5785,103000,Technician,,Airbus-A380,
+400-68-1110,Karen Guerrero,UAW0957,196 Tinker Way,744-689-8948,126000,Traffic Controller,2000-04-21,,
+744-37-3489,Cheryl Archer,UAW0958,235 Lemon Grove Ln,760-561-1883,75000,Pilot,,,Airbus-A320:2019-10-25 Boeing-767:2018-04-20 Boeing-737:2019-01-18
+050-13-8813,Daniel Dunn,UAW0959,873 Chilmark Ln,615-321-9987,52000,Pilot,,,Boeing-777:2020-07-11 Airbus-A350:2018-05-21 Airbus-A380:2019-02-09 Airbus-A330:2018-01-09 Boeing-787:2018-11-27 Boeing-767:2017-06-07 Airbus-A320:2019-04-18
+190-56-5509,Judy Spence,UAW0960,686 Eucalyptus Hill Dr,469-555-3688,80000,Pilot,,,Boeing-737:2019-11-13 Airbus-A320:2020-02-09 Boeing-777:2019-12-20
+332-46-1475,Joyce Delgado,UAW0961,223 Jayton Ave,139-516-0246,62000,Technician,,Airbus-A380,
+874-33-2718,Samantha Valencia,UAW0962,311 Knoll Cir Dr,183-158-2124,133000,Pilot,,,Boeing-747:2020-05-16 Boeing-767:2017-11-25 Boeing-777:2020-11-20 Airbus-A300:2017-03-10 Boeing-737:2017-06-09
+187-48-4106,Kathleen Tanner,UAW0963,170 W Fesler St,614-998-8414,102000,Pilot,,,Airbus-A300:2017-12-03 Airbus-A380:2017-03-16 Boeing-787:2019-02-20 Airbus-A320:2020-09-23 Boeing-747:2018-04-28 Boeing-777:2020-12-21
+888-31-6386,Charles Grimes,UAW0964,848 E Tunnell St,959-805-6416,74000,Pilot,,,Airbus-A320:2017-08-04 Boeing-767:2019-08-25 Airbus-A380:2020-02-05 Boeing-747:2019-01-11 Boeing-737:2018-01-16 Airbus-A330:2020-06-21
+108-90-1451,Carolyn Smith,UAW0965,268 Avon Ln,658-140-8946,118000,Traffic Controller,2009-08-05,,
+092-17-5644,Zachary Gray,UAW0966,976 Lincoln St,051-440-1420,62000,Pilot,,,Boeing-737:2020-12-13 Boeing-747:2018-01-10 Boeing-777:2020-04-16 Boeing-787:2017-06-07 Airbus-A350:2019-03-05 Airbus-A330:2020-02-17
+775-22-4651,Margaret Hopkins,UAW0967,347 Vincenti Pl,253-129-3912,108000,Pilot,,,Boeing-787:2020-02-05 Airbus-A300:2020-09-21 Airbus-A380:2019-12-15 Boeing-747:2017-09-15
+337-21-7257,Jennifer Friedman,UAW0968,234 Victoria Pl,533-977-4499,56000,Technician,,Airbus-A330 Airbus-A300,
+659-72-1070,Jean Wells,UAW0969,889 Arden Ave,372-526-0368,75000,Technician,,Airbus-A330 Airbus-A300,
+803-01-4403,Steven Frost,UAW0970,540 Jerry Ln,518-117-8401,88000,Pilot,,,Airbus-A330:2019-12-16 Boeing-747:2018-12-02
+623-12-5411,Samantha Bowman,UAW0971,665 Clover Ln,025-104-9005,134000,Technician,,Airbus-A330,
+702-22-2712,Willie Faulkner,UAW0972,990 Via Dichosa,475-984-2610,109000,Traffic Controller,2013-03-03,,
+292-10-9102,Christian Weber,UAW0973,363 E Padre St,192-803-5816,104000,Technician,,Airbus-A320,
+408-62-0362,Catherine Burns,UAW0974,136 Mora Ave,831-354-2798,57000,Traffic Controller,2016-12-26,,
+207-33-7703,Thomas Oconnell,UAW0975,331 Essex Ct,776-942-1492,118000,Pilot,,,Airbus-A380:2017-08-04 Airbus-A320:2020-03-11 Airbus-A300:2017-08-24 Airbus-A350:2018-02-28
+338-83-6303,Diane Watkins,UAW0976,931 Miramonte Ave,221-753-7904,47000,Pilot,,,Boeing-747:2018-02-05 Airbus-A300:2020-03-13 Airbus-A320:2017-03-11 Boeing-737:2018-11-18
+447-80-5790,Andrew Rollins,UAW0977,785 Santa Elena Ln,870-428-2100,91000,Technician,,Airbus-A380 Airbus-A330 Airbus-A320 Boeing-767 Boeing-777,
+897-49-1333,Shirley Hancock,UAW0978,147 E Guava Ave,659-400-1908,49000,Pilot,,,Boeing-777:2019-09-18 Boeing-747:2020-03-23 Airbus-A300:2020-03-20 Boeing-737:2019-01-23 Boeing-787:2020-04-25 Airbus-A350:2017-03-25
+049-18-8679,Peter Salinas,UAW0979,187 La Patera Pl,812-050-6602,78000,Technician,,Boeing-747,
+932-90-8175,Ryan Hughes,UAW0980,985 Garrett St,335-175-5540,75000,Traffic Controller,2016-06-26,,
+863-12-2025,Kimberly Levy,UAW0981,834 E Cypress Ave,384-965-3928,86000,Pilot,,,Boeing-767:2018-06-16 Airbus-A320:2020-04-20 Airbus-A380:2019-11-03 Boeing-777:2020-11-25
+431-72-3440,Jesse Benitez,UAW0982,600 E Mcelhany Ave,011-790-0207,111000,Pilot,,,Boeing-787:2019-08-05 Boeing-737:2018-03-22 Airbus-A320:2020-08-01 Airbus-A380:2017-06-16 Boeing-767:2018-10-18
+613-64-1614,Ralph Mitchell,UAW0983,751 Sunrise Way,486-876-8286,106000,Technician,,Boeing-777,
+145-96-7331,Bruce Hensley,UAW0984,857 Francine Ln,509-273-7470,139000,Pilot,,,Boeing-777:2017-03-02 Airbus-A380:2019-07-25 Boeing-767:2018-11-12 Boeing-747:2018-09-16 Boeing-737:2019-09-08 Airbus-A300:2018-10-21 Boeing-787:2018-08-19 Airbus-A320:2018-02-18 Airbus-A350:2019-01-15 Airbus-A330:2018-12-07
+135-05-1992,Brian Williams,UAW0985,814 Frances St,298-006-2651,135000,Technician,,Airbus-A330 Boeing-747 Airbus-A380,
+328-36-4444,Christopher Heath,UAW0986,229 Venice Ln,454-541-4950,73000,Pilot,,,Airbus-A300:2019-02-01 Boeing-777:2017-12-20 Airbus-A330:2020-06-09 Boeing-787:2018-09-04 Airbus-A320:2018-10-19 Boeing-767:2017-03-02
+391-31-9018,Cynthia Carey,UAW0987,702 Catalpa St,540-249-2899,146000,Pilot,,,Boeing-767:2018-02-20 Airbus-A320:2020-01-03 Airbus-A380:2017-03-03 Boeing-787:2020-10-10 Airbus-A300:2020-03-05 Airbus-A330:2018-11-12
+701-18-1348,Elizabeth Nguyen,UAW0988,646 Laurel Ave,692-662-5301,146000,Technician,,Airbus-A350 Airbus-A380 Boeing-787,
+525-15-8395,Ruth Hale,UAW0989,344 Valdez Ave,045-680-8077,85000,Traffic Controller,2003-03-17,,
+384-83-9932,Victoria Gordon,UAW0990,918 Via Carisma,881-463-3609,62000,Pilot,,,Airbus-A350:2020-01-17 Boeing-737:2018-05-09 Airbus-A380:2018-01-26 Boeing-777:2018-06-16 Airbus-A320:2017-03-16 Boeing-767:2017-01-20 Airbus-A300:2017-09-22 Boeing-747:2020-12-17
+534-68-4340,Roy Roy,UAW0991,962 Goldsmith Ct,244-257-0350,109000,Pilot,,,Boeing-787:2017-11-27 Boeing-747:2017-05-12 Boeing-767:2017-03-08 Airbus-A320:2017-05-08 Airbus-A300:2017-01-13 Airbus-A330:2017-11-28
+180-43-3770,Juan Farley,UAW0992,171 Pacific Oaks Rd,513-369-4811,97000,Pilot,,,Airbus-A350:2019-10-26 Boeing-767:2019-04-13 Boeing-787:2019-06-11 Airbus-A320:2020-11-11
+087-87-5149,Gloria Bell,UAW0993,696 Donald Way,627-499-4427,130000,Traffic Controller,2003-02-27,,
+810-68-6456,Juan Payne,UAW0994,320 Fellowship Ln,693-124-7551,88000,Technician,,Airbus-A350 Boeing-747,
+098-20-3359,Noah Robbins,UAW0995,172 El Acebo,181-035-9136,136000,Traffic Controller,2002-08-22,,
+298-67-4073,Megan Garcia,UAW0996,328 E Mission St,850-110-8890,52000,Technician,,Boeing-787 Airbus-A350 Airbus-A320 Airbus-A380 Airbus-A300,
+269-71-6896,Sara David,UAW0997,258 Fairway Pl,979-608-5412,50000,Traffic Controller,2005-11-22,,
+325-08-4481,Benjamin Sanders,UAW0998,836 W Ortega St,543-067-1974,148000,Pilot,,,Airbus-A320:2020-05-01 Boeing-737:2018-08-03 Airbus-A350:2020-08-09 Boeing-767:2019-04-14 Boeing-747:2017-04-28 Boeing-777:2017-05-19 Airbus-A330:2020-03-06
+785-11-5182,Steven Nixon,UAW0999,540 Juniper Walk - University Of California Santa Barbara,740-149-7748,139000,Technician,,Boeing-747 Boeing-787,
+063-54-8744,Susan Arias,UAW1000,339 Sora Ct,079-199-7016,85000,Traffic Controller,2016-11-22,,
