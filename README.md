@@ -1,13 +1,12 @@
 # Airport Database
 
 
-1. A create.sql file that creates all of your tables. A minimal example file is provided for you. Make sure all possible constraints from the ER diagram are reflected into table definitions. If you can’t express a constraint from the ER diagram, write a short comment at the top of this file explaining why.
+1. A create.sql file that creates all of your tables. A minimal example file is provided for you. Make sure all possible constraints from the ER diagram are reflected into table definitions.
 
-2. A data insert.py file that inserts values into your tables. We will provide most of the Python code for this but you will need to fill in the missing parts with your own ”INSERT” SQL statements to match the tables you created in step (1). We will also provide you with a set of CSV data files to insert into your database for testing. We will be grading your queries against this data.
-To run the python script, open a Command Line or Command Prompt. Navigate to the directory containing the data insert.py file. Make sure that all the provided data CSV files are in the same directory. Then run the command:
-python data input.py
+2. A data insert.py file that inserts values from CSV files into your tables. 
 
-3. A single SQL file for each of the following queries. Name them a.sql, b.sql... etc. The order of the columns for the output for each query is described in parenthesis like so: (the, columns, should, be, in, this, order)
+3. A single SQL file for each of the following queries. Name them a.sql, b.sql... etc. 
+
   - (a). Get the flight number, arrival time, and departure time of all flights flying either from, or to, LAX. (flight no, arrival, departure)
   
   - (b). Find the average salary of the pilots. (avg salary)
