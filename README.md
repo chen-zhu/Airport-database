@@ -1,5 +1,4 @@
-# Airport-database-
-MySQL, #database
+
 1. A create.sql file that creates all of your tables. A minimal example file is provided for you. Make sure all possible constraints from the ER diagram are reflected into table definitions. If you can’t express a constraint from the ER diagram, write a short comment at the top of this file explaining why.
 
 2. A data insert.py file that inserts values into your tables. We will provide most of the Python code for this but you will need to fill in the missing parts with your own ”INSERT” SQL statements to match the tables you created in step (1). We will also provide you with a set of CSV data files to insert into your database for testing. We will be grading your queries against this data.
